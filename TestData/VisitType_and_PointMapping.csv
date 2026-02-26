@@ -1,0 +1,50 @@
+Visit Type,Visit Points
+New Patient,2
+Return Visit,1.5
+Urgent,1.5
+Inmates,2
+Return Contact Lens,1.5
+Specialty Lens Fitting,1.5
+Post-Op 1 Day,1
+Post-Op,1
+New Contact Lens,2
+Botox,2
+New Neuro-Opthalmology,2
+Return Neuro,1.5
+Studies Only-Ophthalmology,1.5
+Laser,2
+New Cataract Evaluation,3
+Tech Only,1.5
+Post-Op Month,1
+Injection,2
+New Visual Field,3
+New Adult Eye Patient,2
+New Lasik,2
+Return Visual Field,1.5
+Procedure,2
+Visual Acuity,1.5
+New Cataract,3
+New Glaucoma,3
+Dry Eye Consult,3
+New Cornea,2
+Procedure (With Copay),2
+Complete Eye Exam,2
+Cosmetic,2
+Cpc,2
+New Cicatricial Pemphigoid,2
+New Tumor,3
+Injection-Retina,2
+Return Uveitis,1.5
+Return Long,1.5
+New Uveitis,2
+Driving Eval,1
+New Photodynamic Therapy,2
+Return Tumor,1.5
+Return Photodynamic Therapy,1.5
+New Nicu Baby,2
+Evaluation,2
+Surgical Work Up,2
+Return Dry Eye,1.5
+Minor Room,2
+Office Visit,2
+,23211.5
