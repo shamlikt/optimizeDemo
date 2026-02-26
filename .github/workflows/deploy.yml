@@ -1,0 +1,56 @@
+name: Deploy to Production
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    name: Deploy OptimizeFlow
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.2.0
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script_stop: true
+          script: |
+            set -e
+            APP_DIR="/home/optimize/optimizeFlow"
+
+            # Clone or pull latest code
+            if [ -d "$APP_DIR/.git" ]; then
+              echo "Pulling latest changes..."
+              cd "$APP_DIR"
+              git fetch origin main
+              git reset --hard origin/main
+            else
+              echo "Cloning repository..."
+              git clone https://github.com/shamlikt/optimizeDemo.git "$APP_DIR"
+              cd "$APP_DIR"
+            fi
+
+            # Ensure .env.production exists
+            if [ ! -f "$APP_DIR/.env.production" ]; then
+              echo "ERROR: .env.production not found!"
+              echo "Copy .env.production.example to .env.production and configure it."
+              exit 1
+            fi
+
+            # Build and deploy with Docker Compose
+            echo "Building and deploying..."
+            cd "$APP_DIR"
+            docker compose -f docker-compose.prod.yml down
+            docker compose -f docker-compose.prod.yml up --build -d
+
+            # Wait for health check
+            echo "Waiting for services to be healthy..."
+            sleep 10
+
+            # Check container status
+            docker compose -f docker-compose.prod.yml ps
+
+            echo "Deployment complete!"
