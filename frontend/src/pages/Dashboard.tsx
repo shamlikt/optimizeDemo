@@ -2,10 +2,10 @@ import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { format } from 'date-fns';
 import {
-  ChevronDown,
   TrendingUp,
 } from 'lucide-react';
 import { Card } from '../components/ui/Card';
+import { Select } from '../components/ui/Select';
 import { TechPointsOverview } from '../components/charts/TechPointsOverview';
 import { GrowthSparkline } from '../components/charts/GrowthSparkline';
 import { LocationTable } from '../components/features/LocationTable';
@@ -93,33 +93,31 @@ export default function Dashboard() {
                   </p>
                 </div>
                 <div className="flex items-center gap-2">
-                  {/* Location count selector */}
-                  <div className="relative">
-                    <select
+                  <div className="w-[120px]">
+                    <Select
+                      size="sm"
+                      options={[
+                        { value: 1, label: '1 Location' },
+                        { value: 2, label: '2 Locations' },
+                        { value: 3, label: '3 Locations' },
+                        { value: 5, label: '5 Locations' },
+                      ]}
                       value={locationCount}
                       onChange={(e) => setLocationCount(Number(e.target.value))}
-                      className="appearance-none bg-white border border-[#E5E7EB] rounded-lg px-3 py-1.5 pr-7 text-xs text-[#475569] focus:outline-none focus:ring-2 focus:ring-[#4F46E5] focus:border-transparent"
-                    >
-                      <option value={1}>1 Location</option>
-                      <option value={2}>2 Locations</option>
-                      <option value={3}>3 Locations</option>
-                      <option value={5}>5 Locations</option>
-                    </select>
-                    <ChevronDown size={12} className="absolute right-2 top-1/2 -translate-y-1/2 text-[#94A3B8] pointer-events-none" />
+                    />
                   </div>
-                  {/* Days selector */}
-                  <div className="relative">
-                    <select
+                  <div className="w-[100px]">
+                    <Select
+                      size="sm"
+                      options={[
+                        { value: 7, label: '7 days' },
+                        { value: 10, label: '10 days' },
+                        { value: 14, label: '14 days' },
+                        { value: 30, label: '30 days' },
+                      ]}
                       value={trendDays}
                       onChange={(e) => setTrendDays(Number(e.target.value))}
-                      className="appearance-none bg-white border border-[#E5E7EB] rounded-lg px-3 py-1.5 pr-7 text-xs text-[#475569] focus:outline-none focus:ring-2 focus:ring-[#4F46E5] focus:border-transparent"
-                    >
-                      <option value={7}>7 days</option>
-                      <option value={10}>10 days</option>
-                      <option value={14}>14 days</option>
-                      <option value={30}>30 days</option>
-                    </select>
-                    <ChevronDown size={12} className="absolute right-2 top-1/2 -translate-y-1/2 text-[#94A3B8] pointer-events-none" />
+                    />
                   </div>
                 </div>
               </div>

@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Search, MapPin, X } from 'lucide-react';
+import { Input } from '../ui/Input';
 import type { Location } from '../../types';
 
 interface LocationSidebarProps {
@@ -71,22 +72,16 @@ export function LocationSidebar({
         <p className="text-[13px] text-[#475569] mb-3">
           Select location to view reports
         </p>
-        <div className="relative">
-          <Search
-            size={16}
-            className="absolute left-3 top-1/2 -translate-y-1/2 text-[#94A3B8]"
-          />
-          <input
-            type="text"
-            placeholder="Search location"
-            value={search}
-            onChange={(e) => {
-              setSearch(e.target.value);
-              setShowAll(false);
-            }}
-            className="w-full pl-9 pr-3 h-9 text-[13px] border border-[#E5E7EB] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#4F46E5] focus:border-transparent placeholder:text-[#94A3B8] min-h-[36px]"
-          />
-        </div>
+        <Input
+          placeholder="Search location"
+          value={search}
+          onChange={(e) => {
+            setSearch(e.target.value);
+            setShowAll(false);
+          }}
+          leftIcon={<Search size={16} />}
+          className="!min-h-[36px] !py-1.5 !text-[13px]"
+        />
       </div>
 
       {/* Locations label - uppercase micro style */}

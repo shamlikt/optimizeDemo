@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import { format } from 'date-fns';
-import { Search, ChevronDown, MapPin, BarChart3, Calendar, Users, Table2 } from 'lucide-react';
+import { Search, MapPin, BarChart3, Calendar, Users, Table2 } from 'lucide-react';
 import { LocationSidebar } from '../components/layout/LocationSidebar';
 import { TechPointsBarChart } from '../components/charts/TechPointsBarChart';
 import { MonthlyTechPointsChart } from '../components/charts/MonthlyTechPointsChart';
@@ -9,6 +9,8 @@ import { ProviderPointsChart } from '../components/charts/ProviderPointsChart';
 import { FTEComparisonChart } from '../components/charts/FTEComparisonChart';
 import { WeeklyPointsGrid } from '../components/charts/WeeklyPointsGrid';
 import { LoadingSpinner } from '../components/ui/LoadingSpinner';
+import { Select } from '../components/ui/Select';
+import { Input } from '../components/ui/Input';
 import { useLocations } from '../hooks/useDashboard';
 import {
   useTechPointsByLocation,
@@ -19,7 +21,7 @@ import {
 } from '../hooks/useReports';
 import type { ReportType } from '../types';
 
-const REPORT_OPTIONS: { value: ReportType; label: string }[] = [
+const REPORT_OPTIONS = [
   { value: 'tech_points_by_location', label: 'Tech Points by Location' },
   { value: 'monthly_tech_points', label: 'Tech Points by Monthly Tech Point by Location' },
   { value: 'scheduled_points_by_provider', label: 'Scheduled Points by Provider (5.1 - 5.5)' },
@@ -44,6 +46,15 @@ const WEEK_OPTIONS = [
   { value: 4, label: 'Week 4' },
   { value: 5, label: 'Week 5' },
   { value: 6, label: 'Week 6' },
+];
+
+const TARGET_OPTIONS = [
+  { value: 5, label: '5' },
+  { value: 8, label: '8' },
+  { value: 10, label: '10' },
+  { value: 12, label: '12' },
+  { value: 15, label: '15' },
+  { value: 20, label: '20' },
 ];
 
 /* Reusable pill legend component */
@@ -165,46 +176,21 @@ export default function Reports() {
                   <LegendPill color="#A5B4FC" label="Afternoon" />
                 </div>
                 {/* Target dropdown */}
-                <div className="relative">
-                  <label className="text-[11px] text-[#94A3B8] block mb-0.5">
-                    Target line
-                  </label>
-                  <select
+                <div className="w-[80px]">
+                  <Select
+                    size="sm"
+                    options={TARGET_OPTIONS}
                     value={target}
                     onChange={(e) => setTarget(Number(e.target.value))}
-                    className="appearance-none bg-white border border-[#E5E7EB] rounded-lg px-3 h-9 pr-8 text-[13px] text-[#475569] focus:outline-none focus:ring-2 focus:ring-[#4F46E5]"
-                  >
-                    <option value={5}>5</option>
-                    <option value={8}>8</option>
-                    <option value={10}>10</option>
-                    <option value={12}>12</option>
-                    <option value={15}>15</option>
-                    <option value={20}>20</option>
-                  </select>
-                  <ChevronDown
-                    size={14}
-                    className="absolute right-2.5 bottom-2.5 text-[#94A3B8] pointer-events-none"
                   />
                 </div>
                 {/* Time range */}
-                <div className="relative">
-                  <label className="text-[11px] text-[#94A3B8] block mb-0.5">
-                    &nbsp;
-                  </label>
-                  <select
+                <div className="w-[130px]">
+                  <Select
+                    size="sm"
+                    options={TIME_RANGE_OPTIONS}
                     value={timeRange}
                     onChange={(e) => setTimeRange(e.target.value as 'one_week' | 'four_weeks')}
-                    className="appearance-none bg-white border border-[#E5E7EB] rounded-lg px-3 h-9 pr-8 text-[13px] text-[#475569] focus:outline-none focus:ring-2 focus:ring-[#4F46E5]"
-                  >
-                    {TIME_RANGE_OPTIONS.map((opt) => (
-                      <option key={opt.value} value={opt.value}>
-                        {opt.label}
-                      </option>
-                    ))}
-                  </select>
-                  <ChevronDown
-                    size={14}
-                    className="absolute right-2.5 bottom-2.5 text-[#94A3B8] pointer-events-none"
                   />
                 </div>
               </div>
@@ -304,17 +290,13 @@ export default function Reports() {
                   <LegendPill color="#A5B4FC" label="Afternoon" />
                 </div>
                 {/* Search bar */}
-                <div className="relative">
-                  <Search
-                    size={14}
-                    className="absolute left-3 top-1/2 -translate-y-1/2 text-[#94A3B8]"
-                  />
-                  <input
-                    type="text"
+                <div className="w-full sm:w-[200px]">
+                  <Input
                     placeholder="Search providers..."
                     value={providerSearch}
                     onChange={(e) => setProviderSearch(e.target.value)}
-                    className="pl-8 pr-3 h-9 text-[13px] border border-[#E5E7EB] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#4F46E5] placeholder:text-[#94A3B8] w-full sm:w-auto"
+                    leftIcon={<Search size={16} />}
+                    className="!min-h-[36px] !py-1.5 !text-[13px]"
                   />
                 </div>
               </div>
@@ -363,38 +345,20 @@ export default function Reports() {
                 Select any two months to compare
               </p>
               <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
-                <div className="relative">
-                  <select
+                <div className="sm:w-[200px]">
+                  <Select
+                    size="sm"
+                    options={MONTH_OPTIONS}
                     value={compareMonth1}
                     onChange={(e) => setCompareMonth1(e.target.value)}
-                    className="appearance-none w-full sm:w-auto bg-white border border-[#E5E7EB] rounded-lg px-3 h-9 pr-8 text-[13px] text-[#475569] focus:outline-none focus:ring-2 focus:ring-[#4F46E5]"
-                  >
-                    {MONTH_OPTIONS.map((opt) => (
-                      <option key={opt.value} value={opt.value}>
-                        {opt.label}
-                      </option>
-                    ))}
-                  </select>
-                  <ChevronDown
-                    size={14}
-                    className="absolute right-2.5 top-1/2 -translate-y-1/2 text-[#94A3B8] pointer-events-none"
                   />
                 </div>
-                <div className="relative">
-                  <select
+                <div className="sm:w-[200px]">
+                  <Select
+                    size="sm"
+                    options={MONTH_OPTIONS}
                     value={compareMonth2}
                     onChange={(e) => setCompareMonth2(e.target.value)}
-                    className="appearance-none w-full sm:w-auto bg-white border border-[#E5E7EB] rounded-lg px-3 h-9 pr-8 text-[13px] text-[#475569] focus:outline-none focus:ring-2 focus:ring-[#4F46E5]"
-                  >
-                    {MONTH_OPTIONS.map((opt) => (
-                      <option key={opt.value} value={opt.value}>
-                        {opt.label}
-                      </option>
-                    ))}
-                  </select>
-                  <ChevronDown
-                    size={14}
-                    className="absolute right-2.5 top-1/2 -translate-y-1/2 text-[#94A3B8] pointer-events-none"
                   />
                 </div>
               </div>
@@ -438,35 +402,22 @@ export default function Reports() {
                   <LegendPill color="#7C3AED" label="Total" />
                 </div>
                 {/* Week dropdown */}
-                <div className="relative">
-                  <select
+                <div className="w-[110px]">
+                  <Select
+                    size="sm"
+                    options={WEEK_OPTIONS}
                     value={selectedWeek}
                     onChange={(e) => setSelectedWeek(Number(e.target.value))}
-                    className="appearance-none bg-white border border-[#E5E7EB] rounded-lg px-3 h-9 pr-8 text-[13px] text-[#475569] focus:outline-none focus:ring-2 focus:ring-[#4F46E5]"
-                  >
-                    {WEEK_OPTIONS.map((opt) => (
-                      <option key={opt.value} value={opt.value}>
-                        {opt.label}
-                      </option>
-                    ))}
-                  </select>
-                  <ChevronDown
-                    size={14}
-                    className="absolute right-2.5 top-1/2 -translate-y-1/2 text-[#94A3B8] pointer-events-none"
                   />
                 </div>
                 {/* Search bar */}
-                <div className="relative">
-                  <Search
-                    size={14}
-                    className="absolute left-3 top-1/2 -translate-y-1/2 text-[#94A3B8]"
-                  />
-                  <input
-                    type="text"
+                <div className="w-full sm:w-[180px]">
+                  <Input
                     placeholder="Search..."
                     value={weeklySearch}
                     onChange={(e) => setWeeklySearch(e.target.value)}
-                    className="pl-8 pr-3 h-9 text-[13px] border border-[#E5E7EB] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#4F46E5] placeholder:text-[#94A3B8] w-full sm:w-auto"
+                    leftIcon={<Search size={16} />}
+                    className="!min-h-[36px] !py-1.5 !text-[13px]"
                   />
                 </div>
               </div>
@@ -539,58 +490,33 @@ export default function Reports() {
         <div className="flex flex-col sm:flex-row sm:items-end gap-4 sm:gap-6 mb-8">
           {/* Select report */}
           <div className="flex-1">
-            <label className="text-[13px] font-medium text-[#475569] block mb-1.5">
-              Select report
-            </label>
-            <div className="relative">
-              <select
-                value={reportType}
-                onChange={(e) => setReportType(e.target.value as ReportType)}
-                className="appearance-none w-full bg-white border border-[#E5E7EB] rounded-lg px-4 h-9 pr-10 text-[14px] font-medium text-[#1E293B] focus:outline-none focus:ring-2 focus:ring-[#4F46E5]"
-              >
-                {REPORT_OPTIONS.map((opt) => (
-                  <option key={opt.value} value={opt.value}>
-                    {opt.label}
-                  </option>
-                ))}
-              </select>
-              <ChevronDown
-                size={16}
-                className="absolute right-3 top-1/2 -translate-y-1/2 text-[#94A3B8] pointer-events-none"
-              />
-            </div>
+            <Select
+              label="Select report"
+              options={REPORT_OPTIONS}
+              value={reportType}
+              onChange={(e) => setReportType(e.target.value as ReportType)}
+              size="sm"
+            />
           </div>
 
           {/* Select month */}
-          <div className="sm:w-[180px]">
-            <label className="text-[13px] font-medium text-[#475569] block mb-1.5">
-              Select Month
-            </label>
-            <div className="relative">
-              {isFTEReport ? (
-                <div className="bg-[#F8FAFC] border border-[#E5E7EB] rounded-lg px-4 h-9 flex items-center text-[14px] text-[#94A3B8]">
+          <div className="sm:w-[200px]">
+            {isFTEReport ? (
+              <div>
+                <label className="block text-[13px] font-medium text-[#475569] mb-1.5">Select Month</label>
+                <div className="bg-[#F8FAFC] border border-[#E2E8F0] rounded-lg px-4 h-9 flex items-center text-[13px] text-[#94A3B8] shadow-sm">
                   N/A
                 </div>
-              ) : (
-                <>
-                  <select
-                    value={selectedMonth}
-                    onChange={(e) => setSelectedMonth(e.target.value)}
-                    className="appearance-none w-full bg-white border border-[#E5E7EB] rounded-lg px-4 h-9 pr-10 text-[14px] text-[#475569] focus:outline-none focus:ring-2 focus:ring-[#4F46E5]"
-                  >
-                    {MONTH_OPTIONS.map((opt) => (
-                      <option key={opt.value} value={opt.value}>
-                        {opt.label}
-                      </option>
-                    ))}
-                  </select>
-                  <ChevronDown
-                    size={16}
-                    className="absolute right-3 top-1/2 -translate-y-1/2 text-[#94A3B8] pointer-events-none"
-                  />
-                </>
-              )}
-            </div>
+              </div>
+            ) : (
+              <Select
+                label="Select Month"
+                options={MONTH_OPTIONS}
+                value={selectedMonth}
+                onChange={(e) => setSelectedMonth(e.target.value)}
+                size="sm"
+              />
+            )}
           </div>
         </div>
 
