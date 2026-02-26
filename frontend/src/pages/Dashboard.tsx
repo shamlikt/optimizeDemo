@@ -18,7 +18,9 @@ export default function Dashboard() {
   // Stats
   const totalLocations = overview?.active_locations ?? allLocations?.length ?? 0;
   const totalAppointments = overview?.total_appointments ?? 0;
-  const avgPointsPerDay = overview?.avg_points_per_day?.toFixed(1) ?? '0.0';
+  const avgPointsPerDay = overview?.avg_points_per_day
+    ? Number(overview.avg_points_per_day).toFixed(1)
+    : '0.0';
 
   // Location trend lines
   const locationColors = [
