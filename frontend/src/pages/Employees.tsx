@@ -1,14 +1,32 @@
 import { useState } from 'react';
 import { Users, Plus, Search, Edit2 } from 'lucide-react';
-import { useQuery } from '@tanstack/react-query';
+import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import { Card } from '../components/ui/Card';
 import { Button } from '../components/ui/Button';
 import { Badge } from '../components/ui/Badge';
+import { Input } from '../components/ui/Input';
+import { Select } from '../components/ui/Select';
+import { Modal } from '../components/ui/Modal';
 import { LoadingSpinner } from '../components/ui/LoadingSpinner';
 import { usersApi } from '../services/api';
 
+const ROLE_OPTIONS = [
+  { value: 'clinic_admin', label: 'Admin' },
+  { value: 'clinic_manager', label: 'Manager' },
+];
+
 export default function Employees() {
   const [search, setSearch] = useState('');
+  const [showAddModal, setShowAddModal] = useState(false);
+  const [formData, setFormData] = useState({
+    email: '',
+    password: '',
+    full_name: '',
+    role: 'clinic_manager',
+  });
+  const [formError, setFormError] = useState('');
+
+  const queryClient = useQueryClient();
 
   const { data: allUsers = [], isLoading } = useQuery({
     queryKey: ['users'],
@@ -24,6 +42,34 @@ export default function Employees() {
       u.email.toLowerCase().includes(search.toLowerCase()) ||
       u.role.toLowerCase().includes(search.toLowerCase())
   );
+
+  const createUserMutation = useMutation({
+    mutationFn: usersApi.create,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['users'] });
+      setShowAddModal(false);
+      setFormData({ email: '', password: '', full_name: '', role: 'clinic_manager' });
+      setFormError('');
+    },
+    onError: (error: any) => {
+      const message = error.response?.data?.detail || 'Failed to create user';
+      setFormError(message);
+    },
+  });
+
+  const handleAddUser = () => {
+    setFormError('');
+    if (!formData.email.trim() || !formData.password.trim()) {
+      setFormError('Email and password are required');
+      return;
+    }
+    createUserMutation.mutate({
+      email: formData.email.trim(),
+      password: formData.password,
+      full_name: formData.full_name.trim() || undefined,
+      role: formData.role,
+    });
+  };
 
   const roleLabel = (role: string) => {
     switch (role) {
@@ -45,8 +91,71 @@ export default function Employees() {
             Manage your team members and their roles
           </p>
         </div>
-        <Button leftIcon={<Plus size={16} />}>Add User</Button>
+        <Button leftIcon={<Plus size={16} />} onClick={() => setShowAddModal(true)}>
+          Add User
+        </Button>
       </div>
+
+      {/* Add User Modal */}
+      <Modal
+        isOpen={showAddModal}
+        onClose={() => {
+          setShowAddModal(false);
+          setFormError('');
+          createUserMutation.reset();
+        }}
+        title="Add New User"
+      >
+        <div className="space-y-4">
+          <Input
+            label="Full Name"
+            placeholder="John Doe"
+            value={formData.full_name}
+            onChange={(e) => setFormData((p) => ({ ...p, full_name: e.target.value }))}
+          />
+          <Input
+            label="Email"
+            type="email"
+            placeholder="user@example.com"
+            value={formData.email}
+            onChange={(e) => setFormData((p) => ({ ...p, email: e.target.value }))}
+          />
+          <Input
+            label="Password"
+            type="password"
+            placeholder="Enter a password"
+            value={formData.password}
+            onChange={(e) => setFormData((p) => ({ ...p, password: e.target.value }))}
+          />
+          <Select
+            label="Role"
+            options={ROLE_OPTIONS}
+            value={formData.role}
+            onChange={(e) => setFormData((p) => ({ ...p, role: e.target.value }))}
+          />
+          {formError && (
+            <p className="text-sm text-[#EF4444]">{formError}</p>
+          )}
+          <div className="flex justify-end gap-3 pt-2">
+            <Button
+              variant="ghost"
+              onClick={() => {
+                setShowAddModal(false);
+                setFormError('');
+                createUserMutation.reset();
+              }}
+            >
+              Cancel
+            </Button>
+            <Button
+              onClick={handleAddUser}
+              isLoading={createUserMutation.isPending}
+            >
+              Create User
+            </Button>
+          </div>
+        </div>
+      </Modal>
 
       {/* Search */}
       <Card className="mb-6">
