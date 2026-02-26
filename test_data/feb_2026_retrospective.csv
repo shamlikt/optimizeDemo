@@ -1,0 +1,913 @@
+Location,Rooming Tech,Provider,Specialty,Patient Encounter Number,Appt Date,Appt Time,Session,Visit Type,Check In,Day of Week
+Page Road Eye Center,David L.,Dr. Jones,Oculoplastics,200001,02/02/2026,9:45,AM,Evaluation,Front Desk B,Monday
+Main Campus - West,Tom V.,Dr. White,Neuro-Ophthalmology,200002,02/02/2026,7:45,AM,New Visual Field,Reception 1,Monday
+Greensboro,Robert C.,Dr. Martin,Glaucoma,200003,02/02/2026,9:30,AM,New Cornea,Reception 3,Monday
+Main Campus - West,Chris B.,Dr. Brown,Glaucoma,200004,02/02/2026,7:45,AM,Injection,Front Desk C,Monday
+Main Campus - East,Robert C.,Dr. Thomas,Glaucoma,200005,02/02/2026,13:45,PM,New Patient,Reception 3,Monday
+Raleigh,Mike T.,Dr. Williams,Ophthalmology,200006,02/02/2026,15:15,PM,Laser,Reception 1,Monday
+Main Campus - West,Laura Z.,Dr. Garcia,Retina,200007,02/02/2026,8:45,AM,New Patient,Front Desk B,Monday
+Page Road Eye Center,Robert C.,Dr. Taylor,Glaucoma,200008,02/02/2026,14:00,PM,Return Visual Field,Reception 3,Monday
+Hickory,Emily W.,Dr. Thompson,Pediatric Ophthalmology,200009,02/02/2026,15:45,PM,Evaluation,Reception 3,Monday
+Main Campus - East,Kelly S.,Dr. Anderson,Cornea,200010,02/02/2026,12:45,PM,Return Visit,Front Desk D,Monday
+Greensboro,Steve G.,Dr. White,Cornea,200011,02/02/2026,15:45,PM,Post-Op,Front Desk B,Monday
+Page Road Eye Center,Kevin J.,Dr. Taylor,Retina,200012,02/02/2026,15:30,PM,Studies Only-Ophthalmology,Front Desk D,Monday
+Wilmington,Nicole F.,Dr. White,Oculoplastics,200013,02/02/2026,7:00,AM,New Cataract,Reception 1,Monday
+Page Road Eye Center,Diana A.,Dr. Robinson,Optometry,200014,02/02/2026,9:00,AM,Visual Acuity,Front Desk A,Monday
+Main Campus - East,Paul E.,Dr. Wilson,Retina,200015,02/02/2026,16:45,PM,Studies Only-Ophthalmology,Front Desk D,Monday
+Main Campus - West,Lisa R.,Dr. Wilson,Oculoplastics,200016,02/02/2026,12:00,PM,Complete Eye Exam,Front Desk D,Monday
+Main Campus - South,Mike T.,Dr. Moore,Retina,200017,02/02/2026,15:30,PM,Minor Room,Front Desk C,Monday
+Wilmington,Paul E.,Dr. Robinson,Optometry,200018,02/02/2026,15:45,PM,Return Visit,Front Desk B,Monday
+Main Campus - East,Paul E.,Dr. White,Retina,200019,02/02/2026,16:45,PM,Complete Eye Exam,Front Desk C,Monday
+Raleigh,Kelly S.,Dr. Williams,Optometry,200020,02/02/2026,9:00,AM,Office Visit,Reception 2,Monday
+Raleigh,Kelly S.,Dr. Robinson,Optometry,200021,02/02/2026,8:00,AM,New Cataract Evaluation,Reception 2,Monday
+Page Road Eye Center,Brian D.,Dr. Harris,Oculoplastics,200022,02/02/2026,12:30,PM,Return Contact Lens,Front Desk D,Monday
+Main Campus - South,Lisa R.,Dr. Thomas,Glaucoma,200023,02/02/2026,15:45,PM,Tech Only,Reception 2,Monday
+Hickory,Diana A.,Dr. Jones,Cornea,200024,02/02/2026,11:00,AM,Post-Op Month,Reception 1,Monday
+Main Campus - West,Lisa R.,Dr. Robinson,Oculoplastics,200025,02/02/2026,15:30,PM,Post-Op,Front Desk D,Monday
+Raleigh,Tom V.,Dr. Moore,Oculoplastics,200026,02/02/2026,7:30,AM,Injection-Retina,Front Desk B,Monday
+Greensboro,Emily W.,Dr. Garcia,Glaucoma,200027,02/02/2026,9:15,AM,New Patient,Front Desk A,Monday
+Hickory,Mike T.,Dr. Smith,Neuro-Ophthalmology,200028,02/02/2026,14:45,PM,Injection,Reception 1,Monday
+Statesville,Rachel N.,Dr. Davis,Neuro-Ophthalmology,200029,02/02/2026,13:30,PM,Return Tumor,Front Desk A,Monday
+Hickory,Sarah M.,Dr. Martin,Pediatric Ophthalmology,200030,02/02/2026,14:00,PM,Urgent,Reception 1,Monday
+Asheville,James K.,Dr. Martin,Cornea,200031,02/02/2026,7:00,AM,Tech Only,Front Desk A,Monday
+Main Campus - South,Rachel N.,Dr. Thompson,Neuro-Ophthalmology,200032,02/02/2026,12:15,PM,Return Visit,Front Desk D,Monday
+Asheville,Tom V.,Dr. Thompson,Pediatric Ophthalmology,200033,02/02/2026,9:15,AM,New Cataract Evaluation,Reception 2,Monday
+Page Road Eye Center,Sarah M.,Dr. Jackson,Glaucoma,200034,02/02/2026,10:45,AM,Office Visit,Reception 2,Monday
+Main Campus - West,Jennifer P.,Dr. Davis,Glaucoma,200035,02/02/2026,11:00,AM,Return Contact Lens,Front Desk A,Monday
+Charlotte,Laura Z.,Dr. Taylor,Pediatric Ophthalmology,200036,02/02/2026,13:45,PM,Return Long,Reception 2,Monday
+Raleigh,Kelly S.,Dr. Brown,Pediatric Ophthalmology,200037,02/02/2026,9:30,AM,Office Visit,Front Desk C,Monday
+Main Campus - East,Kevin J.,Dr. Martinez,Ophthalmology,200038,02/02/2026,11:15,AM,Injection,Front Desk B,Monday
+Asheville,Tom V.,Dr. Johnson,Pediatric Ophthalmology,200039,02/02/2026,10:00,AM,Post-Op Month,Front Desk A,Monday
+Wilmington,Jennifer P.,Dr. Brown,Oculoplastics,200040,02/02/2026,14:00,PM,Minor Room,Front Desk A,Monday
+Hickory,Brian D.,Dr. Jones,Neuro-Ophthalmology,200041,02/02/2026,15:30,PM,Post-Op,Reception 3,Monday
+Charlotte,Amanda H.,Dr. Brown,Neuro-Ophthalmology,200042,02/02/2026,16:15,PM,Injection-Retina,Front Desk D,Monday
+Asheville,Tom V.,Dr. White,Retina,200043,02/02/2026,15:00,PM,Return Visit,Front Desk B,Monday
+Main Campus - South,Kelly S.,Dr. Brown,Cornea,200044,02/03/2026,9:30,AM,Return Neuro,Front Desk D,Tuesday
+Charlotte,Lisa R.,Dr. Miller,Ophthalmology,200045,02/03/2026,15:30,PM,Return Visit,Front Desk D,Tuesday
+Statesville,Emily W.,Dr. Taylor,Oculoplastics,200046,02/03/2026,9:00,AM,Surgical Work Up,Reception 2,Tuesday
+Wilmington,Diana A.,Dr. Garcia,Glaucoma,200047,02/03/2026,16:15,PM,Return Visit,Front Desk C,Tuesday
+Raleigh,Amanda H.,Dr. Martinez,Pediatric Ophthalmology,200048,02/03/2026,14:30,PM,Tech Only,Front Desk B,Tuesday
+Statesville,Paul E.,Dr. Johnson,Ophthalmology,200049,02/03/2026,11:15,AM,Procedure,Reception 2,Tuesday
+Statesville,Robert C.,Dr. Wilson,Pediatric Ophthalmology,200050,02/03/2026,13:00,PM,Urgent,Reception 2,Tuesday
+Hickory,James K.,Dr. White,Cornea,200051,02/03/2026,12:15,PM,New Cataract Evaluation,Reception 3,Tuesday
+Charlotte,Lisa R.,Dr. Harris,Oculoplastics,200052,02/03/2026,9:15,AM,Injection-Retina,Front Desk C,Tuesday
+Greensboro,Emily W.,Dr. Martin,Glaucoma,200053,02/03/2026,16:30,PM,Return Visit,Front Desk B,Tuesday
+Statesville,Amanda H.,Dr. Martinez,Neuro-Ophthalmology,200054,02/03/2026,7:45,AM,New Cataract Evaluation,Reception 1,Tuesday
+Wilmington,Sarah M.,Dr. Davis,Glaucoma,200055,02/03/2026,11:45,AM,Evaluation,Reception 3,Tuesday
+Wilmington,Tom V.,Dr. Williams,Neuro-Ophthalmology,200056,02/03/2026,14:15,PM,Post-Op 1 Day,Front Desk B,Tuesday
+Main Campus - West,Kevin J.,Dr. Brown,Retina,200057,02/03/2026,13:30,PM,Post-Op,Front Desk B,Tuesday
+Main Campus - South,Amanda H.,Dr. Miller,Optometry,200058,02/03/2026,15:45,PM,Minor Room,Front Desk D,Tuesday
+Page Road Eye Center,Chris B.,Dr. Martinez,Optometry,200059,02/03/2026,7:30,AM,Complete Eye Exam,Reception 1,Tuesday
+Main Campus - West,Tom V.,Dr. Jackson,Cornea,200060,02/03/2026,15:00,PM,New Patient,Reception 2,Tuesday
+Page Road Eye Center,Nicole F.,Dr. Harris,Retina,200061,02/03/2026,14:45,PM,Return Visit,Reception 2,Tuesday
+Asheville,Nicole F.,Dr. Jackson,Neuro-Ophthalmology,200062,02/03/2026,16:15,PM,Evaluation,Reception 1,Tuesday
+Main Campus - West,Nicole F.,Dr. Williams,Cornea,200063,02/03/2026,7:00,AM,Procedure,Reception 3,Tuesday
+Main Campus - West,Rachel N.,Dr. Martinez,Glaucoma,200064,02/03/2026,9:00,AM,Post-Op,Front Desk A,Tuesday
+Raleigh,Lisa R.,Dr. Jackson,Retina,200065,02/03/2026,8:00,AM,Post-Op,Front Desk C,Tuesday
+Hickory,Jennifer P.,Dr. Robinson,Optometry,200066,02/03/2026,12:15,PM,Injection,Front Desk B,Tuesday
+Chapel Hill,Jennifer P.,Dr. Miller,Ophthalmology,200067,02/03/2026,16:15,PM,Post-Op,Front Desk A,Tuesday
+Greensboro,Emily W.,Dr. Jones,Ophthalmology,200068,02/03/2026,7:45,AM,Complete Eye Exam,Front Desk D,Tuesday
+Chapel Hill,Emily W.,Dr. Garcia,Pediatric Ophthalmology,200069,02/03/2026,8:15,AM,Injection,Reception 1,Tuesday
+Asheville,Jennifer P.,Dr. Davis,Neuro-Ophthalmology,200070,02/03/2026,8:15,AM,Post-Op,Front Desk B,Tuesday
+Greensboro,Tom V.,Dr. Williams,Glaucoma,200071,02/03/2026,7:30,AM,Botox,Reception 3,Tuesday
+Main Campus - East,Kelly S.,Dr. Brown,Pediatric Ophthalmology,200072,02/03/2026,14:15,PM,Evaluation,Front Desk C,Tuesday
+Chapel Hill,Sarah M.,Dr. Robinson,Cornea,200073,02/03/2026,14:45,PM,Laser,Front Desk B,Tuesday
+Main Campus - South,David L.,Dr. Martin,Optometry,200074,02/03/2026,8:15,AM,Injection,Reception 2,Tuesday
+Statesville,James K.,Dr. Miller,Neuro-Ophthalmology,200075,02/03/2026,13:15,PM,New Cataract Evaluation,Front Desk C,Tuesday
+Statesville,James K.,Dr. Martinez,Neuro-Ophthalmology,200076,02/03/2026,7:00,AM,Return Visit,Reception 3,Tuesday
+Raleigh,Robert C.,Dr. Anderson,Glaucoma,200077,02/03/2026,16:15,PM,New Cataract,Reception 2,Tuesday
+Greensboro,Steve G.,Dr. Johnson,Cornea,200078,02/03/2026,14:30,PM,Return Dry Eye,Reception 1,Tuesday
+Raleigh,Diana A.,Dr. Williams,Retina,200079,02/03/2026,7:15,AM,Complete Eye Exam,Front Desk C,Tuesday
+Wilmington,Emily W.,Dr. White,Optometry,200080,02/03/2026,13:15,PM,Complete Eye Exam,Reception 1,Tuesday
+Main Campus - East,David L.,Dr. Robinson,Pediatric Ophthalmology,200081,02/03/2026,16:15,PM,Post-Op,Reception 2,Tuesday
+Statesville,David L.,Dr. Wilson,Cornea,200082,02/03/2026,10:00,AM,New Contact Lens,Front Desk C,Tuesday
+Main Campus - West,Brian D.,Dr. Jackson,Retina,200083,02/03/2026,14:00,PM,New Patient,Reception 1,Tuesday
+Chapel Hill,Amanda H.,Dr. Johnson,Optometry,200084,02/03/2026,10:30,AM,Return Visit,Front Desk B,Tuesday
+Main Campus - West,Tom V.,Dr. Wilson,Retina,200085,02/03/2026,16:30,PM,Laser,Front Desk D,Tuesday
+Charlotte,Mike T.,Dr. Miller,Optometry,200086,02/03/2026,16:45,PM,Complete Eye Exam,Reception 2,Tuesday
+Wilmington,Jennifer P.,Dr. Jackson,Retina,200087,02/03/2026,15:15,PM,New Cataract Evaluation,Front Desk A,Tuesday
+Chapel Hill,Diana A.,Dr. Davis,Retina,200088,02/03/2026,13:00,PM,Return Visit,Front Desk B,Tuesday
+Charlotte,Kelly S.,Dr. White,Cornea,200089,02/03/2026,7:30,AM,Complete Eye Exam,Front Desk C,Tuesday
+Page Road Eye Center,Amanda H.,Dr. Williams,Optometry,200090,02/03/2026,13:15,PM,Return Visit,Front Desk D,Tuesday
+Main Campus - South,David L.,Dr. Martinez,Neuro-Ophthalmology,200091,02/03/2026,13:45,PM,New Cataract,Front Desk D,Tuesday
+Main Campus - East,Diana A.,Dr. Robinson,Optometry,200092,02/03/2026,13:15,PM,Post-Op,Front Desk B,Tuesday
+Chapel Hill,Tom V.,Dr. Jones,Glaucoma,200093,02/04/2026,14:00,PM,Driving Eval,Front Desk B,Wednesday
+Page Road Eye Center,Mike T.,Dr. Smith,Cornea,200094,02/04/2026,15:30,PM,Minor Room,Reception 2,Wednesday
+Hickory,Rachel N.,Dr. Harris,Retina,200095,02/04/2026,11:30,AM,Visual Acuity,Reception 1,Wednesday
+Page Road Eye Center,Nicole F.,Dr. Thomas,Oculoplastics,200096,02/04/2026,8:45,AM,Post-Op,Reception 1,Wednesday
+Greensboro,James K.,Dr. Wilson,Pediatric Ophthalmology,200097,02/04/2026,10:00,AM,Laser,Reception 3,Wednesday
+Charlotte,Kevin J.,Dr. Wilson,Optometry,200098,02/04/2026,15:00,PM,Office Visit,Reception 2,Wednesday
+Raleigh,Laura Z.,Dr. Garcia,Optometry,200099,02/04/2026,9:00,AM,Injection-Retina,Reception 2,Wednesday
+Raleigh,Tom V.,Dr. Robinson,Glaucoma,200100,02/04/2026,7:30,AM,Surgical Work Up,Reception 1,Wednesday
+Greensboro,Amanda H.,Dr. Robinson,Ophthalmology,200101,02/04/2026,16:30,PM,Post-Op,Reception 3,Wednesday
+Chapel Hill,Lisa R.,Dr. Martin,Optometry,200102,02/04/2026,12:45,PM,Complete Eye Exam,Front Desk B,Wednesday
+Raleigh,Emily W.,Dr. Wilson,Pediatric Ophthalmology,200103,02/04/2026,9:30,AM,New Patient,Front Desk A,Wednesday
+Statesville,James K.,Dr. Garcia,Neuro-Ophthalmology,200104,02/04/2026,8:30,AM,Driving Eval,Front Desk C,Wednesday
+Hickory,Sarah M.,Dr. White,Cornea,200105,02/04/2026,16:00,PM,New Patient,Reception 2,Wednesday
+Statesville,Amanda H.,Dr. Martinez,Pediatric Ophthalmology,200106,02/04/2026,9:00,AM,Return Long,Reception 1,Wednesday
+Main Campus - West,Kevin J.,Dr. Brown,Cornea,200107,02/04/2026,7:30,AM,Urgent,Front Desk A,Wednesday
+Raleigh,Sarah M.,Dr. Davis,Cornea,200108,02/04/2026,15:15,PM,New Patient,Front Desk A,Wednesday
+Raleigh,Nicole F.,Dr. Martinez,Ophthalmology,200109,02/04/2026,12:15,PM,Evaluation,Front Desk C,Wednesday
+Greensboro,Kelly S.,Dr. Johnson,Cornea,200110,02/04/2026,8:00,AM,Injection-Retina,Reception 3,Wednesday
+Page Road Eye Center,James K.,Dr. Robinson,Optometry,200111,02/04/2026,11:45,AM,New Patient,Front Desk B,Wednesday
+Main Campus - South,Paul E.,Dr. Garcia,Retina,200112,02/04/2026,10:45,AM,Post-Op Month,Front Desk A,Wednesday
+Chapel Hill,Brian D.,Dr. Martinez,Pediatric Ophthalmology,200113,02/04/2026,9:45,AM,New Cataract Evaluation,Reception 2,Wednesday
+Wilmington,Laura Z.,Dr. Williams,Glaucoma,200114,02/04/2026,7:00,AM,Complete Eye Exam,Reception 1,Wednesday
+Statesville,Kevin J.,Dr. Thomas,Ophthalmology,200115,02/04/2026,12:15,PM,Surgical Work Up,Front Desk C,Wednesday
+Main Campus - West,Brian D.,Dr. Anderson,Glaucoma,200116,02/04/2026,8:45,AM,Return Contact Lens,Reception 2,Wednesday
+Asheville,Amanda H.,Dr. Davis,Optometry,200117,02/04/2026,16:30,PM,Office Visit,Front Desk A,Wednesday
+Chapel Hill,Brian D.,Dr. Miller,Glaucoma,200118,02/04/2026,7:00,AM,New Cataract Evaluation,Reception 1,Wednesday
+Chapel Hill,Laura Z.,Dr. Williams,Oculoplastics,200119,02/04/2026,7:15,AM,Return Long,Front Desk A,Wednesday
+Main Campus - West,Kelly S.,Dr. Martinez,Ophthalmology,200120,02/04/2026,7:30,AM,Procedure,Front Desk C,Wednesday
+Greensboro,Paul E.,Dr. Williams,Ophthalmology,200121,02/04/2026,12:00,PM,Post-Op 1 Day,Front Desk C,Wednesday
+Main Campus - West,Lisa R.,Dr. Anderson,Cornea,200122,02/04/2026,13:15,PM,Complete Eye Exam,Reception 1,Wednesday
+Wilmington,James K.,Dr. Anderson,Ophthalmology,200123,02/04/2026,7:15,AM,Office Visit,Front Desk C,Wednesday
+Charlotte,Chris B.,Dr. Taylor,Retina,200124,02/04/2026,13:45,PM,Return Long,Reception 2,Wednesday
+Asheville,Laura Z.,Dr. Johnson,Pediatric Ophthalmology,200125,02/04/2026,14:00,PM,New Cataract Evaluation,Reception 2,Wednesday
+Wilmington,Steve G.,Dr. Miller,Cornea,200126,02/04/2026,12:30,PM,Tech Only,Front Desk D,Wednesday
+Page Road Eye Center,Jennifer P.,Dr. Martinez,Retina,200127,02/04/2026,14:30,PM,Return Contact Lens,Front Desk A,Wednesday
+Asheville,Steve G.,Dr. Harris,Optometry,200128,02/04/2026,16:15,PM,New Patient,Front Desk A,Wednesday
+Greensboro,Chris B.,Dr. Thompson,Glaucoma,200129,02/04/2026,10:45,AM,Post-Op,Reception 2,Wednesday
+Wilmington,Paul E.,Dr. Taylor,Glaucoma,200130,02/04/2026,7:30,AM,Surgical Work Up,Front Desk B,Wednesday
+Page Road Eye Center,Diana A.,Dr. Davis,Glaucoma,200131,02/04/2026,16:45,PM,Post-Op,Front Desk C,Wednesday
+Statesville,Jennifer P.,Dr. Garcia,Ophthalmology,200132,02/04/2026,12:15,PM,Complete Eye Exam,Reception 1,Wednesday
+Greensboro,Lisa R.,Dr. Jackson,Glaucoma,200133,02/04/2026,9:15,AM,Post-Op,Reception 3,Wednesday
+Main Campus - South,Lisa R.,Dr. Jones,Glaucoma,200134,02/04/2026,8:15,AM,Return Visit,Reception 2,Wednesday
+Wilmington,Robert C.,Dr. Davis,Optometry,200135,02/04/2026,11:00,AM,Complete Eye Exam,Reception 2,Wednesday
+Main Campus - South,Diana A.,Dr. Smith,Pediatric Ophthalmology,200136,02/04/2026,14:30,PM,Evaluation,Reception 2,Wednesday
+Greensboro,James K.,Dr. Williams,Glaucoma,200137,02/04/2026,7:45,AM,Complete Eye Exam,Reception 2,Wednesday
+Statesville,Mike T.,Dr. Taylor,Pediatric Ophthalmology,200138,02/04/2026,9:15,AM,Evaluation,Front Desk A,Wednesday
+Statesville,Diana A.,Dr. Jones,Retina,200139,02/04/2026,9:15,AM,New Cataract Evaluation,Front Desk C,Wednesday
+Greensboro,Lisa R.,Dr. Garcia,Retina,200140,02/04/2026,8:45,AM,Laser,Front Desk C,Wednesday
+Charlotte,Diana A.,Dr. Williams,Glaucoma,200141,02/05/2026,7:15,AM,Post-Op 1 Day,Front Desk A,Thursday
+Raleigh,David L.,Dr. Anderson,Optometry,200142,02/05/2026,16:15,PM,Tech Only,Reception 3,Thursday
+Page Road Eye Center,Robert C.,Dr. Martin,Oculoplastics,200143,02/05/2026,7:15,AM,Return Contact Lens,Front Desk D,Thursday
+Main Campus - South,Kelly S.,Dr. Anderson,Oculoplastics,200144,02/05/2026,16:15,PM,Return Visit,Reception 3,Thursday
+Greensboro,Mike T.,Dr. Thomas,Pediatric Ophthalmology,200145,02/05/2026,15:30,PM,Return Visit,Reception 3,Thursday
+Main Campus - South,Sarah M.,Dr. Taylor,Cornea,200146,02/05/2026,11:30,AM,Return Visit,Reception 2,Thursday
+Statesville,Paul E.,Dr. Davis,Cornea,200147,02/05/2026,13:00,PM,New Patient,Reception 3,Thursday
+Wilmington,Rachel N.,Dr. Miller,Glaucoma,200148,02/05/2026,15:30,PM,Injection-Retina,Reception 3,Thursday
+Page Road Eye Center,Robert C.,Dr. Brown,Pediatric Ophthalmology,200149,02/05/2026,7:00,AM,Minor Room,Front Desk D,Thursday
+Hickory,Chris B.,Dr. Jackson,Neuro-Ophthalmology,200150,02/05/2026,14:00,PM,Procedure,Reception 2,Thursday
+Raleigh,Chris B.,Dr. Davis,Retina,200151,02/05/2026,7:45,AM,Botox,Reception 1,Thursday
+Main Campus - East,Rachel N.,Dr. Martin,Oculoplastics,200152,02/05/2026,12:45,PM,Tech Only,Reception 1,Thursday
+Charlotte,James K.,Dr. White,Optometry,200153,02/05/2026,12:00,PM,Post-Op,Front Desk A,Thursday
+Hickory,Jennifer P.,Dr. Wilson,Cornea,200154,02/05/2026,10:00,AM,Office Visit,Front Desk B,Thursday
+Greensboro,Paul E.,Dr. Thompson,Oculoplastics,200155,02/05/2026,13:30,PM,Return Visit,Reception 1,Thursday
+Chapel Hill,Kevin J.,Dr. Johnson,Glaucoma,200156,02/05/2026,13:45,PM,Complete Eye Exam,Reception 3,Thursday
+Asheville,Rachel N.,Dr. Johnson,Neuro-Ophthalmology,200157,02/05/2026,12:15,PM,Return Visit,Reception 2,Thursday
+Asheville,Steve G.,Dr. Davis,Oculoplastics,200158,02/05/2026,13:30,PM,Injection,Reception 1,Thursday
+Main Campus - East,Brian D.,Dr. Harris,Neuro-Ophthalmology,200159,02/05/2026,13:15,PM,Injection-Retina,Front Desk C,Thursday
+Greensboro,James K.,Dr. Jones,Optometry,200160,02/05/2026,10:30,AM,Return Long,Front Desk C,Thursday
+Hickory,Kelly S.,Dr. Jones,Optometry,200161,02/05/2026,15:00,PM,Tech Only,Front Desk B,Thursday
+Main Campus - South,Emily W.,Dr. Thompson,Neuro-Ophthalmology,200162,02/05/2026,8:15,AM,New Patient,Reception 2,Thursday
+Chapel Hill,Laura Z.,Dr. Moore,Ophthalmology,200163,02/05/2026,7:45,AM,Return Visit,Front Desk C,Thursday
+Page Road Eye Center,Chris B.,Dr. Robinson,Retina,200164,02/05/2026,12:00,PM,Injection,Front Desk A,Thursday
+Hickory,Kevin J.,Dr. Johnson,Neuro-Ophthalmology,200165,02/05/2026,16:45,PM,Post-Op,Reception 1,Thursday
+Wilmington,Emily W.,Dr. Williams,Pediatric Ophthalmology,200166,02/05/2026,9:00,AM,Return Visit,Front Desk B,Thursday
+Asheville,Emily W.,Dr. Smith,Glaucoma,200167,02/05/2026,12:45,PM,Office Visit,Front Desk C,Thursday
+Hickory,Steve G.,Dr. Jones,Optometry,200168,02/05/2026,10:30,AM,New Patient,Front Desk A,Thursday
+Main Campus - West,Jennifer P.,Dr. Martin,Ophthalmology,200169,02/05/2026,15:15,PM,Return Uveitis,Reception 2,Thursday
+Asheville,Amanda H.,Dr. Garcia,Glaucoma,200170,02/05/2026,8:00,AM,Return Uveitis,Front Desk C,Thursday
+Main Campus - South,Lisa R.,Dr. Martinez,Cornea,200171,02/05/2026,11:00,AM,Complete Eye Exam,Front Desk D,Thursday
+Page Road Eye Center,Laura Z.,Dr. Robinson,Cornea,200172,02/05/2026,10:30,AM,Minor Room,Reception 1,Thursday
+Main Campus - West,David L.,Dr. Williams,Neuro-Ophthalmology,200173,02/05/2026,16:00,PM,Complete Eye Exam,Front Desk A,Thursday
+Main Campus - East,Mike T.,Dr. Wilson,Pediatric Ophthalmology,200174,02/05/2026,14:45,PM,Return Dry Eye,Front Desk C,Thursday
+Asheville,Kevin J.,Dr. Harris,Oculoplastics,200175,02/05/2026,7:00,AM,Botox,Front Desk C,Thursday
+Main Campus - East,Emily W.,Dr. Robinson,Glaucoma,200176,02/05/2026,9:00,AM,Laser,Reception 3,Thursday
+Chapel Hill,Paul E.,Dr. Thompson,Cornea,200177,02/05/2026,14:00,PM,Office Visit,Front Desk A,Thursday
+Greensboro,Diana A.,Dr. Davis,Neuro-Ophthalmology,200178,02/05/2026,12:15,PM,Specialty Lens Fitting,Front Desk D,Thursday
+Asheville,Laura Z.,Dr. Smith,Pediatric Ophthalmology,200179,02/05/2026,14:15,PM,Return Visual Field,Front Desk B,Thursday
+Hickory,Sarah M.,Dr. Johnson,Oculoplastics,200180,02/05/2026,9:00,AM,Evaluation,Front Desk D,Thursday
+Statesville,Lisa R.,Dr. Brown,Pediatric Ophthalmology,200181,02/05/2026,7:30,AM,Tech Only,Front Desk A,Thursday
+Main Campus - West,Kelly S.,Dr. Jackson,Retina,200182,02/05/2026,14:45,PM,Laser,Front Desk D,Thursday
+Chapel Hill,Kevin J.,Dr. Jackson,Ophthalmology,200183,02/05/2026,9:15,AM,New Cataract Evaluation,Front Desk C,Thursday
+Main Campus - West,Rachel N.,Dr. Taylor,Oculoplastics,200184,02/05/2026,10:15,AM,Return Uveitis,Reception 2,Thursday
+Greensboro,Nicole F.,Dr. Martin,Cornea,200185,02/05/2026,14:30,PM,New Cataract,Front Desk B,Thursday
+Chapel Hill,Brian D.,Dr. Jones,Ophthalmology,200186,02/05/2026,8:15,AM,Complete Eye Exam,Reception 3,Thursday
+Page Road Eye Center,Sarah M.,Dr. Miller,Oculoplastics,200187,02/05/2026,8:30,AM,Return Visit,Reception 2,Thursday
+Greensboro,Mike T.,Dr. Wilson,Neuro-Ophthalmology,200188,02/05/2026,12:00,PM,Evaluation,Reception 3,Thursday
+Charlotte,Rachel N.,Dr. Thompson,Neuro-Ophthalmology,200189,02/05/2026,8:15,AM,Injection-Retina,Front Desk C,Thursday
+Chapel Hill,Brian D.,Dr. Wilson,Cornea,200190,02/05/2026,9:00,AM,Office Visit,Front Desk A,Thursday
+Asheville,Tom V.,Dr. Jones,Neuro-Ophthalmology,200191,02/05/2026,10:30,AM,Injection-Retina,Reception 2,Thursday
+Greensboro,Amanda H.,Dr. Robinson,Oculoplastics,200192,02/05/2026,13:15,PM,Post-Op,Front Desk C,Thursday
+Statesville,Lisa R.,Dr. Jones,Ophthalmology,200193,02/05/2026,8:15,AM,New Cataract Evaluation,Front Desk D,Thursday
+Chapel Hill,Laura Z.,Dr. Harris,Glaucoma,200194,02/06/2026,10:00,AM,Return Visit,Reception 2,Friday
+Chapel Hill,Kelly S.,Dr. Thomas,Optometry,200195,02/06/2026,14:15,PM,New Contact Lens,Reception 2,Friday
+Greensboro,Rachel N.,Dr. Martinez,Oculoplastics,200196,02/06/2026,16:45,PM,Post-Op 1 Day,Front Desk D,Friday
+Wilmington,Tom V.,Dr. Johnson,Cornea,200197,02/06/2026,15:45,PM,New Cornea,Reception 3,Friday
+Charlotte,Nicole F.,Dr. Garcia,Optometry,200198,02/06/2026,7:15,AM,New Cataract Evaluation,Reception 3,Friday
+Raleigh,Mike T.,Dr. Thompson,Glaucoma,200199,02/06/2026,15:30,PM,New Cataract,Reception 3,Friday
+Wilmington,Emily W.,Dr. Williams,Pediatric Ophthalmology,200200,02/06/2026,9:00,AM,New Patient,Reception 1,Friday
+Main Campus - South,Kelly S.,Dr. Thomas,Optometry,200201,02/06/2026,16:00,PM,Post-Op 1 Day,Reception 2,Friday
+Hickory,Kevin J.,Dr. Moore,Neuro-Ophthalmology,200202,02/06/2026,14:00,PM,Return Uveitis,Front Desk B,Friday
+Main Campus - East,Steve G.,Dr. Smith,Pediatric Ophthalmology,200203,02/06/2026,9:00,AM,Evaluation,Front Desk C,Friday
+Main Campus - West,Jennifer P.,Dr. Martin,Neuro-Ophthalmology,200204,02/06/2026,12:15,PM,Post-Op,Reception 3,Friday
+Chapel Hill,Diana A.,Dr. Garcia,Oculoplastics,200205,02/06/2026,9:45,AM,Studies Only-Ophthalmology,Reception 2,Friday
+Main Campus - East,Paul E.,Dr. Williams,Neuro-Ophthalmology,200206,02/06/2026,7:15,AM,Complete Eye Exam,Front Desk C,Friday
+Wilmington,Kevin J.,Dr. Anderson,Glaucoma,200207,02/06/2026,10:30,AM,New Cataract Evaluation,Reception 3,Friday
+Main Campus - South,Chris B.,Dr. Thompson,Ophthalmology,200208,02/06/2026,12:30,PM,New Cataract Evaluation,Reception 2,Friday
+Main Campus - South,Diana A.,Dr. Garcia,Ophthalmology,200209,02/06/2026,14:30,PM,Post-Op 1 Day,Front Desk D,Friday
+Hickory,Laura Z.,Dr. Williams,Oculoplastics,200210,02/06/2026,14:45,PM,Laser,Reception 3,Friday
+Statesville,Laura Z.,Dr. Moore,Oculoplastics,200211,02/06/2026,15:00,PM,Tech Only,Reception 3,Friday
+Charlotte,Tom V.,Dr. Miller,Cornea,200212,02/06/2026,13:45,PM,Post-Op,Reception 3,Friday
+Raleigh,Steve G.,Dr. Johnson,Ophthalmology,200213,02/06/2026,7:45,AM,Return Long,Front Desk D,Friday
+Charlotte,Kevin J.,Dr. Thompson,Neuro-Ophthalmology,200214,02/06/2026,8:00,AM,Studies Only-Ophthalmology,Front Desk D,Friday
+Chapel Hill,Amanda H.,Dr. Jones,Cornea,200215,02/06/2026,16:00,PM,Return Visit,Front Desk C,Friday
+Page Road Eye Center,Emily W.,Dr. Harris,Pediatric Ophthalmology,200216,02/06/2026,12:15,PM,New Glaucoma,Front Desk A,Friday
+Charlotte,David L.,Dr. Martin,Ophthalmology,200217,02/06/2026,8:00,AM,Post-Op 1 Day,Reception 1,Friday
+Page Road Eye Center,Steve G.,Dr. Johnson,Oculoplastics,200218,02/06/2026,13:15,PM,Complete Eye Exam,Front Desk D,Friday
+Statesville,Amanda H.,Dr. Taylor,Optometry,200219,02/06/2026,9:00,AM,Evaluation,Reception 3,Friday
+Main Campus - West,Diana A.,Dr. Johnson,Pediatric Ophthalmology,200220,02/06/2026,10:30,AM,Return Uveitis,Reception 1,Friday
+Raleigh,James K.,Dr. Martin,Pediatric Ophthalmology,200221,02/06/2026,15:00,PM,New Patient,Front Desk B,Friday
+Main Campus - South,Mike T.,Dr. White,Pediatric Ophthalmology,200222,02/06/2026,9:00,AM,Office Visit,Reception 2,Friday
+Raleigh,Nicole F.,Dr. Jones,Glaucoma,200223,02/06/2026,7:30,AM,New Cataract Evaluation,Front Desk C,Friday
+Page Road Eye Center,Nicole F.,Dr. Jones,Retina,200224,02/06/2026,13:30,PM,Office Visit,Front Desk C,Friday
+Statesville,Diana A.,Dr. Miller,Oculoplastics,200225,02/06/2026,8:30,AM,New Patient,Reception 1,Friday
+Main Campus - West,Paul E.,Dr. Taylor,Oculoplastics,200226,02/06/2026,14:15,PM,Complete Eye Exam,Front Desk D,Friday
+Wilmington,Sarah M.,Dr. Martin,Pediatric Ophthalmology,200227,02/06/2026,11:00,AM,Tech Only,Reception 2,Friday
+Page Road Eye Center,Kelly S.,Dr. Thomas,Pediatric Ophthalmology,200228,02/06/2026,11:00,AM,Injection,Reception 3,Friday
+Greensboro,Sarah M.,Dr. Anderson,Retina,200229,02/06/2026,10:30,AM,Return Long,Front Desk B,Friday
+Chapel Hill,Nicole F.,Dr. Garcia,Oculoplastics,200230,02/06/2026,16:30,PM,Office Visit,Front Desk A,Friday
+Main Campus - East,Nicole F.,Dr. Thomas,Glaucoma,200231,02/09/2026,8:15,AM,Visual Acuity,Front Desk D,Monday
+Statesville,Diana A.,Dr. Thomas,Oculoplastics,200232,02/09/2026,16:45,PM,Injection,Reception 2,Monday
+Main Campus - East,Kevin J.,Dr. Martin,Pediatric Ophthalmology,200233,02/09/2026,11:30,AM,Post-Op 1 Day,Front Desk D,Monday
+Main Campus - East,James K.,Dr. Moore,Neuro-Ophthalmology,200234,02/09/2026,13:00,PM,Urgent,Reception 1,Monday
+Asheville,Paul E.,Dr. Miller,Retina,200235,02/09/2026,13:30,PM,Post-Op 1 Day,Reception 2,Monday
+Hickory,Rachel N.,Dr. Anderson,Pediatric Ophthalmology,200236,02/09/2026,14:45,PM,New Cataract Evaluation,Reception 3,Monday
+Asheville,Lisa R.,Dr. Taylor,Neuro-Ophthalmology,200237,02/09/2026,7:15,AM,Return Visit,Front Desk B,Monday
+Chapel Hill,Sarah M.,Dr. Johnson,Pediatric Ophthalmology,200238,02/09/2026,15:30,PM,Return Tumor,Front Desk B,Monday
+Statesville,Mike T.,Dr. Anderson,Cornea,200239,02/09/2026,13:30,PM,Return Neuro,Front Desk B,Monday
+Chapel Hill,Kelly S.,Dr. Garcia,Cornea,200240,02/09/2026,14:30,PM,New Cornea,Reception 1,Monday
+Hickory,Lisa R.,Dr. Thompson,Ophthalmology,200241,02/09/2026,9:45,AM,Post-Op,Reception 1,Monday
+Greensboro,Tom V.,Dr. Davis,Neuro-Ophthalmology,200242,02/09/2026,14:15,PM,Tech Only,Front Desk A,Monday
+Main Campus - West,Kevin J.,Dr. Anderson,Retina,200243,02/09/2026,12:45,PM,Complete Eye Exam,Front Desk A,Monday
+Main Campus - West,Jennifer P.,Dr. Miller,Optometry,200244,02/09/2026,12:30,PM,Evaluation,Reception 3,Monday
+Wilmington,Kevin J.,Dr. Thompson,Retina,200245,02/09/2026,12:30,PM,Urgent,Reception 2,Monday
+Main Campus - East,Steve G.,Dr. Williams,Oculoplastics,200246,02/09/2026,9:00,AM,Post-Op,Reception 3,Monday
+Page Road Eye Center,Laura Z.,Dr. Davis,Ophthalmology,200247,02/09/2026,13:15,PM,Procedure,Front Desk B,Monday
+Main Campus - East,James K.,Dr. Martinez,Ophthalmology,200248,02/09/2026,7:15,AM,Injection,Front Desk C,Monday
+Asheville,Sarah M.,Dr. Thomas,Oculoplastics,200249,02/09/2026,9:15,AM,Return Visit,Front Desk D,Monday
+Asheville,Diana A.,Dr. Smith,Cornea,200250,02/09/2026,10:45,AM,Post-Op,Reception 3,Monday
+Charlotte,Tom V.,Dr. Moore,Neuro-Ophthalmology,200251,02/09/2026,7:30,AM,Complete Eye Exam,Reception 3,Monday
+Main Campus - West,Steve G.,Dr. Johnson,Cornea,200252,02/09/2026,7:30,AM,Laser,Front Desk B,Monday
+Chapel Hill,Mike T.,Dr. Wilson,Retina,200253,02/09/2026,10:15,AM,Return Neuro,Front Desk D,Monday
+Charlotte,Kevin J.,Dr. Wilson,Cornea,200254,02/09/2026,13:30,PM,Post-Op 1 Day,Reception 2,Monday
+Wilmington,Rachel N.,Dr. Martin,Cornea,200255,02/09/2026,9:30,AM,New Cataract Evaluation,Front Desk B,Monday
+Charlotte,Diana A.,Dr. Robinson,Oculoplastics,200256,02/09/2026,14:30,PM,New Patient,Front Desk A,Monday
+Statesville,Tom V.,Dr. Smith,Neuro-Ophthalmology,200257,02/09/2026,7:00,AM,Return Dry Eye,Reception 1,Monday
+Hickory,Mike T.,Dr. Robinson,Retina,200258,02/09/2026,15:00,PM,Return Visit,Front Desk B,Monday
+Charlotte,Kevin J.,Dr. Martinez,Oculoplastics,200259,02/09/2026,13:45,PM,Return Visual Field,Front Desk C,Monday
+Asheville,Jennifer P.,Dr. Thompson,Oculoplastics,200260,02/09/2026,9:45,AM,Tech Only,Reception 3,Monday
+Asheville,Brian D.,Dr. Davis,Oculoplastics,200261,02/09/2026,8:45,AM,Evaluation,Reception 3,Monday
+Greensboro,Brian D.,Dr. Jones,Retina,200262,02/09/2026,14:15,PM,Post-Op,Reception 1,Monday
+Chapel Hill,Jennifer P.,Dr. Taylor,Retina,200263,02/09/2026,10:45,AM,New Cataract Evaluation,Reception 2,Monday
+Main Campus - West,Nicole F.,Dr. Jones,Oculoplastics,200264,02/09/2026,16:45,PM,Tech Only,Front Desk C,Monday
+Hickory,Robert C.,Dr. Thomas,Neuro-Ophthalmology,200265,02/09/2026,10:00,AM,Complete Eye Exam,Reception 1,Monday
+Page Road Eye Center,Robert C.,Dr. Williams,Retina,200266,02/09/2026,15:45,PM,Return Visual Field,Reception 3,Monday
+Wilmington,Kevin J.,Dr. Martinez,Retina,200267,02/09/2026,8:00,AM,Return Visit,Front Desk D,Monday
+Statesville,Paul E.,Dr. Williams,Pediatric Ophthalmology,200268,02/09/2026,14:30,PM,Specialty Lens Fitting,Reception 1,Monday
+Main Campus - South,Sarah M.,Dr. Anderson,Cornea,200269,02/09/2026,10:15,AM,Studies Only-Ophthalmology,Front Desk B,Monday
+Raleigh,Diana A.,Dr. Smith,Ophthalmology,200270,02/09/2026,10:30,AM,Complete Eye Exam,Reception 3,Monday
+Raleigh,Emily W.,Dr. Brown,Neuro-Ophthalmology,200271,02/09/2026,14:15,PM,Office Visit,Front Desk A,Monday
+Raleigh,James K.,Dr. White,Retina,200272,02/09/2026,8:15,AM,Injection,Front Desk D,Monday
+Raleigh,Steve G.,Dr. Jones,Neuro-Ophthalmology,200273,02/09/2026,9:45,AM,Return Visit,Front Desk B,Monday
+Hickory,Sarah M.,Dr. Smith,Oculoplastics,200274,02/10/2026,11:00,AM,New Cataract Evaluation,Reception 1,Tuesday
+Raleigh,Brian D.,Dr. Thompson,Optometry,200275,02/10/2026,13:00,PM,Cosmetic,Front Desk B,Tuesday
+Main Campus - West,Lisa R.,Dr. Miller,Cornea,200276,02/10/2026,8:45,AM,Return Visit,Reception 2,Tuesday
+Page Road Eye Center,Emily W.,Dr. Thomas,Glaucoma,200277,02/10/2026,11:00,AM,Complete Eye Exam,Reception 3,Tuesday
+Main Campus - South,Rachel N.,Dr. Thompson,Cornea,200278,02/10/2026,10:00,AM,Injection,Reception 1,Tuesday
+Asheville,Chris B.,Dr. Jackson,Retina,200279,02/10/2026,10:15,AM,Injection,Reception 2,Tuesday
+Charlotte,Laura Z.,Dr. Wilson,Cornea,200280,02/10/2026,11:45,AM,New Cornea,Front Desk D,Tuesday
+Chapel Hill,Nicole F.,Dr. Anderson,Optometry,200281,02/10/2026,9:30,AM,Post-Op 1 Day,Front Desk C,Tuesday
+Main Campus - West,Jennifer P.,Dr. White,Ophthalmology,200282,02/10/2026,8:30,AM,Driving Eval,Front Desk A,Tuesday
+Main Campus - South,Amanda H.,Dr. Davis,Neuro-Ophthalmology,200283,02/10/2026,11:30,AM,Return Visit,Front Desk B,Tuesday
+Wilmington,Chris B.,Dr. Wilson,Ophthalmology,200284,02/10/2026,11:30,AM,Return Visit,Reception 3,Tuesday
+Main Campus - South,Brian D.,Dr. Davis,Pediatric Ophthalmology,200285,02/10/2026,7:15,AM,New Contact Lens,Front Desk A,Tuesday
+Wilmington,Steve G.,Dr. Brown,Retina,200286,02/10/2026,14:45,PM,Tech Only,Reception 2,Tuesday
+Asheville,Mike T.,Dr. Anderson,Optometry,200287,02/10/2026,9:00,AM,Visual Acuity,Front Desk C,Tuesday
+Main Campus - West,David L.,Dr. Smith,Cornea,200288,02/10/2026,8:30,AM,Procedure,Front Desk B,Tuesday
+Charlotte,Amanda H.,Dr. Miller,Optometry,200289,02/10/2026,14:00,PM,Post-Op 1 Day,Front Desk C,Tuesday
+Main Campus - West,Jennifer P.,Dr. Moore,Ophthalmology,200290,02/10/2026,13:45,PM,Return Uveitis,Reception 2,Tuesday
+Statesville,Steve G.,Dr. Harris,Pediatric Ophthalmology,200291,02/10/2026,9:15,AM,Tech Only,Front Desk A,Tuesday
+Charlotte,Emily W.,Dr. Johnson,Optometry,200292,02/10/2026,7:15,AM,Post-Op,Front Desk A,Tuesday
+Raleigh,Tom V.,Dr. Johnson,Pediatric Ophthalmology,200293,02/10/2026,13:45,PM,Post-Op 1 Day,Reception 2,Tuesday
+Greensboro,Jennifer P.,Dr. Robinson,Glaucoma,200294,02/10/2026,16:00,PM,Return Dry Eye,Front Desk A,Tuesday
+Statesville,Laura Z.,Dr. Harris,Cornea,200295,02/10/2026,8:45,AM,Office Visit,Front Desk B,Tuesday
+Main Campus - South,Amanda H.,Dr. Brown,Neuro-Ophthalmology,200296,02/10/2026,10:45,AM,Tech Only,Front Desk B,Tuesday
+Page Road Eye Center,Diana A.,Dr. Thomas,Oculoplastics,200297,02/10/2026,15:15,PM,Post-Op,Front Desk B,Tuesday
+Asheville,Kelly S.,Dr. Harris,Pediatric Ophthalmology,200298,02/10/2026,10:00,AM,New Cataract Evaluation,Front Desk A,Tuesday
+Charlotte,Nicole F.,Dr. Moore,Pediatric Ophthalmology,200299,02/10/2026,16:15,PM,Procedure,Reception 3,Tuesday
+Charlotte,Tom V.,Dr. Williams,Glaucoma,200300,02/10/2026,11:00,AM,New Glaucoma,Reception 2,Tuesday
+Statesville,Sarah M.,Dr. Anderson,Cornea,200301,02/10/2026,13:15,PM,New Cataract Evaluation,Front Desk C,Tuesday
+Main Campus - West,James K.,Dr. Miller,Oculoplastics,200302,02/10/2026,15:45,PM,Office Visit,Front Desk A,Tuesday
+Main Campus - West,Chris B.,Dr. Davis,Optometry,200303,02/10/2026,12:45,PM,Tech Only,Front Desk C,Tuesday
+Page Road Eye Center,Lisa R.,Dr. Thompson,Neuro-Ophthalmology,200304,02/10/2026,12:15,PM,New Patient,Front Desk D,Tuesday
+Page Road Eye Center,Diana A.,Dr. Martinez,Neuro-Ophthalmology,200305,02/10/2026,14:00,PM,Return Neuro,Front Desk D,Tuesday
+Asheville,Diana A.,Dr. Harris,Ophthalmology,200306,02/10/2026,9:15,AM,Complete Eye Exam,Reception 2,Tuesday
+Chapel Hill,Kelly S.,Dr. Thomas,Optometry,200307,02/10/2026,14:15,PM,Return Neuro,Front Desk D,Tuesday
+Main Campus - East,Paul E.,Dr. Garcia,Retina,200308,02/10/2026,12:45,PM,Tech Only,Front Desk A,Tuesday
+Wilmington,Jennifer P.,Dr. Taylor,Optometry,200309,02/10/2026,7:45,AM,Tech Only,Front Desk A,Tuesday
+Chapel Hill,David L.,Dr. Davis,Oculoplastics,200310,02/10/2026,7:30,AM,Post-Op 1 Day,Reception 2,Tuesday
+Asheville,Paul E.,Dr. Garcia,Ophthalmology,200311,02/10/2026,12:00,PM,Botox,Front Desk B,Tuesday
+Charlotte,Diana A.,Dr. Harris,Oculoplastics,200312,02/10/2026,13:30,PM,Return Visit,Front Desk D,Tuesday
+Statesville,Paul E.,Dr. Moore,Ophthalmology,200313,02/10/2026,16:30,PM,Office Visit,Reception 2,Tuesday
+Main Campus - West,Nicole F.,Dr. Williams,Pediatric Ophthalmology,200314,02/10/2026,13:30,PM,Office Visit,Reception 3,Tuesday
+Wilmington,Lisa R.,Dr. Jones,Retina,200315,02/10/2026,14:30,PM,Return Visit,Reception 2,Tuesday
+Greensboro,Amanda H.,Dr. Taylor,Oculoplastics,200316,02/10/2026,16:30,PM,Injection-Retina,Reception 2,Tuesday
+Main Campus - East,Diana A.,Dr. Martin,Ophthalmology,200317,02/10/2026,11:30,AM,Return Dry Eye,Front Desk D,Tuesday
+Main Campus - East,Steve G.,Dr. Jones,Pediatric Ophthalmology,200318,02/10/2026,11:30,AM,New Cornea,Front Desk C,Tuesday
+Main Campus - West,Diana A.,Dr. Davis,Pediatric Ophthalmology,200319,02/10/2026,9:45,AM,Return Visual Field,Front Desk D,Tuesday
+Statesville,Jennifer P.,Dr. Jones,Ophthalmology,200320,02/10/2026,9:45,AM,Post-Op,Front Desk B,Tuesday
+Charlotte,Kevin J.,Dr. Davis,Oculoplastics,200321,02/10/2026,10:30,AM,Return Visit,Front Desk A,Tuesday
+Main Campus - West,Tom V.,Dr. Jackson,Pediatric Ophthalmology,200322,02/10/2026,13:45,PM,Return Visual Field,Reception 2,Tuesday
+Main Campus - South,Chris B.,Dr. Williams,Optometry,200323,02/10/2026,15:15,PM,Return Visit,Front Desk D,Tuesday
+Main Campus - West,Nicole F.,Dr. Jones,Optometry,200324,02/10/2026,9:00,AM,Procedure,Front Desk A,Tuesday
+Main Campus - West,Brian D.,Dr. Thompson,Oculoplastics,200325,02/10/2026,10:45,AM,Return Visit,Front Desk D,Tuesday
+Statesville,Diana A.,Dr. Moore,Cornea,200326,02/10/2026,9:45,AM,Return Visit,Reception 3,Tuesday
+Raleigh,Steve G.,Dr. Thomas,Oculoplastics,200327,02/11/2026,7:45,AM,New Glaucoma,Front Desk C,Wednesday
+Greensboro,Emily W.,Dr. Johnson,Oculoplastics,200328,02/11/2026,15:45,PM,Return Dry Eye,Front Desk A,Wednesday
+Chapel Hill,Kevin J.,Dr. Miller,Ophthalmology,200329,02/11/2026,14:00,PM,New Visual Field,Reception 1,Wednesday
+Greensboro,Sarah M.,Dr. White,Neuro-Ophthalmology,200330,02/11/2026,12:45,PM,Complete Eye Exam,Front Desk D,Wednesday
+Asheville,Chris B.,Dr. Davis,Pediatric Ophthalmology,200331,02/11/2026,8:45,AM,New Patient,Front Desk C,Wednesday
+Asheville,Robert C.,Dr. Thomas,Optometry,200332,02/11/2026,8:30,AM,Evaluation,Reception 3,Wednesday
+Page Road Eye Center,David L.,Dr. Johnson,Ophthalmology,200333,02/11/2026,10:45,AM,Visual Acuity,Front Desk C,Wednesday
+Charlotte,Tom V.,Dr. Wilson,Ophthalmology,200334,02/11/2026,14:30,PM,Office Visit,Front Desk A,Wednesday
+Greensboro,Diana A.,Dr. Thomas,Optometry,200335,02/11/2026,15:45,PM,Evaluation,Reception 1,Wednesday
+Chapel Hill,Tom V.,Dr. Robinson,Cornea,200336,02/11/2026,7:45,AM,Complete Eye Exam,Reception 3,Wednesday
+Hickory,Mike T.,Dr. Davis,Glaucoma,200337,02/11/2026,12:30,PM,Return Long,Reception 2,Wednesday
+Main Campus - East,Kevin J.,Dr. Williams,Pediatric Ophthalmology,200338,02/11/2026,12:30,PM,Office Visit,Reception 3,Wednesday
+Raleigh,Tom V.,Dr. Harris,Pediatric Ophthalmology,200339,02/11/2026,10:45,AM,Urgent,Reception 1,Wednesday
+Main Campus - West,Laura Z.,Dr. Martin,Retina,200340,02/11/2026,9:00,AM,Specialty Lens Fitting,Front Desk B,Wednesday
+Hickory,Chris B.,Dr. Wilson,Ophthalmology,200341,02/11/2026,11:00,AM,Return Visit,Reception 3,Wednesday
+Asheville,Emily W.,Dr. Robinson,Retina,200342,02/11/2026,16:00,PM,Injection-Retina,Reception 3,Wednesday
+Greensboro,Laura Z.,Dr. Garcia,Ophthalmology,200343,02/11/2026,13:30,PM,Laser,Reception 2,Wednesday
+Main Campus - West,Diana A.,Dr. Smith,Ophthalmology,200344,02/11/2026,9:45,AM,Dry Eye Consult,Front Desk C,Wednesday
+Asheville,James K.,Dr. Thompson,Ophthalmology,200345,02/11/2026,8:45,AM,Return Visit,Front Desk B,Wednesday
+Main Campus - West,Sarah M.,Dr. Garcia,Optometry,200346,02/11/2026,14:30,PM,Return Contact Lens,Reception 1,Wednesday
+Asheville,Amanda H.,Dr. Wilson,Glaucoma,200347,02/11/2026,12:00,PM,Return Uveitis,Front Desk A,Wednesday
+Main Campus - West,Kevin J.,Dr. Thompson,Retina,200348,02/11/2026,14:00,PM,Complete Eye Exam,Front Desk D,Wednesday
+Main Campus - South,Mike T.,Dr. Anderson,Optometry,200349,02/11/2026,11:45,AM,Return Visit,Front Desk D,Wednesday
+Charlotte,Brian D.,Dr. Martinez,Pediatric Ophthalmology,200350,02/11/2026,11:45,AM,Return Dry Eye,Reception 2,Wednesday
+Wilmington,Robert C.,Dr. Brown,Cornea,200351,02/11/2026,16:00,PM,Specialty Lens Fitting,Front Desk D,Wednesday
+Asheville,Mike T.,Dr. Smith,Pediatric Ophthalmology,200352,02/11/2026,15:30,PM,Return Visit,Reception 2,Wednesday
+Statesville,Emily W.,Dr. Martinez,Glaucoma,200353,02/11/2026,8:45,AM,Injection,Reception 2,Wednesday
+Charlotte,Emily W.,Dr. Martin,Cornea,200354,02/11/2026,15:45,PM,Injection,Front Desk D,Wednesday
+Wilmington,Steve G.,Dr. Jones,Neuro-Ophthalmology,200355,02/11/2026,8:30,AM,Return Visit,Front Desk D,Wednesday
+Raleigh,Rachel N.,Dr. Johnson,Ophthalmology,200356,02/11/2026,16:45,PM,Return Visual Field,Reception 1,Wednesday
+Main Campus - East,Steve G.,Dr. Williams,Cornea,200357,02/11/2026,7:15,AM,Dry Eye Consult,Front Desk C,Wednesday
+Charlotte,Mike T.,Dr. Jackson,Optometry,200358,02/11/2026,14:45,PM,New Patient,Front Desk B,Wednesday
+Page Road Eye Center,Lisa R.,Dr. Harris,Oculoplastics,200359,02/11/2026,7:00,AM,Tech Only,Reception 1,Wednesday
+Statesville,James K.,Dr. Miller,Cornea,200360,02/11/2026,10:30,AM,New Cornea,Front Desk B,Wednesday
+Main Campus - West,Kelly S.,Dr. Williams,Neuro-Ophthalmology,200361,02/11/2026,9:15,AM,Post-Op 1 Day,Front Desk A,Wednesday
+Chapel Hill,Laura Z.,Dr. Williams,Optometry,200362,02/11/2026,8:00,AM,Botox,Front Desk D,Wednesday
+Statesville,Sarah M.,Dr. Moore,Oculoplastics,200363,02/11/2026,9:45,AM,Complete Eye Exam,Front Desk D,Wednesday
+Chapel Hill,Lisa R.,Dr. Thomas,Oculoplastics,200364,02/11/2026,10:00,AM,New Visual Field,Front Desk A,Wednesday
+Main Campus - West,Emily W.,Dr. Wilson,Oculoplastics,200365,02/11/2026,11:30,AM,New Patient,Front Desk A,Wednesday
+Wilmington,Laura Z.,Dr. Thomas,Pediatric Ophthalmology,200366,02/11/2026,14:30,PM,Return Visit,Reception 3,Wednesday
+Charlotte,Jennifer P.,Dr. Thompson,Oculoplastics,200367,02/11/2026,10:15,AM,Injection,Front Desk C,Wednesday
+Chapel Hill,Kevin J.,Dr. Thompson,Glaucoma,200368,02/11/2026,14:45,PM,New Patient,Reception 3,Wednesday
+Main Campus - South,Robert C.,Dr. Taylor,Pediatric Ophthalmology,200369,02/11/2026,9:30,AM,Return Long,Reception 3,Wednesday
+Hickory,David L.,Dr. Davis,Optometry,200370,02/11/2026,11:45,AM,Complete Eye Exam,Front Desk D,Wednesday
+Charlotte,Paul E.,Dr. Williams,Glaucoma,200371,02/11/2026,10:30,AM,Urgent,Front Desk A,Wednesday
+Hickory,Tom V.,Dr. Thompson,Optometry,200372,02/11/2026,10:00,AM,Return Visit,Reception 2,Wednesday
+Charlotte,Brian D.,Dr. Martinez,Ophthalmology,200373,02/11/2026,11:30,AM,Return Dry Eye,Front Desk D,Wednesday
+Hickory,Brian D.,Dr. Taylor,Retina,200374,02/11/2026,11:00,AM,Post-Op,Reception 1,Wednesday
+Main Campus - South,Steve G.,Dr. White,Glaucoma,200375,02/11/2026,11:30,AM,Office Visit,Reception 1,Wednesday
+Chapel Hill,Kevin J.,Dr. Wilson,Retina,200376,02/11/2026,15:30,PM,Injection-Retina,Reception 1,Wednesday
+Raleigh,Robert C.,Dr. Thomas,Pediatric Ophthalmology,200377,02/11/2026,16:45,PM,Office Visit,Reception 1,Wednesday
+Main Campus - West,Laura Z.,Dr. Davis,Glaucoma,200378,02/11/2026,13:15,PM,Return Visit,Reception 1,Wednesday
+Main Campus - West,Steve G.,Dr. Harris,Glaucoma,200379,02/11/2026,7:45,AM,Injection-Retina,Front Desk C,Wednesday
+Hickory,Nicole F.,Dr. Wilson,Cornea,200380,02/11/2026,14:00,PM,Return Visit,Reception 1,Wednesday
+Wilmington,Sarah M.,Dr. Martinez,Retina,200381,02/12/2026,14:30,PM,New Cornea,Reception 3,Thursday
+Charlotte,Steve G.,Dr. Harris,Oculoplastics,200382,02/12/2026,12:45,PM,Laser,Reception 2,Thursday
+Wilmington,Nicole F.,Dr. Moore,Neuro-Ophthalmology,200383,02/12/2026,7:30,AM,Office Visit,Front Desk A,Thursday
+Statesville,Steve G.,Dr. Thompson,Cornea,200384,02/12/2026,12:15,PM,Post-Op Month,Front Desk B,Thursday
+Wilmington,Sarah M.,Dr. Martinez,Pediatric Ophthalmology,200385,02/12/2026,8:30,AM,Injection-Retina,Front Desk D,Thursday
+Asheville,James K.,Dr. Thompson,Neuro-Ophthalmology,200386,02/12/2026,15:00,PM,Laser,Reception 2,Thursday
+Main Campus - South,Kelly S.,Dr. Taylor,Retina,200387,02/12/2026,12:00,PM,Return Contact Lens,Front Desk A,Thursday
+Raleigh,Robert C.,Dr. Garcia,Optometry,200388,02/12/2026,11:00,AM,Urgent,Reception 1,Thursday
+Wilmington,Sarah M.,Dr. Miller,Optometry,200389,02/12/2026,15:15,PM,Return Visit,Reception 2,Thursday
+Charlotte,Rachel N.,Dr. Brown,Neuro-Ophthalmology,200390,02/12/2026,9:00,AM,Injection-Retina,Front Desk C,Thursday
+Raleigh,Laura Z.,Dr. Harris,Neuro-Ophthalmology,200391,02/12/2026,7:45,AM,Tech Only,Front Desk D,Thursday
+Greensboro,Lisa R.,Dr. Martin,Retina,200392,02/12/2026,13:00,PM,New Contact Lens,Front Desk B,Thursday
+Main Campus - West,Kevin J.,Dr. Williams,Pediatric Ophthalmology,200393,02/12/2026,7:45,AM,Specialty Lens Fitting,Front Desk B,Thursday
+Chapel Hill,Steve G.,Dr. Wilson,Neuro-Ophthalmology,200394,02/12/2026,11:00,AM,Specialty Lens Fitting,Reception 1,Thursday
+Statesville,Brian D.,Dr. Thompson,Neuro-Ophthalmology,200395,02/12/2026,12:15,PM,New Patient,Front Desk A,Thursday
+Statesville,Brian D.,Dr. Thompson,Glaucoma,200396,02/12/2026,8:30,AM,Specialty Lens Fitting,Reception 3,Thursday
+Main Campus - South,Mike T.,Dr. Brown,Neuro-Ophthalmology,200397,02/12/2026,8:00,AM,Return Visual Field,Reception 2,Thursday
+Main Campus - West,Lisa R.,Dr. Thompson,Optometry,200398,02/12/2026,8:45,AM,Office Visit,Front Desk A,Thursday
+Hickory,Kelly S.,Dr. Johnson,Pediatric Ophthalmology,200399,02/12/2026,8:30,AM,Office Visit,Front Desk D,Thursday
+Page Road Eye Center,Sarah M.,Dr. Martinez,Optometry,200400,02/12/2026,14:00,PM,Injection,Front Desk D,Thursday
+Raleigh,Chris B.,Dr. Harris,Neuro-Ophthalmology,200401,02/12/2026,12:45,PM,New Cataract,Reception 2,Thursday
+Charlotte,James K.,Dr. Davis,Pediatric Ophthalmology,200402,02/12/2026,16:00,PM,Injection-Retina,Front Desk D,Thursday
+Main Campus - East,Emily W.,Dr. Johnson,Retina,200403,02/12/2026,11:45,AM,Evaluation,Reception 1,Thursday
+Hickory,Tom V.,Dr. Brown,Retina,200404,02/12/2026,15:00,PM,Return Dry Eye,Front Desk D,Thursday
+Main Campus - East,Amanda H.,Dr. Thompson,Glaucoma,200405,02/12/2026,10:30,AM,New Patient,Front Desk A,Thursday
+Raleigh,Robert C.,Dr. Harris,Pediatric Ophthalmology,200406,02/12/2026,14:30,PM,Minor Room,Reception 2,Thursday
+Main Campus - South,Tom V.,Dr. Robinson,Cornea,200407,02/12/2026,16:45,PM,Evaluation,Front Desk B,Thursday
+Main Campus - South,Paul E.,Dr. Harris,Retina,200408,02/12/2026,8:00,AM,Return Neuro,Reception 2,Thursday
+Main Campus - South,Kelly S.,Dr. Moore,Neuro-Ophthalmology,200409,02/12/2026,8:45,AM,Return Long,Front Desk B,Thursday
+Main Campus - South,Kevin J.,Dr. Harris,Oculoplastics,200410,02/12/2026,15:30,PM,Injection-Retina,Reception 2,Thursday
+Hickory,Paul E.,Dr. Johnson,Optometry,200411,02/12/2026,15:15,PM,Return Contact Lens,Reception 3,Thursday
+Greensboro,David L.,Dr. Anderson,Optometry,200412,02/12/2026,7:00,AM,Return Contact Lens,Front Desk C,Thursday
+Chapel Hill,Brian D.,Dr. Taylor,Neuro-Ophthalmology,200413,02/12/2026,15:30,PM,Return Contact Lens,Front Desk B,Thursday
+Raleigh,Sarah M.,Dr. Wilson,Glaucoma,200414,02/12/2026,12:15,PM,Post-Op 1 Day,Reception 2,Thursday
+Charlotte,Sarah M.,Dr. Miller,Pediatric Ophthalmology,200415,02/12/2026,9:00,AM,Procedure,Reception 2,Thursday
+Wilmington,Amanda H.,Dr. Taylor,Retina,200416,02/12/2026,11:30,AM,New Cataract,Reception 2,Thursday
+Page Road Eye Center,Jennifer P.,Dr. Garcia,Pediatric Ophthalmology,200417,02/12/2026,13:45,PM,Office Visit,Reception 2,Thursday
+Raleigh,Chris B.,Dr. Taylor,Oculoplastics,200418,02/12/2026,15:30,PM,New Visual Field,Reception 1,Thursday
+Charlotte,Rachel N.,Dr. Wilson,Pediatric Ophthalmology,200419,02/12/2026,15:45,PM,Tech Only,Front Desk D,Thursday
+Raleigh,Mike T.,Dr. Anderson,Cornea,200420,02/12/2026,9:15,AM,New Cataract,Reception 1,Thursday
+Hickory,Brian D.,Dr. Moore,Glaucoma,200421,02/12/2026,15:15,PM,Injection,Front Desk A,Thursday
+Main Campus - South,Nicole F.,Dr. Jones,Oculoplastics,200422,02/13/2026,15:00,PM,New Glaucoma,Front Desk B,Friday
+Main Campus - East,Steve G.,Dr. Martin,Retina,200423,02/13/2026,7:15,AM,Return Visit,Front Desk B,Friday
+Statesville,Tom V.,Dr. Johnson,Neuro-Ophthalmology,200424,02/13/2026,11:15,AM,Post-Op Month,Front Desk C,Friday
+Hickory,Jennifer P.,Dr. Johnson,Pediatric Ophthalmology,200425,02/13/2026,8:00,AM,Return Uveitis,Reception 2,Friday
+Asheville,Nicole F.,Dr. Martin,Ophthalmology,200426,02/13/2026,7:30,AM,Surgical Work Up,Reception 2,Friday
+Wilmington,Emily W.,Dr. Martinez,Pediatric Ophthalmology,200427,02/13/2026,7:00,AM,New Glaucoma,Reception 3,Friday
+Main Campus - East,Diana A.,Dr. Moore,Optometry,200428,02/13/2026,9:15,AM,Return Visual Field,Front Desk D,Friday
+Hickory,James K.,Dr. Miller,Retina,200429,02/13/2026,15:00,PM,New Contact Lens,Reception 2,Friday
+Page Road Eye Center,Emily W.,Dr. Garcia,Glaucoma,200430,02/13/2026,13:45,PM,Specialty Lens Fitting,Reception 1,Friday
+Chapel Hill,Brian D.,Dr. Garcia,Neuro-Ophthalmology,200431,02/13/2026,12:00,PM,Tech Only,Front Desk B,Friday
+Main Campus - West,Jennifer P.,Dr. Jones,Optometry,200432,02/13/2026,16:30,PM,Tech Only,Reception 3,Friday
+Chapel Hill,Kelly S.,Dr. Williams,Retina,200433,02/13/2026,12:30,PM,Tech Only,Reception 1,Friday
+Page Road Eye Center,Diana A.,Dr. Moore,Neuro-Ophthalmology,200434,02/13/2026,13:15,PM,Return Contact Lens,Front Desk C,Friday
+Chapel Hill,Kevin J.,Dr. Smith,Optometry,200435,02/13/2026,13:30,PM,New Cataract Evaluation,Reception 2,Friday
+Hickory,Kelly S.,Dr. Robinson,Glaucoma,200436,02/13/2026,9:30,AM,Office Visit,Reception 3,Friday
+Chapel Hill,Jennifer P.,Dr. Jackson,Optometry,200437,02/13/2026,14:15,PM,Return Visit,Reception 2,Friday
+Statesville,Tom V.,Dr. Anderson,Pediatric Ophthalmology,200438,02/13/2026,9:45,AM,Return Visit,Front Desk C,Friday
+Main Campus - East,Mike T.,Dr. Smith,Ophthalmology,200439,02/13/2026,14:00,PM,Injection,Front Desk C,Friday
+Page Road Eye Center,Laura Z.,Dr. Thomas,Oculoplastics,200440,02/13/2026,13:45,PM,New Cataract Evaluation,Front Desk A,Friday
+Wilmington,Mike T.,Dr. Wilson,Ophthalmology,200441,02/13/2026,15:00,PM,Evaluation,Front Desk D,Friday
+Main Campus - South,Kevin J.,Dr. Garcia,Glaucoma,200442,02/13/2026,10:15,AM,Return Visit,Front Desk C,Friday
+Page Road Eye Center,Kelly S.,Dr. Smith,Pediatric Ophthalmology,200443,02/13/2026,9:30,AM,New Cataract Evaluation,Reception 3,Friday
+Wilmington,Jennifer P.,Dr. Johnson,Oculoplastics,200444,02/13/2026,14:30,PM,Specialty Lens Fitting,Reception 3,Friday
+Main Campus - South,Emily W.,Dr. Robinson,Ophthalmology,200445,02/13/2026,16:30,PM,Laser,Reception 3,Friday
+Main Campus - East,Chris B.,Dr. Moore,Retina,200446,02/13/2026,16:30,PM,Office Visit,Reception 1,Friday
+Wilmington,Diana A.,Dr. Jones,Glaucoma,200447,02/13/2026,15:45,PM,Post-Op,Front Desk A,Friday
+Statesville,Tom V.,Dr. White,Ophthalmology,200448,02/13/2026,8:15,AM,Office Visit,Front Desk A,Friday
+Page Road Eye Center,Emily W.,Dr. Johnson,Neuro-Ophthalmology,200449,02/13/2026,10:00,AM,New Cornea,Front Desk D,Friday
+Raleigh,Diana A.,Dr. Garcia,Oculoplastics,200450,02/13/2026,16:00,PM,Botox,Front Desk B,Friday
+Asheville,Brian D.,Dr. Robinson,Oculoplastics,200451,02/13/2026,9:15,AM,Office Visit,Front Desk C,Friday
+Charlotte,Diana A.,Dr. Thompson,Retina,200452,02/13/2026,8:30,AM,New Patient,Reception 3,Friday
+Charlotte,Emily W.,Dr. Johnson,Oculoplastics,200453,02/13/2026,10:30,AM,Post-Op,Front Desk D,Friday
+Main Campus - East,Sarah M.,Dr. Smith,Glaucoma,200454,02/13/2026,7:45,AM,Botox,Front Desk A,Friday
+Raleigh,Amanda H.,Dr. Miller,Retina,200455,02/13/2026,14:30,PM,Post-Op,Front Desk C,Friday
+Raleigh,Mike T.,Dr. Martinez,Optometry,200456,02/13/2026,12:00,PM,Complete Eye Exam,Reception 1,Friday
+Statesville,Tom V.,Dr. Robinson,Glaucoma,200457,02/13/2026,16:15,PM,Specialty Lens Fitting,Front Desk C,Friday
+Chapel Hill,Diana A.,Dr. Harris,Pediatric Ophthalmology,200458,02/13/2026,15:15,PM,Urgent,Front Desk D,Friday
+Hickory,David L.,Dr. Anderson,Neuro-Ophthalmology,200459,02/13/2026,15:15,PM,Post-Op 1 Day,Front Desk A,Friday
+Charlotte,James K.,Dr. Thompson,Oculoplastics,200460,02/13/2026,8:15,AM,Return Contact Lens,Front Desk D,Friday
+Wilmington,Amanda H.,Dr. Davis,Retina,200461,02/13/2026,7:30,AM,Evaluation,Reception 1,Friday
+Greensboro,Robert C.,Dr. Thompson,Optometry,200462,02/16/2026,9:15,AM,Return Visit,Front Desk A,Monday
+Raleigh,Sarah M.,Dr. Brown,Retina,200463,02/16/2026,15:45,PM,Return Visit,Front Desk D,Monday
+Chapel Hill,Paul E.,Dr. Davis,Optometry,200464,02/16/2026,16:15,PM,New Patient,Reception 3,Monday
+Asheville,David L.,Dr. Thomas,Cornea,200465,02/16/2026,12:45,PM,Evaluation,Front Desk C,Monday
+Main Campus - West,Sarah M.,Dr. Smith,Neuro-Ophthalmology,200466,02/16/2026,11:15,AM,New Cataract Evaluation,Front Desk A,Monday
+Page Road Eye Center,Kevin J.,Dr. Jones,Retina,200467,02/16/2026,10:15,AM,Post-Op,Reception 1,Monday
+Raleigh,Amanda H.,Dr. Thomas,Retina,200468,02/16/2026,11:00,AM,Complete Eye Exam,Front Desk A,Monday
+Main Campus - West,Diana A.,Dr. Jackson,Retina,200469,02/16/2026,8:30,AM,Injection,Reception 1,Monday
+Chapel Hill,Jennifer P.,Dr. Williams,Retina,200470,02/16/2026,12:00,PM,Return Visual Field,Front Desk D,Monday
+Page Road Eye Center,Tom V.,Dr. Thomas,Pediatric Ophthalmology,200471,02/16/2026,12:15,PM,Driving Eval,Reception 1,Monday
+Raleigh,Sarah M.,Dr. Martin,Ophthalmology,200472,02/16/2026,10:15,AM,Return Visit,Front Desk C,Monday
+Main Campus - East,Nicole F.,Dr. Martin,Ophthalmology,200473,02/16/2026,11:00,AM,Return Tumor,Reception 1,Monday
+Hickory,Tom V.,Dr. Miller,Pediatric Ophthalmology,200474,02/16/2026,16:30,PM,Surgical Work Up,Reception 1,Monday
+Charlotte,Mike T.,Dr. Smith,Ophthalmology,200475,02/16/2026,10:45,AM,Complete Eye Exam,Front Desk C,Monday
+Charlotte,Brian D.,Dr. Brown,Oculoplastics,200476,02/16/2026,15:00,PM,New Cataract Evaluation,Front Desk C,Monday
+Main Campus - East,Steve G.,Dr. Miller,Pediatric Ophthalmology,200477,02/16/2026,15:45,PM,Post-Op Month,Reception 3,Monday
+Chapel Hill,Sarah M.,Dr. Moore,Oculoplastics,200478,02/16/2026,7:45,AM,Minor Room,Reception 2,Monday
+Main Campus - South,Chris B.,Dr. Davis,Optometry,200479,02/16/2026,16:30,PM,Return Visit,Reception 1,Monday
+Wilmington,Diana A.,Dr. Jackson,Glaucoma,200480,02/16/2026,14:15,PM,Complete Eye Exam,Reception 2,Monday
+Raleigh,Lisa R.,Dr. Williams,Oculoplastics,200481,02/16/2026,7:00,AM,Return Contact Lens,Front Desk D,Monday
+Charlotte,Sarah M.,Dr. Thomas,Ophthalmology,200482,02/16/2026,16:15,PM,New Patient,Front Desk C,Monday
+Statesville,Kelly S.,Dr. Robinson,Pediatric Ophthalmology,200483,02/16/2026,9:00,AM,Tech Only,Reception 3,Monday
+Main Campus - West,Rachel N.,Dr. Williams,Retina,200484,02/16/2026,13:15,PM,Complete Eye Exam,Reception 1,Monday
+Page Road Eye Center,Brian D.,Dr. Johnson,Optometry,200485,02/16/2026,10:15,AM,Studies Only-Ophthalmology,Reception 3,Monday
+Greensboro,Paul E.,Dr. Williams,Retina,200486,02/16/2026,9:15,AM,Post-Op 1 Day,Reception 1,Monday
+Hickory,Paul E.,Dr. Jones,Ophthalmology,200487,02/16/2026,13:45,PM,Injection-Retina,Front Desk D,Monday
+Charlotte,Rachel N.,Dr. Martin,Oculoplastics,200488,02/16/2026,11:45,AM,Return Neuro,Reception 3,Monday
+Main Campus - South,Lisa R.,Dr. Davis,Ophthalmology,200489,02/16/2026,15:00,PM,New Contact Lens,Reception 2,Monday
+Greensboro,Nicole F.,Dr. Brown,Ophthalmology,200490,02/16/2026,9:30,AM,Injection,Front Desk C,Monday
+Charlotte,Robert C.,Dr. Thompson,Oculoplastics,200491,02/16/2026,16:45,PM,Dry Eye Consult,Reception 2,Monday
+Hickory,Chris B.,Dr. Anderson,Optometry,200492,02/16/2026,15:00,PM,New Cataract Evaluation,Reception 1,Monday
+Charlotte,Laura Z.,Dr. Martin,Pediatric Ophthalmology,200493,02/16/2026,11:45,AM,Evaluation,Reception 1,Monday
+Charlotte,Steve G.,Dr. Moore,Ophthalmology,200494,02/16/2026,15:30,PM,Minor Room,Reception 1,Monday
+Greensboro,Kelly S.,Dr. Garcia,Oculoplastics,200495,02/16/2026,16:30,PM,Complete Eye Exam,Front Desk A,Monday
+Raleigh,Paul E.,Dr. Robinson,Oculoplastics,200496,02/16/2026,12:15,PM,Office Visit,Front Desk D,Monday
+Charlotte,James K.,Dr. Moore,Neuro-Ophthalmology,200497,02/16/2026,12:45,PM,New Cataract Evaluation,Front Desk A,Monday
+Main Campus - South,Brian D.,Dr. Jones,Glaucoma,200498,02/16/2026,7:15,AM,Tech Only,Reception 3,Monday
+Raleigh,Lisa R.,Dr. Garcia,Glaucoma,200499,02/16/2026,12:00,PM,Tech Only,Front Desk A,Monday
+Main Campus - South,Emily W.,Dr. Williams,Cornea,200500,02/16/2026,14:30,PM,Return Visit,Reception 2,Monday
+Charlotte,Steve G.,Dr. Robinson,Neuro-Ophthalmology,200501,02/16/2026,7:45,AM,Return Visit,Front Desk B,Monday
+Charlotte,James K.,Dr. Wilson,Cornea,200502,02/16/2026,8:45,AM,Visual Acuity,Reception 3,Monday
+Statesville,Paul E.,Dr. Thompson,Cornea,200503,02/16/2026,7:45,AM,Return Contact Lens,Front Desk D,Monday
+Main Campus - South,Rachel N.,Dr. Jackson,Oculoplastics,200504,02/16/2026,14:15,PM,Post-Op Month,Front Desk D,Monday
+Main Campus - West,Emily W.,Dr. Taylor,Pediatric Ophthalmology,200505,02/16/2026,10:00,AM,Laser,Reception 1,Monday
+Wilmington,Amanda H.,Dr. Taylor,Oculoplastics,200506,02/16/2026,9:30,AM,Return Visit,Front Desk D,Monday
+Wilmington,Kevin J.,Dr. Garcia,Ophthalmology,200507,02/16/2026,11:45,AM,Complete Eye Exam,Reception 1,Monday
+Statesville,Brian D.,Dr. Robinson,Glaucoma,200508,02/16/2026,7:15,AM,New Cornea,Reception 1,Monday
+Main Campus - West,Steve G.,Dr. Brown,Pediatric Ophthalmology,200509,02/16/2026,10:00,AM,Procedure,Reception 3,Monday
+Charlotte,Chris B.,Dr. Anderson,Oculoplastics,200510,02/16/2026,10:45,AM,Post-Op 1 Day,Front Desk D,Monday
+Charlotte,Lisa R.,Dr. White,Pediatric Ophthalmology,200511,02/16/2026,7:30,AM,Driving Eval,Front Desk D,Monday
+Main Campus - South,Paul E.,Dr. Wilson,Pediatric Ophthalmology,200512,02/16/2026,13:15,PM,Urgent,Reception 3,Monday
+Asheville,Lisa R.,Dr. Anderson,Neuro-Ophthalmology,200513,02/17/2026,16:45,PM,Post-Op,Front Desk D,Tuesday
+Asheville,Robert C.,Dr. Wilson,Retina,200514,02/17/2026,16:30,PM,Return Visit,Reception 3,Tuesday
+Statesville,Jennifer P.,Dr. Taylor,Glaucoma,200515,02/17/2026,16:00,PM,Return Tumor,Front Desk B,Tuesday
+Chapel Hill,Paul E.,Dr. Thomas,Glaucoma,200516,02/17/2026,10:00,AM,Complete Eye Exam,Reception 3,Tuesday
+Main Campus - East,Rachel N.,Dr. Harris,Optometry,200517,02/17/2026,8:15,AM,New Patient,Front Desk A,Tuesday
+Raleigh,Diana A.,Dr. Johnson,Optometry,200518,02/17/2026,13:00,PM,Return Visual Field,Reception 2,Tuesday
+Main Campus - South,Brian D.,Dr. Harris,Retina,200519,02/17/2026,8:15,AM,Complete Eye Exam,Front Desk A,Tuesday
+Hickory,Lisa R.,Dr. Jackson,Neuro-Ophthalmology,200520,02/17/2026,16:30,PM,Dry Eye Consult,Front Desk B,Tuesday
+Raleigh,Kevin J.,Dr. Anderson,Neuro-Ophthalmology,200521,02/17/2026,7:45,AM,Driving Eval,Front Desk C,Tuesday
+Greensboro,David L.,Dr. Miller,Optometry,200522,02/17/2026,10:30,AM,New Visual Field,Front Desk B,Tuesday
+Hickory,Brian D.,Dr. Martinez,Pediatric Ophthalmology,200523,02/17/2026,13:15,PM,New Patient,Front Desk A,Tuesday
+Page Road Eye Center,James K.,Dr. Johnson,Oculoplastics,200524,02/17/2026,10:45,AM,Return Visit,Front Desk B,Tuesday
+Statesville,Laura Z.,Dr. Jackson,Ophthalmology,200525,02/17/2026,9:45,AM,Injection,Reception 2,Tuesday
+Main Campus - South,Emily W.,Dr. Williams,Cornea,200526,02/17/2026,7:00,AM,Return Uveitis,Front Desk B,Tuesday
+Asheville,Chris B.,Dr. Brown,Oculoplastics,200527,02/17/2026,9:15,AM,Dry Eye Consult,Front Desk D,Tuesday
+Statesville,Steve G.,Dr. Jones,Neuro-Ophthalmology,200528,02/17/2026,12:30,PM,Post-Op,Reception 3,Tuesday
+Main Campus - South,Chris B.,Dr. Taylor,Neuro-Ophthalmology,200529,02/17/2026,8:30,AM,Surgical Work Up,Front Desk B,Tuesday
+Page Road Eye Center,Nicole F.,Dr. Taylor,Optometry,200530,02/17/2026,8:45,AM,Evaluation,Reception 3,Tuesday
+Wilmington,Robert C.,Dr. Williams,Glaucoma,200531,02/17/2026,11:30,AM,Post-Op,Front Desk C,Tuesday
+Asheville,Emily W.,Dr. Taylor,Optometry,200532,02/17/2026,7:00,AM,New Cataract Evaluation,Front Desk B,Tuesday
+Main Campus - West,Nicole F.,Dr. Anderson,Retina,200533,02/17/2026,16:00,PM,Return Visit,Front Desk C,Tuesday
+Main Campus - West,David L.,Dr. Robinson,Pediatric Ophthalmology,200534,02/17/2026,11:45,AM,Injection,Reception 1,Tuesday
+Charlotte,Mike T.,Dr. Jackson,Cornea,200535,02/17/2026,7:15,AM,New Cataract,Front Desk C,Tuesday
+Main Campus - West,Jennifer P.,Dr. Smith,Neuro-Ophthalmology,200536,02/17/2026,10:45,AM,Injection,Reception 3,Tuesday
+Chapel Hill,Tom V.,Dr. Smith,Pediatric Ophthalmology,200537,02/17/2026,13:30,PM,New Patient,Front Desk A,Tuesday
+Page Road Eye Center,Sarah M.,Dr. Garcia,Ophthalmology,200538,02/17/2026,16:00,PM,Evaluation,Reception 2,Tuesday
+Raleigh,Tom V.,Dr. Thompson,Pediatric Ophthalmology,200539,02/17/2026,14:30,PM,Urgent,Front Desk B,Tuesday
+Main Campus - West,Lisa R.,Dr. Harris,Neuro-Ophthalmology,200540,02/17/2026,11:30,AM,Tech Only,Reception 2,Tuesday
+Statesville,Tom V.,Dr. Davis,Optometry,200541,02/17/2026,10:45,AM,Minor Room,Front Desk B,Tuesday
+Page Road Eye Center,Diana A.,Dr. Robinson,Glaucoma,200542,02/17/2026,16:15,PM,Return Visual Field,Reception 1,Tuesday
+Main Campus - South,Brian D.,Dr. Harris,Optometry,200543,02/17/2026,16:15,PM,New Cataract,Front Desk A,Tuesday
+Main Campus - South,Nicole F.,Dr. Thomas,Glaucoma,200544,02/17/2026,8:45,AM,Surgical Work Up,Front Desk A,Tuesday
+Wilmington,Laura Z.,Dr. Harris,Oculoplastics,200545,02/17/2026,9:30,AM,Surgical Work Up,Reception 1,Tuesday
+Main Campus - South,Lisa R.,Dr. Jackson,Cornea,200546,02/17/2026,12:00,PM,New Patient,Front Desk C,Tuesday
+Main Campus - East,Lisa R.,Dr. Anderson,Optometry,200547,02/17/2026,13:00,PM,Return Visit,Front Desk B,Tuesday
+Greensboro,Paul E.,Dr. Harris,Pediatric Ophthalmology,200548,02/17/2026,7:30,AM,Evaluation,Reception 2,Tuesday
+Page Road Eye Center,Paul E.,Dr. Davis,Glaucoma,200549,02/17/2026,8:00,AM,Post-Op,Front Desk D,Tuesday
+Main Campus - West,Paul E.,Dr. Williams,Optometry,200550,02/17/2026,15:45,PM,Return Long,Front Desk C,Tuesday
+Greensboro,Jennifer P.,Dr. Williams,Oculoplastics,200551,02/17/2026,15:30,PM,Office Visit,Front Desk D,Tuesday
+Greensboro,Steve G.,Dr. Wilson,Neuro-Ophthalmology,200552,02/17/2026,7:00,AM,Laser,Front Desk C,Tuesday
+Wilmington,Rachel N.,Dr. Jones,Neuro-Ophthalmology,200553,02/17/2026,16:45,PM,New Patient,Front Desk C,Tuesday
+Chapel Hill,Steve G.,Dr. Anderson,Neuro-Ophthalmology,200554,02/17/2026,15:00,PM,Post-Op 1 Day,Front Desk D,Tuesday
+Charlotte,Mike T.,Dr. Brown,Neuro-Ophthalmology,200555,02/17/2026,16:45,PM,Return Long,Front Desk A,Tuesday
+Greensboro,Brian D.,Dr. Williams,Optometry,200556,02/17/2026,7:15,AM,Tech Only,Front Desk B,Tuesday
+Main Campus - West,Diana A.,Dr. Smith,Pediatric Ophthalmology,200557,02/17/2026,10:15,AM,Office Visit,Front Desk A,Tuesday
+Wilmington,Amanda H.,Dr. Moore,Glaucoma,200558,02/18/2026,11:15,AM,Minor Room,Reception 2,Wednesday
+Chapel Hill,Amanda H.,Dr. White,Glaucoma,200559,02/18/2026,10:15,AM,Return Tumor,Front Desk D,Wednesday
+Asheville,Rachel N.,Dr. Jackson,Cornea,200560,02/18/2026,16:45,PM,Injection,Front Desk B,Wednesday
+Main Campus - West,Robert C.,Dr. Moore,Glaucoma,200561,02/18/2026,9:00,AM,Evaluation,Reception 1,Wednesday
+Asheville,Kelly S.,Dr. Thompson,Glaucoma,200562,02/18/2026,12:15,PM,Return Visit,Front Desk C,Wednesday
+Raleigh,Paul E.,Dr. Martin,Glaucoma,200563,02/18/2026,9:45,AM,New Cataract Evaluation,Reception 1,Wednesday
+Greensboro,Mike T.,Dr. Martin,Pediatric Ophthalmology,200564,02/18/2026,11:00,AM,Studies Only-Ophthalmology,Front Desk D,Wednesday
+Main Campus - West,Laura Z.,Dr. White,Ophthalmology,200565,02/18/2026,7:15,AM,Cosmetic,Reception 1,Wednesday
+Chapel Hill,Diana A.,Dr. Anderson,Pediatric Ophthalmology,200566,02/18/2026,8:15,AM,Return Visit,Reception 3,Wednesday
+Charlotte,Diana A.,Dr. Smith,Ophthalmology,200567,02/18/2026,16:45,PM,Cosmetic,Front Desk D,Wednesday
+Main Campus - West,Amanda H.,Dr. Jackson,Pediatric Ophthalmology,200568,02/18/2026,13:00,PM,Minor Room,Front Desk B,Wednesday
+Main Campus - West,Tom V.,Dr. Jackson,Pediatric Ophthalmology,200569,02/18/2026,9:00,AM,Return Dry Eye,Front Desk C,Wednesday
+Greensboro,Laura Z.,Dr. Jones,Neuro-Ophthalmology,200570,02/18/2026,10:15,AM,Return Contact Lens,Front Desk D,Wednesday
+Main Campus - East,Tom V.,Dr. Johnson,Cornea,200571,02/18/2026,14:30,PM,Evaluation,Front Desk D,Wednesday
+Raleigh,Brian D.,Dr. Martin,Neuro-Ophthalmology,200572,02/18/2026,13:00,PM,Post-Op,Reception 3,Wednesday
+Statesville,Lisa R.,Dr. Johnson,Optometry,200573,02/18/2026,15:45,PM,Dry Eye Consult,Reception 3,Wednesday
+Main Campus - West,Laura Z.,Dr. Jones,Oculoplastics,200574,02/18/2026,12:45,PM,Post-Op 1 Day,Front Desk A,Wednesday
+Raleigh,Laura Z.,Dr. Jones,Retina,200575,02/18/2026,9:45,AM,Complete Eye Exam,Reception 3,Wednesday
+Main Campus - East,Rachel N.,Dr. Martin,Optometry,200576,02/18/2026,10:45,AM,New Glaucoma,Reception 1,Wednesday
+Page Road Eye Center,Steve G.,Dr. Garcia,Glaucoma,200577,02/18/2026,11:45,AM,Office Visit,Front Desk B,Wednesday
+Chapel Hill,Diana A.,Dr. Wilson,Ophthalmology,200578,02/18/2026,16:30,PM,Return Visit,Reception 1,Wednesday
+Asheville,Jennifer P.,Dr. White,Retina,200579,02/18/2026,13:00,PM,New Cataract Evaluation,Reception 3,Wednesday
+Main Campus - West,Lisa R.,Dr. Smith,Glaucoma,200580,02/18/2026,16:45,PM,Return Visual Field,Reception 3,Wednesday
+Asheville,Lisa R.,Dr. Johnson,Pediatric Ophthalmology,200581,02/18/2026,15:15,PM,Tech Only,Front Desk C,Wednesday
+Greensboro,Lisa R.,Dr. Thompson,Ophthalmology,200582,02/18/2026,15:30,PM,Minor Room,Reception 2,Wednesday
+Greensboro,Paul E.,Dr. Martinez,Pediatric Ophthalmology,200583,02/18/2026,7:15,AM,Post-Op,Front Desk D,Wednesday
+Wilmington,Sarah M.,Dr. Thomas,Ophthalmology,200584,02/18/2026,7:30,AM,New Contact Lens,Reception 3,Wednesday
+Main Campus - West,David L.,Dr. Moore,Pediatric Ophthalmology,200585,02/18/2026,9:00,AM,New Cataract,Reception 1,Wednesday
+Wilmington,Amanda H.,Dr. Jackson,Pediatric Ophthalmology,200586,02/18/2026,15:30,PM,Return Contact Lens,Front Desk B,Wednesday
+Greensboro,Steve G.,Dr. Brown,Retina,200587,02/18/2026,7:15,AM,New Cornea,Front Desk D,Wednesday
+Asheville,Nicole F.,Dr. Jones,Oculoplastics,200588,02/18/2026,12:30,PM,Dry Eye Consult,Front Desk A,Wednesday
+Hickory,James K.,Dr. Anderson,Retina,200589,02/18/2026,7:15,AM,Complete Eye Exam,Front Desk C,Wednesday
+Main Campus - South,Lisa R.,Dr. Smith,Ophthalmology,200590,02/18/2026,13:00,PM,Laser,Front Desk C,Wednesday
+Greensboro,Amanda H.,Dr. Wilson,Retina,200591,02/18/2026,10:00,AM,Return Visit,Reception 3,Wednesday
+Hickory,Diana A.,Dr. Moore,Pediatric Ophthalmology,200592,02/18/2026,16:30,PM,Visual Acuity,Front Desk C,Wednesday
+Asheville,Lisa R.,Dr. Taylor,Optometry,200593,02/18/2026,16:45,PM,Laser,Front Desk A,Wednesday
+Raleigh,Chris B.,Dr. Brown,Optometry,200594,02/18/2026,14:15,PM,Injection-Retina,Reception 1,Wednesday
+Main Campus - South,Lisa R.,Dr. Davis,Optometry,200595,02/18/2026,16:00,PM,New Patient,Front Desk A,Wednesday
+Chapel Hill,Laura Z.,Dr. Davis,Pediatric Ophthalmology,200596,02/18/2026,7:45,AM,New Patient,Reception 1,Wednesday
+Hickory,Mike T.,Dr. Brown,Cornea,200597,02/19/2026,11:15,AM,Injection-Retina,Front Desk D,Thursday
+Statesville,Rachel N.,Dr. Wilson,Cornea,200598,02/19/2026,14:00,PM,Visual Acuity,Reception 2,Thursday
+Wilmington,Paul E.,Dr. Smith,Ophthalmology,200599,02/19/2026,10:30,AM,Return Visit,Front Desk B,Thursday
+Asheville,Chris B.,Dr. Thompson,Ophthalmology,200600,02/19/2026,11:00,AM,Return Visit,Front Desk A,Thursday
+Hickory,Emily W.,Dr. Anderson,Retina,200601,02/19/2026,11:45,AM,Post-Op,Reception 3,Thursday
+Main Campus - South,Mike T.,Dr. Anderson,Pediatric Ophthalmology,200602,02/19/2026,16:00,PM,Return Tumor,Reception 3,Thursday
+Asheville,Amanda H.,Dr. Martin,Pediatric Ophthalmology,200603,02/19/2026,8:15,AM,New Cataract,Front Desk A,Thursday
+Chapel Hill,Nicole F.,Dr. Jones,Optometry,200604,02/19/2026,10:00,AM,Return Visit,Front Desk A,Thursday
+Page Road Eye Center,David L.,Dr. Taylor,Ophthalmology,200605,02/19/2026,10:45,AM,New Visual Field,Front Desk C,Thursday
+Page Road Eye Center,Sarah M.,Dr. Johnson,Glaucoma,200606,02/19/2026,16:45,PM,New Glaucoma,Reception 3,Thursday
+Statesville,Nicole F.,Dr. Harris,Neuro-Ophthalmology,200607,02/19/2026,13:15,PM,Surgical Work Up,Reception 2,Thursday
+Page Road Eye Center,Robert C.,Dr. Davis,Oculoplastics,200608,02/19/2026,13:45,PM,Tech Only,Front Desk C,Thursday
+Hickory,Chris B.,Dr. Johnson,Ophthalmology,200609,02/19/2026,7:15,AM,New Cataract,Front Desk A,Thursday
+Chapel Hill,James K.,Dr. Thompson,Neuro-Ophthalmology,200610,02/19/2026,7:00,AM,Return Visit,Reception 2,Thursday
+Hickory,Tom V.,Dr. Wilson,Retina,200611,02/19/2026,10:45,AM,New Glaucoma,Reception 3,Thursday
+Main Campus - East,Kevin J.,Dr. Brown,Retina,200612,02/19/2026,11:00,AM,New Cataract Evaluation,Front Desk B,Thursday
+Main Campus - East,Emily W.,Dr. Garcia,Optometry,200613,02/19/2026,12:00,PM,Complete Eye Exam,Front Desk A,Thursday
+Page Road Eye Center,David L.,Dr. Martin,Optometry,200614,02/19/2026,10:00,AM,New Glaucoma,Reception 3,Thursday
+Page Road Eye Center,Emily W.,Dr. Brown,Cornea,200615,02/19/2026,12:15,PM,New Patient,Front Desk B,Thursday
+Main Campus - South,Robert C.,Dr. Harris,Retina,200616,02/19/2026,10:45,AM,Return Visit,Front Desk C,Thursday
+Wilmington,Robert C.,Dr. White,Oculoplastics,200617,02/19/2026,16:30,PM,Visual Acuity,Front Desk C,Thursday
+Raleigh,Tom V.,Dr. Brown,Ophthalmology,200618,02/19/2026,16:15,PM,Specialty Lens Fitting,Front Desk D,Thursday
+Main Campus - East,James K.,Dr. Wilson,Pediatric Ophthalmology,200619,02/19/2026,16:30,PM,New Cataract,Front Desk C,Thursday
+Raleigh,Brian D.,Dr. Robinson,Cornea,200620,02/19/2026,13:00,PM,Return Visit,Front Desk C,Thursday
+Asheville,Brian D.,Dr. Johnson,Ophthalmology,200621,02/19/2026,7:15,AM,Post-Op 1 Day,Front Desk D,Thursday
+Main Campus - East,Brian D.,Dr. Harris,Ophthalmology,200622,02/19/2026,10:45,AM,Return Visual Field,Front Desk B,Thursday
+Greensboro,Emily W.,Dr. Miller,Glaucoma,200623,02/19/2026,7:45,AM,Return Visual Field,Reception 1,Thursday
+Main Campus - East,Amanda H.,Dr. Moore,Cornea,200624,02/19/2026,16:15,PM,Tech Only,Front Desk A,Thursday
+Charlotte,Robert C.,Dr. Wilson,Retina,200625,02/19/2026,10:45,AM,Complete Eye Exam,Reception 1,Thursday
+Statesville,Robert C.,Dr. Miller,Glaucoma,200626,02/19/2026,13:45,PM,Specialty Lens Fitting,Reception 3,Thursday
+Charlotte,James K.,Dr. Johnson,Pediatric Ophthalmology,200627,02/19/2026,9:15,AM,New Glaucoma,Reception 2,Thursday
+Chapel Hill,Jennifer P.,Dr. Miller,Neuro-Ophthalmology,200628,02/19/2026,11:00,AM,Evaluation,Reception 2,Thursday
+Chapel Hill,Robert C.,Dr. Thompson,Optometry,200629,02/19/2026,7:15,AM,Return Visit,Front Desk A,Thursday
+Greensboro,Robert C.,Dr. Robinson,Neuro-Ophthalmology,200630,02/19/2026,7:00,AM,Urgent,Reception 2,Thursday
+Main Campus - South,Kelly S.,Dr. Martinez,Optometry,200631,02/19/2026,10:30,AM,Dry Eye Consult,Front Desk D,Thursday
+Main Campus - West,Lisa R.,Dr. Taylor,Neuro-Ophthalmology,200632,02/19/2026,15:00,PM,Post-Op,Front Desk C,Thursday
+Hickory,Kelly S.,Dr. Wilson,Neuro-Ophthalmology,200633,02/19/2026,7:00,AM,Return Tumor,Front Desk C,Thursday
+Wilmington,Emily W.,Dr. Smith,Retina,200634,02/20/2026,15:45,PM,New Patient,Front Desk B,Friday
+Statesville,Amanda H.,Dr. Garcia,Optometry,200635,02/20/2026,8:30,AM,New Patient,Front Desk C,Friday
+Wilmington,Kevin J.,Dr. Jones,Optometry,200636,02/20/2026,12:00,PM,New Cataract Evaluation,Front Desk B,Friday
+Wilmington,Kevin J.,Dr. Brown,Oculoplastics,200637,02/20/2026,8:00,AM,Return Uveitis,Reception 2,Friday
+Page Road Eye Center,Steve G.,Dr. Wilson,Pediatric Ophthalmology,200638,02/20/2026,13:45,PM,Return Tumor,Front Desk A,Friday
+Page Road Eye Center,James K.,Dr. Harris,Retina,200639,02/20/2026,10:30,AM,New Cataract,Front Desk C,Friday
+Charlotte,Kelly S.,Dr. White,Ophthalmology,200640,02/20/2026,12:15,PM,Return Visit,Reception 2,Friday
+Raleigh,Diana A.,Dr. Smith,Glaucoma,200641,02/20/2026,7:15,AM,Return Visit,Front Desk D,Friday
+Main Campus - East,Jennifer P.,Dr. Wilson,Cornea,200642,02/20/2026,12:30,PM,Laser,Reception 3,Friday
+Page Road Eye Center,Sarah M.,Dr. White,Retina,200643,02/20/2026,8:15,AM,Return Contact Lens,Front Desk B,Friday
+Main Campus - West,Jennifer P.,Dr. Moore,Cornea,200644,02/20/2026,14:15,PM,New Cataract Evaluation,Reception 1,Friday
+Asheville,David L.,Dr. Brown,Ophthalmology,200645,02/20/2026,7:00,AM,New Patient,Front Desk B,Friday
+Statesville,Emily W.,Dr. Anderson,Optometry,200646,02/20/2026,8:30,AM,Return Contact Lens,Front Desk D,Friday
+Main Campus - East,Kevin J.,Dr. Taylor,Ophthalmology,200647,02/20/2026,14:45,PM,Complete Eye Exam,Front Desk C,Friday
+Charlotte,Chris B.,Dr. Moore,Optometry,200648,02/20/2026,14:15,PM,Return Visit,Reception 1,Friday
+Page Road Eye Center,Nicole F.,Dr. Martin,Retina,200649,02/20/2026,14:45,PM,New Cornea,Front Desk C,Friday
+Hickory,Tom V.,Dr. Taylor,Cornea,200650,02/20/2026,8:00,AM,Tech Only,Front Desk C,Friday
+Main Campus - West,Nicole F.,Dr. Taylor,Oculoplastics,200651,02/20/2026,10:15,AM,Post-Op,Reception 2,Friday
+Charlotte,Jennifer P.,Dr. Brown,Glaucoma,200652,02/20/2026,13:45,PM,New Glaucoma,Front Desk A,Friday
+Asheville,Laura Z.,Dr. Thomas,Ophthalmology,200653,02/20/2026,13:30,PM,Tech Only,Reception 3,Friday
+Main Campus - South,Laura Z.,Dr. Taylor,Neuro-Ophthalmology,200654,02/20/2026,10:00,AM,Injection,Reception 1,Friday
+Main Campus - West,Lisa R.,Dr. Taylor,Retina,200655,02/20/2026,13:00,PM,Return Contact Lens,Reception 2,Friday
+Page Road Eye Center,Amanda H.,Dr. Thomas,Ophthalmology,200656,02/20/2026,13:15,PM,Return Contact Lens,Front Desk A,Friday
+Wilmington,Robert C.,Dr. Martinez,Oculoplastics,200657,02/20/2026,13:00,PM,Office Visit,Front Desk A,Friday
+Page Road Eye Center,Lisa R.,Dr. Brown,Ophthalmology,200658,02/20/2026,10:00,AM,New Cornea,Front Desk C,Friday
+Asheville,Robert C.,Dr. Johnson,Neuro-Ophthalmology,200659,02/20/2026,8:45,AM,New Cataract,Reception 3,Friday
+Charlotte,Kelly S.,Dr. Smith,Retina,200660,02/20/2026,12:45,PM,New Glaucoma,Front Desk C,Friday
+Asheville,Paul E.,Dr. Taylor,Ophthalmology,200661,02/20/2026,10:00,AM,Return Visual Field,Front Desk A,Friday
+Wilmington,Steve G.,Dr. Martinez,Ophthalmology,200662,02/20/2026,12:30,PM,Post-Op,Front Desk B,Friday
+Main Campus - South,Kevin J.,Dr. Moore,Neuro-Ophthalmology,200663,02/20/2026,15:30,PM,Complete Eye Exam,Front Desk C,Friday
+Charlotte,Nicole F.,Dr. Johnson,Neuro-Ophthalmology,200664,02/20/2026,14:45,PM,Return Visit,Front Desk D,Friday
+Page Road Eye Center,Kevin J.,Dr. Johnson,Pediatric Ophthalmology,200665,02/20/2026,11:00,AM,Visual Acuity,Front Desk A,Friday
+Asheville,Chris B.,Dr. Wilson,Optometry,200666,02/20/2026,10:00,AM,Post-Op Month,Reception 2,Friday
+Main Campus - West,Chris B.,Dr. Davis,Oculoplastics,200667,02/20/2026,11:30,AM,Office Visit,Reception 3,Friday
+Main Campus - East,Chris B.,Dr. Thomas,Oculoplastics,200668,02/20/2026,9:00,AM,Return Visit,Reception 1,Friday
+Chapel Hill,Chris B.,Dr. Miller,Optometry,200669,02/20/2026,14:15,PM,Return Visit,Front Desk A,Friday
+Hickory,Lisa R.,Dr. Johnson,Optometry,200670,02/20/2026,8:00,AM,Complete Eye Exam,Reception 3,Friday
+Chapel Hill,Paul E.,Dr. Jackson,Pediatric Ophthalmology,200671,02/20/2026,15:00,PM,Tech Only,Front Desk C,Friday
+Chapel Hill,Rachel N.,Dr. Garcia,Glaucoma,200672,02/20/2026,12:15,PM,Injection,Reception 2,Friday
+Main Campus - South,Mike T.,Dr. Moore,Cornea,200673,02/20/2026,7:00,AM,Complete Eye Exam,Reception 1,Friday
+Greensboro,Lisa R.,Dr. Martin,Optometry,200674,02/20/2026,9:30,AM,Return Dry Eye,Front Desk A,Friday
+Main Campus - East,Mike T.,Dr. Wilson,Optometry,200675,02/20/2026,9:45,AM,Complete Eye Exam,Reception 2,Friday
+Page Road Eye Center,Mike T.,Dr. Harris,Oculoplastics,200676,02/20/2026,9:00,AM,Office Visit,Reception 1,Friday
+Main Campus - East,David L.,Dr. Martinez,Ophthalmology,200677,02/20/2026,15:30,PM,Post-Op Month,Reception 2,Friday
+Main Campus - South,Laura Z.,Dr. Taylor,Oculoplastics,200678,02/20/2026,8:30,AM,Injection-Retina,Reception 2,Friday
+Asheville,Paul E.,Dr. Harris,Ophthalmology,200679,02/20/2026,16:45,PM,Driving Eval,Reception 1,Friday
+Page Road Eye Center,Robert C.,Dr. Wilson,Neuro-Ophthalmology,200680,02/20/2026,11:45,AM,Return Neuro,Front Desk D,Friday
+Greensboro,Robert C.,Dr. Brown,Cornea,200681,02/20/2026,14:30,PM,New Patient,Front Desk B,Friday
+Asheville,Tom V.,Dr. White,Ophthalmology,200682,02/20/2026,10:30,AM,Complete Eye Exam,Front Desk A,Friday
+Main Campus - West,Laura Z.,Dr. Williams,Glaucoma,200683,02/20/2026,14:15,PM,New Patient,Front Desk A,Friday
+Main Campus - West,Jennifer P.,Dr. Thompson,Pediatric Ophthalmology,200684,02/20/2026,8:15,AM,Return Visit,Front Desk D,Friday
+Greensboro,Emily W.,Dr. Thomas,Optometry,200685,02/20/2026,8:45,AM,Return Uveitis,Front Desk D,Friday
+Chapel Hill,Kelly S.,Dr. Davis,Retina,200686,02/20/2026,8:00,AM,Return Visit,Front Desk C,Friday
+Statesville,Brian D.,Dr. Thompson,Glaucoma,200687,02/20/2026,13:15,PM,Return Visit,Reception 3,Friday
+Charlotte,Sarah M.,Dr. Garcia,Retina,200688,02/20/2026,16:45,PM,Return Visit,Reception 3,Friday
+Charlotte,Mike T.,Dr. Jackson,Ophthalmology,200689,02/23/2026,16:45,PM,Tech Only,Reception 1,Monday
+Main Campus - South,Amanda H.,Dr. Moore,Optometry,200690,02/23/2026,16:30,PM,Office Visit,Front Desk A,Monday
+Main Campus - South,Amanda H.,Dr. Smith,Optometry,200691,02/23/2026,12:45,PM,Return Visit,Front Desk D,Monday
+Chapel Hill,David L.,Dr. Anderson,Retina,200692,02/23/2026,14:15,PM,Minor Room,Reception 1,Monday
+Hickory,Tom V.,Dr. Martin,Neuro-Ophthalmology,200693,02/23/2026,8:00,AM,Complete Eye Exam,Front Desk D,Monday
+Charlotte,Paul E.,Dr. Davis,Oculoplastics,200694,02/23/2026,14:30,PM,New Patient,Reception 1,Monday
+Wilmington,James K.,Dr. Robinson,Optometry,200695,02/23/2026,14:00,PM,Complete Eye Exam,Reception 3,Monday
+Page Road Eye Center,Amanda H.,Dr. Anderson,Oculoplastics,200696,02/23/2026,10:00,AM,Return Visit,Front Desk B,Monday
+Main Campus - East,Rachel N.,Dr. Moore,Cornea,200697,02/23/2026,11:45,AM,New Glaucoma,Reception 3,Monday
+Main Campus - East,Rachel N.,Dr. Harris,Oculoplastics,200698,02/23/2026,8:15,AM,Laser,Front Desk C,Monday
+Asheville,Sarah M.,Dr. Miller,Neuro-Ophthalmology,200699,02/23/2026,12:00,PM,Return Contact Lens,Front Desk B,Monday
+Main Campus - West,Nicole F.,Dr. Anderson,Ophthalmology,200700,02/23/2026,9:00,AM,New Glaucoma,Front Desk B,Monday
+Main Campus - East,Kelly S.,Dr. Brown,Optometry,200701,02/23/2026,9:00,AM,Surgical Work Up,Front Desk A,Monday
+Chapel Hill,Tom V.,Dr. Thompson,Neuro-Ophthalmology,200702,02/23/2026,13:30,PM,Injection,Front Desk D,Monday
+Main Campus - East,Tom V.,Dr. Martin,Ophthalmology,200703,02/23/2026,13:30,PM,Return Visit,Front Desk B,Monday
+Main Campus - South,Laura Z.,Dr. Jackson,Glaucoma,200704,02/23/2026,15:30,PM,New Cataract Evaluation,Front Desk A,Monday
+Main Campus - West,Laura Z.,Dr. Johnson,Oculoplastics,200705,02/23/2026,13:45,PM,Studies Only-Ophthalmology,Reception 3,Monday
+Main Campus - East,Brian D.,Dr. Brown,Oculoplastics,200706,02/23/2026,13:30,PM,Post-Op,Front Desk B,Monday
+Main Campus - West,Kelly S.,Dr. White,Oculoplastics,200707,02/23/2026,9:00,AM,Complete Eye Exam,Front Desk C,Monday
+Chapel Hill,Brian D.,Dr. Brown,Oculoplastics,200708,02/23/2026,12:30,PM,Post-Op Month,Front Desk A,Monday
+Wilmington,James K.,Dr. Martin,Oculoplastics,200709,02/23/2026,8:45,AM,Evaluation,Reception 3,Monday
+Charlotte,David L.,Dr. Jackson,Cornea,200710,02/23/2026,11:00,AM,New Cataract,Reception 1,Monday
+Wilmington,Brian D.,Dr. Moore,Ophthalmology,200711,02/23/2026,12:00,PM,Return Visit,Front Desk C,Monday
+Wilmington,Chris B.,Dr. White,Oculoplastics,200712,02/23/2026,8:15,AM,Post-Op Month,Front Desk C,Monday
+Wilmington,Tom V.,Dr. Miller,Glaucoma,200713,02/23/2026,16:45,PM,Injection,Reception 3,Monday
+Hickory,James K.,Dr. Thomas,Glaucoma,200714,02/23/2026,16:30,PM,Post-Op 1 Day,Front Desk A,Monday
+Greensboro,Robert C.,Dr. Jackson,Ophthalmology,200715,02/23/2026,12:00,PM,Return Visit,Reception 3,Monday
+Greensboro,Kevin J.,Dr. Anderson,Optometry,200716,02/23/2026,7:45,AM,Post-Op Month,Reception 2,Monday
+Statesville,Laura Z.,Dr. Thompson,Ophthalmology,200717,02/23/2026,10:45,AM,Laser,Reception 1,Monday
+Statesville,Steve G.,Dr. Johnson,Cornea,200718,02/23/2026,15:00,PM,Post-Op Month,Reception 2,Monday
+Greensboro,Kevin J.,Dr. Anderson,Retina,200719,02/23/2026,7:45,AM,Visual Acuity,Front Desk D,Monday
+Wilmington,Lisa R.,Dr. Thomas,Cornea,200720,02/23/2026,7:00,AM,Return Long,Reception 1,Monday
+Wilmington,Brian D.,Dr. Moore,Oculoplastics,200721,02/23/2026,14:00,PM,Complete Eye Exam,Front Desk A,Monday
+Main Campus - South,Rachel N.,Dr. Miller,Cornea,200722,02/23/2026,10:30,AM,Complete Eye Exam,Front Desk C,Monday
+Hickory,Rachel N.,Dr. Brown,Ophthalmology,200723,02/23/2026,7:00,AM,Evaluation,Reception 3,Monday
+Page Road Eye Center,Diana A.,Dr. Anderson,Pediatric Ophthalmology,200724,02/23/2026,13:15,PM,Injection,Reception 1,Monday
+Main Campus - South,Amanda H.,Dr. Moore,Neuro-Ophthalmology,200725,02/23/2026,10:30,AM,Return Visit,Front Desk D,Monday
+Greensboro,Laura Z.,Dr. Jones,Retina,200726,02/23/2026,10:45,AM,Laser,Reception 2,Monday
+Wilmington,Kevin J.,Dr. Anderson,Oculoplastics,200727,02/23/2026,16:30,PM,Post-Op 1 Day,Reception 3,Monday
+Statesville,Sarah M.,Dr. Thompson,Retina,200728,02/23/2026,11:30,AM,Complete Eye Exam,Front Desk B,Monday
+Page Road Eye Center,Tom V.,Dr. Wilson,Neuro-Ophthalmology,200729,02/23/2026,13:45,PM,Office Visit,Front Desk A,Monday
+Greensboro,Rachel N.,Dr. Anderson,Ophthalmology,200730,02/23/2026,13:15,PM,Return Visual Field,Reception 3,Monday
+Asheville,Nicole F.,Dr. Wilson,Ophthalmology,200731,02/23/2026,9:00,AM,Urgent,Reception 1,Monday
+Main Campus - South,Sarah M.,Dr. Miller,Ophthalmology,200732,02/23/2026,9:00,AM,Return Visit,Front Desk A,Monday
+Wilmington,Diana A.,Dr. Thomas,Pediatric Ophthalmology,200733,02/23/2026,14:00,PM,Return Visit,Front Desk D,Monday
+Wilmington,Chris B.,Dr. Smith,Neuro-Ophthalmology,200734,02/23/2026,13:00,PM,Laser,Reception 3,Monday
+Main Campus - South,David L.,Dr. Thompson,Retina,200735,02/23/2026,13:45,PM,Return Contact Lens,Front Desk A,Monday
+Main Campus - South,Lisa R.,Dr. Williams,Neuro-Ophthalmology,200736,02/23/2026,12:15,PM,Injection,Front Desk B,Monday
+Asheville,Kelly S.,Dr. Robinson,Glaucoma,200737,02/23/2026,12:45,PM,Complete Eye Exam,Reception 2,Monday
+Main Campus - West,Rachel N.,Dr. Miller,Glaucoma,200738,02/23/2026,11:15,AM,New Contact Lens,Reception 1,Monday
+Raleigh,Diana A.,Dr. Miller,Oculoplastics,200739,02/23/2026,16:00,PM,Botox,Front Desk C,Monday
+Hickory,Mike T.,Dr. Moore,Optometry,200740,02/23/2026,12:30,PM,Injection-Retina,Front Desk B,Monday
+Main Campus - East,Jennifer P.,Dr. Jackson,Oculoplastics,200741,02/24/2026,7:00,AM,Complete Eye Exam,Reception 1,Tuesday
+Charlotte,Nicole F.,Dr. Miller,Pediatric Ophthalmology,200742,02/24/2026,7:15,AM,Studies Only-Ophthalmology,Front Desk A,Tuesday
+Hickory,Steve G.,Dr. Martin,Ophthalmology,200743,02/24/2026,9:45,AM,New Patient,Reception 3,Tuesday
+Statesville,Lisa R.,Dr. Wilson,Optometry,200744,02/24/2026,14:00,PM,New Patient,Reception 1,Tuesday
+Page Road Eye Center,Brian D.,Dr. Williams,Neuro-Ophthalmology,200745,02/24/2026,8:45,AM,Return Visual Field,Front Desk B,Tuesday
+Statesville,Amanda H.,Dr. Moore,Cornea,200746,02/24/2026,9:45,AM,Complete Eye Exam,Reception 3,Tuesday
+Page Road Eye Center,Tom V.,Dr. Martinez,Oculoplastics,200747,02/24/2026,12:45,PM,New Visual Field,Front Desk C,Tuesday
+Hickory,Steve G.,Dr. Garcia,Retina,200748,02/24/2026,15:30,PM,Complete Eye Exam,Reception 3,Tuesday
+Greensboro,Lisa R.,Dr. Anderson,Oculoplastics,200749,02/24/2026,7:30,AM,Office Visit,Front Desk B,Tuesday
+Asheville,Steve G.,Dr. Thompson,Optometry,200750,02/24/2026,12:45,PM,Return Neuro,Front Desk A,Tuesday
+Hickory,James K.,Dr. Moore,Neuro-Ophthalmology,200751,02/24/2026,12:00,PM,Evaluation,Front Desk C,Tuesday
+Main Campus - West,Steve G.,Dr. Anderson,Cornea,200752,02/24/2026,7:15,AM,New Cataract,Front Desk C,Tuesday
+Raleigh,Steve G.,Dr. Thompson,Cornea,200753,02/24/2026,10:00,AM,Tech Only,Reception 1,Tuesday
+Asheville,Nicole F.,Dr. Robinson,Glaucoma,200754,02/24/2026,11:00,AM,Return Visit,Front Desk D,Tuesday
+Greensboro,Emily W.,Dr. Smith,Cornea,200755,02/24/2026,15:15,PM,Injection,Front Desk C,Tuesday
+Chapel Hill,Rachel N.,Dr. Garcia,Pediatric Ophthalmology,200756,02/24/2026,14:30,PM,Return Visit,Reception 1,Tuesday
+Greensboro,Diana A.,Dr. Jackson,Cornea,200757,02/24/2026,8:30,AM,Laser,Reception 2,Tuesday
+Hickory,Steve G.,Dr. Harris,Retina,200758,02/24/2026,14:30,PM,Return Contact Lens,Front Desk B,Tuesday
+Statesville,Jennifer P.,Dr. Moore,Glaucoma,200759,02/24/2026,9:15,AM,Post-Op,Front Desk A,Tuesday
+Main Campus - West,David L.,Dr. Miller,Pediatric Ophthalmology,200760,02/24/2026,7:45,AM,Evaluation,Front Desk C,Tuesday
+Main Campus - West,Brian D.,Dr. Moore,Glaucoma,200761,02/24/2026,14:45,PM,Tech Only,Front Desk C,Tuesday
+Wilmington,David L.,Dr. Smith,Glaucoma,200762,02/24/2026,13:00,PM,Return Dry Eye,Front Desk D,Tuesday
+Main Campus - South,James K.,Dr. Moore,Pediatric Ophthalmology,200763,02/24/2026,13:30,PM,Return Dry Eye,Front Desk B,Tuesday
+Page Road Eye Center,Kelly S.,Dr. Williams,Ophthalmology,200764,02/24/2026,10:15,AM,Return Visit,Reception 2,Tuesday
+Chapel Hill,Sarah M.,Dr. Smith,Pediatric Ophthalmology,200765,02/24/2026,7:45,AM,Return Contact Lens,Reception 1,Tuesday
+Raleigh,James K.,Dr. White,Neuro-Ophthalmology,200766,02/24/2026,11:15,AM,Surgical Work Up,Front Desk C,Tuesday
+Charlotte,James K.,Dr. Williams,Ophthalmology,200767,02/24/2026,9:00,AM,New Cataract,Front Desk A,Tuesday
+Main Campus - East,Nicole F.,Dr. Martin,Ophthalmology,200768,02/24/2026,10:30,AM,Laser,Reception 3,Tuesday
+Page Road Eye Center,Lisa R.,Dr. Martin,Neuro-Ophthalmology,200769,02/24/2026,9:30,AM,Urgent,Front Desk C,Tuesday
+Main Campus - South,Steve G.,Dr. Taylor,Retina,200770,02/24/2026,15:00,PM,Return Visit,Reception 1,Tuesday
+Asheville,Robert C.,Dr. Davis,Pediatric Ophthalmology,200771,02/24/2026,10:00,AM,Return Visit,Front Desk A,Tuesday
+Statesville,Lisa R.,Dr. Williams,Optometry,200772,02/24/2026,15:45,PM,Office Visit,Front Desk C,Tuesday
+Statesville,Kevin J.,Dr. Martin,Retina,200773,02/24/2026,12:45,PM,Surgical Work Up,Reception 2,Tuesday
+Page Road Eye Center,Rachel N.,Dr. Jackson,Pediatric Ophthalmology,200774,02/24/2026,16:30,PM,Return Contact Lens,Reception 1,Tuesday
+Statesville,Tom V.,Dr. Johnson,Optometry,200775,02/24/2026,15:15,PM,New Glaucoma,Reception 1,Tuesday
+Raleigh,Chris B.,Dr. Williams,Neuro-Ophthalmology,200776,02/24/2026,13:30,PM,New Patient,Front Desk A,Tuesday
+Statesville,Paul E.,Dr. Martin,Pediatric Ophthalmology,200777,02/24/2026,13:00,PM,Cosmetic,Front Desk C,Tuesday
+Asheville,Paul E.,Dr. Johnson,Retina,200778,02/24/2026,11:45,AM,Post-Op Month,Front Desk D,Tuesday
+Wilmington,Emily W.,Dr. Thompson,Pediatric Ophthalmology,200779,02/24/2026,14:30,PM,Post-Op Month,Front Desk A,Tuesday
+Page Road Eye Center,Amanda H.,Dr. Jones,Glaucoma,200780,02/25/2026,7:30,AM,Post-Op Month,Front Desk A,Wednesday
+Wilmington,Robert C.,Dr. Anderson,Neuro-Ophthalmology,200781,02/25/2026,8:15,AM,Return Visit,Reception 2,Wednesday
+Charlotte,Rachel N.,Dr. Garcia,Cornea,200782,02/25/2026,7:30,AM,Return Contact Lens,Front Desk A,Wednesday
+Main Campus - South,Robert C.,Dr. Taylor,Cornea,200783,02/25/2026,8:15,AM,Office Visit,Front Desk C,Wednesday
+Page Road Eye Center,Tom V.,Dr. Wilson,Neuro-Ophthalmology,200784,02/25/2026,11:15,AM,Post-Op 1 Day,Reception 2,Wednesday
+Statesville,Kevin J.,Dr. Martin,Retina,200785,02/25/2026,15:30,PM,New Contact Lens,Reception 3,Wednesday
+Statesville,Kelly S.,Dr. Robinson,Optometry,200786,02/25/2026,8:30,AM,New Patient,Reception 3,Wednesday
+Main Campus - South,Brian D.,Dr. Taylor,Ophthalmology,200787,02/25/2026,15:30,PM,Return Visit,Front Desk C,Wednesday
+Greensboro,Diana A.,Dr. Thompson,Optometry,200788,02/25/2026,16:00,PM,Urgent,Reception 3,Wednesday
+Main Campus - West,Nicole F.,Dr. Johnson,Pediatric Ophthalmology,200789,02/25/2026,8:00,AM,Studies Only-Ophthalmology,Front Desk A,Wednesday
+Main Campus - East,Nicole F.,Dr. Martinez,Ophthalmology,200790,02/25/2026,9:15,AM,Complete Eye Exam,Front Desk C,Wednesday
+Raleigh,Jennifer P.,Dr. Garcia,Oculoplastics,200791,02/25/2026,8:00,AM,Injection,Reception 3,Wednesday
+Main Campus - South,Kevin J.,Dr. Williams,Oculoplastics,200792,02/25/2026,12:15,PM,Driving Eval,Front Desk B,Wednesday
+Asheville,Steve G.,Dr. Williams,Optometry,200793,02/25/2026,16:45,PM,Return Dry Eye,Front Desk B,Wednesday
+Chapel Hill,Tom V.,Dr. Garcia,Ophthalmology,200794,02/25/2026,9:15,AM,Return Uveitis,Front Desk C,Wednesday
+Asheville,James K.,Dr. Moore,Pediatric Ophthalmology,200795,02/25/2026,10:45,AM,Return Visit,Reception 2,Wednesday
+Wilmington,Steve G.,Dr. Davis,Optometry,200796,02/25/2026,12:00,PM,Post-Op 1 Day,Front Desk C,Wednesday
+Main Campus - West,Laura Z.,Dr. Moore,Neuro-Ophthalmology,200797,02/25/2026,12:00,PM,Procedure,Reception 1,Wednesday
+Greensboro,Tom V.,Dr. Davis,Ophthalmology,200798,02/25/2026,10:15,AM,Post-Op,Reception 2,Wednesday
+Main Campus - West,Kevin J.,Dr. Thompson,Cornea,200799,02/25/2026,7:30,AM,New Glaucoma,Reception 3,Wednesday
+Main Campus - East,Nicole F.,Dr. Moore,Neuro-Ophthalmology,200800,02/25/2026,7:30,AM,New Patient,Front Desk A,Wednesday
+Chapel Hill,Nicole F.,Dr. Thomas,Cornea,200801,02/25/2026,15:45,PM,New Patient,Reception 1,Wednesday
+Raleigh,Laura Z.,Dr. Miller,Oculoplastics,200802,02/25/2026,14:00,PM,Surgical Work Up,Reception 1,Wednesday
+Asheville,Tom V.,Dr. Miller,Optometry,200803,02/25/2026,15:00,PM,New Patient,Front Desk C,Wednesday
+Main Campus - South,Brian D.,Dr. Davis,Glaucoma,200804,02/25/2026,11:30,AM,Complete Eye Exam,Front Desk B,Wednesday
+Page Road Eye Center,Sarah M.,Dr. Smith,Retina,200805,02/25/2026,13:15,PM,Tech Only,Reception 3,Wednesday
+Statesville,Kelly S.,Dr. Davis,Ophthalmology,200806,02/25/2026,10:15,AM,New Patient,Reception 3,Wednesday
+Main Campus - East,Amanda H.,Dr. Wilson,Ophthalmology,200807,02/25/2026,8:45,AM,Tech Only,Reception 1,Wednesday
+Main Campus - South,Robert C.,Dr. Anderson,Neuro-Ophthalmology,200808,02/25/2026,15:00,PM,Return Visit,Reception 3,Wednesday
+Raleigh,Laura Z.,Dr. Harris,Retina,200809,02/25/2026,10:15,AM,Post-Op,Front Desk B,Wednesday
+Main Campus - South,Lisa R.,Dr. Wilson,Pediatric Ophthalmology,200810,02/25/2026,15:15,PM,New Cataract,Front Desk A,Wednesday
+Charlotte,Chris B.,Dr. Jackson,Glaucoma,200811,02/25/2026,16:15,PM,New Cataract Evaluation,Reception 3,Wednesday
+Chapel Hill,Robert C.,Dr. Wilson,Retina,200812,02/25/2026,14:45,PM,New Cataract Evaluation,Reception 3,Wednesday
+Statesville,Mike T.,Dr. Williams,Ophthalmology,200813,02/25/2026,13:30,PM,Injection,Front Desk A,Wednesday
+Main Campus - West,Emily W.,Dr. Robinson,Glaucoma,200814,02/25/2026,14:15,PM,Post-Op Month,Front Desk C,Wednesday
+Main Campus - East,Nicole F.,Dr. Davis,Retina,200815,02/25/2026,16:15,PM,Complete Eye Exam,Front Desk C,Wednesday
+Wilmington,Mike T.,Dr. Thompson,Neuro-Ophthalmology,200816,02/25/2026,16:30,PM,Post-Op 1 Day,Reception 1,Wednesday
+Raleigh,Steve G.,Dr. Robinson,Optometry,200817,02/25/2026,13:15,PM,Urgent,Reception 2,Wednesday
+Chapel Hill,Mike T.,Dr. Davis,Ophthalmology,200818,02/25/2026,9:45,AM,Tech Only,Reception 2,Wednesday
+Main Campus - East,Chris B.,Dr. Jones,Oculoplastics,200819,02/26/2026,12:00,PM,Surgical Work Up,Front Desk B,Thursday
+Main Campus - South,Rachel N.,Dr. Smith,Retina,200820,02/26/2026,7:00,AM,Injection-Retina,Reception 2,Thursday
+Raleigh,Emily W.,Dr. Anderson,Optometry,200821,02/26/2026,10:00,AM,Return Visit,Front Desk C,Thursday
+Raleigh,Brian D.,Dr. Miller,Neuro-Ophthalmology,200822,02/26/2026,8:30,AM,Specialty Lens Fitting,Reception 2,Thursday
+Wilmington,David L.,Dr. Anderson,Cornea,200823,02/26/2026,7:30,AM,Tech Only,Front Desk A,Thursday
+Statesville,James K.,Dr. Thomas,Pediatric Ophthalmology,200824,02/26/2026,10:15,AM,New Patient,Reception 2,Thursday
+Main Campus - East,David L.,Dr. Brown,Cornea,200825,02/26/2026,7:15,AM,New Patient,Reception 2,Thursday
+Chapel Hill,Brian D.,Dr. Smith,Pediatric Ophthalmology,200826,02/26/2026,14:15,PM,Laser,Front Desk C,Thursday
+Greensboro,James K.,Dr. Wilson,Retina,200827,02/26/2026,10:15,AM,Return Visit,Front Desk C,Thursday
+Main Campus - East,Diana A.,Dr. Harris,Cornea,200828,02/26/2026,7:45,AM,New Cataract,Reception 3,Thursday
+Wilmington,Emily W.,Dr. Garcia,Ophthalmology,200829,02/26/2026,12:45,PM,Return Visit,Front Desk A,Thursday
+Page Road Eye Center,Rachel N.,Dr. White,Cornea,200830,02/26/2026,8:15,AM,Procedure,Reception 3,Thursday
+Raleigh,Nicole F.,Dr. Thompson,Cornea,200831,02/26/2026,13:15,PM,Return Visit,Front Desk B,Thursday
+Statesville,Chris B.,Dr. Martin,Cornea,200832,02/26/2026,11:00,AM,Return Visit,Reception 2,Thursday
+Greensboro,Steve G.,Dr. Taylor,Glaucoma,200833,02/26/2026,8:15,AM,Laser,Reception 1,Thursday
+Main Campus - West,Chris B.,Dr. Williams,Retina,200834,02/26/2026,13:45,PM,Evaluation,Reception 1,Thursday
+Main Campus - East,Sarah M.,Dr. Williams,Neuro-Ophthalmology,200835,02/26/2026,7:30,AM,Tech Only,Front Desk D,Thursday
+Main Campus - West,Amanda H.,Dr. Smith,Pediatric Ophthalmology,200836,02/26/2026,8:15,AM,Complete Eye Exam,Reception 2,Thursday
+Asheville,Nicole F.,Dr. Wilson,Glaucoma,200837,02/26/2026,16:45,PM,Post-Op,Front Desk C,Thursday
+Wilmington,Amanda H.,Dr. Anderson,Ophthalmology,200838,02/26/2026,7:45,AM,Tech Only,Front Desk A,Thursday
+Asheville,Lisa R.,Dr. Harris,Optometry,200839,02/26/2026,16:45,PM,Urgent,Reception 3,Thursday
+Asheville,Kelly S.,Dr. Taylor,Pediatric Ophthalmology,200840,02/26/2026,16:15,PM,Return Contact Lens,Front Desk B,Thursday
+Statesville,Jennifer P.,Dr. White,Glaucoma,200841,02/26/2026,13:15,PM,Office Visit,Front Desk B,Thursday
+Asheville,Sarah M.,Dr. Garcia,Pediatric Ophthalmology,200842,02/26/2026,13:00,PM,Procedure,Reception 3,Thursday
+Charlotte,Robert C.,Dr. Thompson,Pediatric Ophthalmology,200843,02/26/2026,8:45,AM,Surgical Work Up,Front Desk B,Thursday
+Charlotte,Lisa R.,Dr. Moore,Neuro-Ophthalmology,200844,02/26/2026,11:00,AM,New Patient,Front Desk D,Thursday
+Page Road Eye Center,David L.,Dr. Thomas,Ophthalmology,200845,02/26/2026,10:30,AM,Evaluation,Front Desk B,Thursday
+Statesville,Sarah M.,Dr. Johnson,Oculoplastics,200846,02/26/2026,7:30,AM,Procedure,Reception 3,Thursday
+Asheville,Laura Z.,Dr. Martinez,Cornea,200847,02/26/2026,11:45,AM,Return Visit,Front Desk A,Thursday
+Greensboro,Kevin J.,Dr. Smith,Optometry,200848,02/26/2026,11:45,AM,Post-Op 1 Day,Front Desk C,Thursday
+Asheville,Jennifer P.,Dr. Garcia,Optometry,200849,02/26/2026,8:15,AM,Return Dry Eye,Front Desk A,Thursday
+Asheville,Laura Z.,Dr. White,Glaucoma,200850,02/26/2026,16:45,PM,Return Contact Lens,Front Desk C,Thursday
+Main Campus - South,David L.,Dr. Moore,Ophthalmology,200851,02/26/2026,11:30,AM,Injection-Retina,Front Desk C,Thursday
+Asheville,Chris B.,Dr. Thomas,Cornea,200852,02/26/2026,12:15,PM,Cosmetic,Reception 1,Thursday
+Hickory,Kelly S.,Dr. Moore,Retina,200853,02/26/2026,11:15,AM,Return Visit,Reception 2,Thursday
+Greensboro,Kevin J.,Dr. Anderson,Oculoplastics,200854,02/26/2026,11:30,AM,Surgical Work Up,Front Desk C,Thursday
+Asheville,Kevin J.,Dr. Miller,Retina,200855,02/26/2026,13:00,PM,Laser,Front Desk D,Thursday
+Wilmington,Rachel N.,Dr. White,Pediatric Ophthalmology,200856,02/26/2026,15:30,PM,New Cataract,Reception 1,Thursday
+Greensboro,Paul E.,Dr. Thomas,Oculoplastics,200857,02/26/2026,11:30,AM,Return Visit,Front Desk A,Thursday
+Greensboro,Kelly S.,Dr. Jackson,Optometry,200858,02/26/2026,7:00,AM,Evaluation,Reception 1,Thursday
+Main Campus - South,Paul E.,Dr. Johnson,Oculoplastics,200859,02/26/2026,13:15,PM,Injection-Retina,Front Desk B,Thursday
+Main Campus - West,Sarah M.,Dr. Jackson,Optometry,200860,02/26/2026,8:45,AM,Complete Eye Exam,Front Desk C,Thursday
+Statesville,James K.,Dr. Wilson,Oculoplastics,200861,02/26/2026,12:15,PM,Post-Op,Reception 3,Thursday
+Page Road Eye Center,Nicole F.,Dr. Jones,Pediatric Ophthalmology,200862,02/26/2026,9:15,AM,Evaluation,Reception 3,Thursday
+Charlotte,Brian D.,Dr. Taylor,Glaucoma,200863,02/26/2026,9:30,AM,Specialty Lens Fitting,Front Desk B,Thursday
+Hickory,David L.,Dr. Thompson,Ophthalmology,200864,02/26/2026,11:30,AM,New Patient,Reception 3,Thursday
+Charlotte,Tom V.,Dr. Jackson,Optometry,200865,02/26/2026,8:30,AM,Return Visit,Reception 1,Thursday
+Raleigh,Kelly S.,Dr. Thompson,Oculoplastics,200866,02/26/2026,15:00,PM,Urgent,Reception 2,Thursday
+Hickory,Steve G.,Dr. Smith,Neuro-Ophthalmology,200867,02/27/2026,11:30,AM,Tech Only,Front Desk A,Friday
+Raleigh,Mike T.,Dr. White,Oculoplastics,200868,02/27/2026,16:30,PM,Evaluation,Front Desk A,Friday
+Charlotte,Lisa R.,Dr. Garcia,Pediatric Ophthalmology,200869,02/27/2026,13:00,PM,Evaluation,Front Desk D,Friday
+Main Campus - West,Laura Z.,Dr. Thomas,Pediatric Ophthalmology,200870,02/27/2026,15:00,PM,Post-Op Month,Front Desk A,Friday
+Statesville,Brian D.,Dr. Taylor,Neuro-Ophthalmology,200871,02/27/2026,13:45,PM,New Cornea,Reception 2,Friday
+Main Campus - West,Chris B.,Dr. Martin,Optometry,200872,02/27/2026,16:30,PM,Visual Acuity,Front Desk B,Friday
+Greensboro,Amanda H.,Dr. Miller,Optometry,200873,02/27/2026,9:30,AM,Minor Room,Reception 3,Friday
+Statesville,Robert C.,Dr. Taylor,Ophthalmology,200874,02/27/2026,11:00,AM,Evaluation,Front Desk D,Friday
+Wilmington,Rachel N.,Dr. Robinson,Ophthalmology,200875,02/27/2026,11:45,AM,Injection-Retina,Reception 3,Friday
+Wilmington,James K.,Dr. Brown,Ophthalmology,200876,02/27/2026,16:15,PM,Return Visit,Reception 3,Friday
+Charlotte,Mike T.,Dr. Robinson,Glaucoma,200877,02/27/2026,9:00,AM,Office Visit,Front Desk C,Friday
+Hickory,Diana A.,Dr. Harris,Cornea,200878,02/27/2026,13:45,PM,Return Uveitis,Front Desk B,Friday
+Wilmington,Brian D.,Dr. Johnson,Ophthalmology,200879,02/27/2026,10:45,AM,Return Visit,Reception 2,Friday
+Greensboro,Kelly S.,Dr. Harris,Oculoplastics,200880,02/27/2026,15:15,PM,New Glaucoma,Front Desk A,Friday
+Main Campus - West,Kelly S.,Dr. Thompson,Optometry,200881,02/27/2026,8:45,AM,New Cornea,Reception 3,Friday
+Main Campus - South,Rachel N.,Dr. Jackson,Pediatric Ophthalmology,200882,02/27/2026,16:00,PM,Visual Acuity,Reception 2,Friday
+Greensboro,Steve G.,Dr. Thomas,Optometry,200883,02/27/2026,15:30,PM,New Patient,Reception 3,Friday
+Raleigh,Chris B.,Dr. Harris,Neuro-Ophthalmology,200884,02/27/2026,14:00,PM,Injection,Front Desk D,Friday
+Greensboro,Amanda H.,Dr. Johnson,Ophthalmology,200885,02/27/2026,13:45,PM,Laser,Front Desk B,Friday
+Greensboro,Brian D.,Dr. Thompson,Neuro-Ophthalmology,200886,02/27/2026,16:15,PM,New Patient,Front Desk A,Friday
+Charlotte,Amanda H.,Dr. Moore,Cornea,200887,02/27/2026,13:15,PM,Return Visit,Reception 2,Friday
+Charlotte,David L.,Dr. Garcia,Optometry,200888,02/27/2026,16:45,PM,Surgical Work Up,Front Desk A,Friday
+Main Campus - South,Amanda H.,Dr. Martin,Glaucoma,200889,02/27/2026,13:30,PM,Dry Eye Consult,Front Desk B,Friday
+Hickory,Paul E.,Dr. Jones,Pediatric Ophthalmology,200890,02/27/2026,7:15,AM,Return Visit,Front Desk B,Friday
+Main Campus - West,Paul E.,Dr. Smith,Cornea,200891,02/27/2026,8:15,AM,Tech Only,Reception 2,Friday
+Hickory,Kelly S.,Dr. Brown,Neuro-Ophthalmology,200892,02/27/2026,10:15,AM,Return Contact Lens,Front Desk D,Friday
+Main Campus - South,Kelly S.,Dr. Robinson,Neuro-Ophthalmology,200893,02/27/2026,9:30,AM,Office Visit,Front Desk D,Friday
+Raleigh,Laura Z.,Dr. Thompson,Optometry,200894,02/27/2026,16:30,PM,Post-Op 1 Day,Front Desk D,Friday
+Chapel Hill,Tom V.,Dr. Garcia,Ophthalmology,200895,02/27/2026,11:45,AM,Office Visit,Reception 1,Friday
+Statesville,Tom V.,Dr. Miller,Neuro-Ophthalmology,200896,02/27/2026,15:15,PM,New Contact Lens,Reception 2,Friday
+Page Road Eye Center,Paul E.,Dr. Jones,Retina,200897,02/27/2026,10:45,AM,Visual Acuity,Front Desk A,Friday
+Statesville,Steve G.,Dr. Martin,Glaucoma,200898,02/27/2026,13:00,PM,Complete Eye Exam,Front Desk B,Friday
+Asheville,Kevin J.,Dr. Harris,Cornea,200899,02/27/2026,15:45,PM,Injection,Front Desk B,Friday
+Greensboro,Paul E.,Dr. White,Retina,200900,02/27/2026,7:00,AM,Minor Room,Reception 3,Friday
+Charlotte,Emily W.,Dr. Williams,Cornea,200901,02/27/2026,14:45,PM,Return Visit,Front Desk C,Friday
+Wilmington,Rachel N.,Dr. Williams,Neuro-Ophthalmology,200902,02/27/2026,9:45,AM,Dry Eye Consult,Reception 1,Friday
+Charlotte,Kevin J.,Dr. Robinson,Cornea,200903,02/27/2026,7:00,AM,Return Visual Field,Reception 2,Friday
+Chapel Hill,Tom V.,Dr. Harris,Neuro-Ophthalmology,200904,02/27/2026,13:15,PM,Post-Op Month,Front Desk B,Friday
+Charlotte,Emily W.,Dr. Martinez,Ophthalmology,200905,02/27/2026,16:15,PM,Injection-Retina,Front Desk D,Friday
+Page Road Eye Center,Jennifer P.,Dr. Robinson,Ophthalmology,200906,02/27/2026,16:00,PM,Return Visual Field,Front Desk D,Friday
+Greensboro,Chris B.,Dr. Brown,Neuro-Ophthalmology,200907,02/27/2026,7:00,AM,Return Visit,Reception 2,Friday
+Main Campus - East,Amanda H.,Dr. Wilson,Cornea,200908,02/27/2026,12:30,PM,Complete Eye Exam,Front Desk D,Friday
+Greensboro,David L.,Dr. Taylor,Cornea,200909,02/27/2026,14:45,PM,New Glaucoma,Reception 1,Friday
+Wilmington,David L.,Dr. Smith,Retina,200910,02/27/2026,13:45,PM,Minor Room,Front Desk B,Friday
+Hickory,Nicole F.,Dr. Miller,Cornea,200911,02/27/2026,7:45,AM,Surgical Work Up,Front Desk C,Friday
+Chapel Hill,Sarah M.,Dr. White,Pediatric Ophthalmology,200912,02/27/2026,15:15,PM,Surgical Work Up,Reception 2,Friday

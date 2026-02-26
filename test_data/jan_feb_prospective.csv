@@ -1,0 +1,1357 @@
+Location,Provider,Specialty,Patient Encounter Number,Appt Date,Appt Time,Session,Visit Type,Day of Week
+Asheville,Dr. Thomas,Ophthalmology,200001,01/01/2026,8:30,AM,Return Visual Field,Thursday
+Main Campus - West,Dr. Martinez,Neuro-Ophthalmology,200002,01/01/2026,11:45,AM,New Cataract Evaluation,Thursday
+Main Campus - East,Dr. Moore,Neuro-Ophthalmology,200003,01/01/2026,9:15,AM,Injection-Retina,Thursday
+Statesville,Dr. Robinson,Cornea,200004,01/01/2026,8:00,AM,Injection-Retina,Thursday
+Page Road Eye Center,Dr. Davis,Optometry,200005,01/01/2026,10:00,AM,Tech Only,Thursday
+Main Campus - South,Dr. Thomas,Cornea,200006,01/01/2026,9:45,AM,Procedure,Thursday
+Main Campus - South,Dr. Moore,Glaucoma,200007,01/01/2026,12:15,PM,Return Visit,Thursday
+Main Campus - East,Dr. Brown,Glaucoma,200008,01/01/2026,7:00,AM,Procedure,Thursday
+Main Campus - West,Dr. Brown,Retina,200009,01/01/2026,16:45,PM,Return Visit,Thursday
+Hickory,Dr. Anderson,Pediatric Ophthalmology,200010,01/01/2026,15:15,PM,Return Neuro,Thursday
+Asheville,Dr. Johnson,Pediatric Ophthalmology,200011,01/01/2026,11:30,AM,Surgical Work Up,Thursday
+Asheville,Dr. White,Cornea,200012,01/01/2026,9:15,AM,Post-Op,Thursday
+Hickory,Dr. Garcia,Optometry,200013,01/01/2026,8:00,AM,New Patient,Thursday
+Main Campus - South,Dr. Thomas,Ophthalmology,200014,01/01/2026,7:45,AM,Tech Only,Thursday
+Charlotte,Dr. Anderson,Neuro-Ophthalmology,200015,01/01/2026,14:15,PM,Dry Eye Consult,Thursday
+Main Campus - West,Dr. Williams,Retina,200016,01/01/2026,13:45,PM,Return Visit,Thursday
+Charlotte,Dr. Johnson,Cornea,200017,01/01/2026,11:45,AM,New Glaucoma,Thursday
+Main Campus - East,Dr. Wilson,Retina,200018,01/01/2026,12:45,PM,Laser,Thursday
+Charlotte,Dr. White,Cornea,200019,01/01/2026,12:15,PM,Return Visit,Thursday
+Main Campus - South,Dr. Anderson,Ophthalmology,200020,01/01/2026,9:30,AM,New Cataract Evaluation,Thursday
+Chapel Hill,Dr. White,Neuro-Ophthalmology,200021,01/01/2026,13:00,PM,New Glaucoma,Thursday
+Asheville,Dr. Thompson,Optometry,200022,01/01/2026,16:30,PM,New Glaucoma,Thursday
+Main Campus - East,Dr. Brown,Pediatric Ophthalmology,200023,01/01/2026,11:00,AM,Injection-Retina,Thursday
+Raleigh,Dr. Martinez,Neuro-Ophthalmology,200024,01/01/2026,12:00,PM,New Cataract,Thursday
+Greensboro,Dr. Williams,Cornea,200025,01/01/2026,11:15,AM,Specialty Lens Fitting,Thursday
+Main Campus - West,Dr. Anderson,Oculoplastics,200026,01/01/2026,11:45,AM,Office Visit,Thursday
+Main Campus - South,Dr. Smith,Ophthalmology,200027,01/01/2026,12:30,PM,Visual Acuity,Thursday
+Main Campus - West,Dr. Johnson,Oculoplastics,200028,01/01/2026,7:30,AM,Post-Op,Thursday
+Wilmington,Dr. Jackson,Neuro-Ophthalmology,200029,01/01/2026,15:30,PM,New Patient,Thursday
+Hickory,Dr. Garcia,Optometry,200030,01/01/2026,14:45,PM,New Cataract,Thursday
+Page Road Eye Center,Dr. Davis,Optometry,200031,01/01/2026,16:30,PM,Complete Eye Exam,Thursday
+Main Campus - East,Dr. Robinson,Ophthalmology,200032,01/01/2026,15:30,PM,Botox,Thursday
+Raleigh,Dr. Garcia,Glaucoma,200033,01/01/2026,15:15,PM,Injection-Retina,Thursday
+Main Campus - East,Dr. Jackson,Neuro-Ophthalmology,200034,01/01/2026,7:15,AM,Procedure,Thursday
+Raleigh,Dr. Jackson,Neuro-Ophthalmology,200035,01/01/2026,15:30,PM,Surgical Work Up,Thursday
+Greensboro,Dr. White,Cornea,200036,01/02/2026,14:00,PM,Tech Only,Friday
+Page Road Eye Center,Dr. Anderson,Neuro-Ophthalmology,200037,01/02/2026,13:30,PM,Office Visit,Friday
+Main Campus - West,Dr. Taylor,Oculoplastics,200038,01/02/2026,12:45,PM,Return Contact Lens,Friday
+Chapel Hill,Dr. Garcia,Optometry,200039,01/02/2026,11:30,AM,Urgent,Friday
+Greensboro,Dr. Jackson,Optometry,200040,01/02/2026,16:45,PM,Office Visit,Friday
+Chapel Hill,Dr. Jones,Optometry,200041,01/02/2026,14:15,PM,Injection-Retina,Friday
+Chapel Hill,Dr. Johnson,Pediatric Ophthalmology,200042,01/02/2026,14:15,PM,Tech Only,Friday
+Page Road Eye Center,Dr. Johnson,Ophthalmology,200043,01/02/2026,7:45,AM,Injection-Retina,Friday
+Greensboro,Dr. White,Ophthalmology,200044,01/02/2026,10:45,AM,New Patient,Friday
+Page Road Eye Center,Dr. Thomas,Neuro-Ophthalmology,200045,01/02/2026,13:00,PM,Return Contact Lens,Friday
+Charlotte,Dr. Anderson,Pediatric Ophthalmology,200046,01/02/2026,14:15,PM,Injection-Retina,Friday
+Main Campus - West,Dr. Davis,Ophthalmology,200047,01/02/2026,9:45,AM,New Patient,Friday
+Greensboro,Dr. Garcia,Neuro-Ophthalmology,200048,01/02/2026,14:30,PM,Tech Only,Friday
+Charlotte,Dr. Harris,Optometry,200049,01/02/2026,16:30,PM,Return Contact Lens,Friday
+Main Campus - West,Dr. Robinson,Ophthalmology,200050,01/02/2026,7:15,AM,Office Visit,Friday
+Hickory,Dr. Johnson,Ophthalmology,200051,01/02/2026,11:45,AM,Urgent,Friday
+Main Campus - South,Dr. Thompson,Retina,200052,01/02/2026,16:15,PM,Return Visit,Friday
+Charlotte,Dr. White,Oculoplastics,200053,01/02/2026,8:45,AM,Complete Eye Exam,Friday
+Wilmington,Dr. Moore,Oculoplastics,200054,01/02/2026,16:45,PM,Return Visit,Friday
+Main Campus - East,Dr. Wilson,Cornea,200055,01/02/2026,10:30,AM,Return Visit,Friday
+Main Campus - West,Dr. Garcia,Pediatric Ophthalmology,200056,01/02/2026,11:15,AM,Post-Op,Friday
+Charlotte,Dr. Smith,Ophthalmology,200057,01/02/2026,13:15,PM,Return Visual Field,Friday
+Wilmington,Dr. Johnson,Neuro-Ophthalmology,200058,01/02/2026,11:15,AM,Return Visit,Friday
+Asheville,Dr. Davis,Cornea,200059,01/02/2026,7:30,AM,Surgical Work Up,Friday
+Wilmington,Dr. Garcia,Optometry,200060,01/02/2026,11:15,AM,Return Long,Friday
+Page Road Eye Center,Dr. Harris,Neuro-Ophthalmology,200061,01/05/2026,7:00,AM,Dry Eye Consult,Monday
+Wilmington,Dr. Martinez,Neuro-Ophthalmology,200062,01/05/2026,7:00,AM,Post-Op,Monday
+Wilmington,Dr. Taylor,Oculoplastics,200063,01/05/2026,9:00,AM,Complete Eye Exam,Monday
+Charlotte,Dr. Harris,Pediatric Ophthalmology,200064,01/05/2026,15:45,PM,New Cataract Evaluation,Monday
+Charlotte,Dr. Williams,Ophthalmology,200065,01/05/2026,16:30,PM,Return Visit,Monday
+Chapel Hill,Dr. Robinson,Ophthalmology,200066,01/05/2026,11:15,AM,New Visual Field,Monday
+Page Road Eye Center,Dr. Jones,Cornea,200067,01/05/2026,11:30,AM,Dry Eye Consult,Monday
+Charlotte,Dr. Robinson,Neuro-Ophthalmology,200068,01/05/2026,7:45,AM,Minor Room,Monday
+Hickory,Dr. Martin,Ophthalmology,200069,01/05/2026,8:30,AM,New Patient,Monday
+Asheville,Dr. Smith,Retina,200070,01/05/2026,14:45,PM,Complete Eye Exam,Monday
+Asheville,Dr. Robinson,Oculoplastics,200071,01/05/2026,10:00,AM,Return Dry Eye,Monday
+Chapel Hill,Dr. Jones,Glaucoma,200072,01/05/2026,14:30,PM,Return Long,Monday
+Main Campus - South,Dr. Martinez,Retina,200073,01/05/2026,13:15,PM,Injection,Monday
+Chapel Hill,Dr. Brown,Retina,200074,01/05/2026,7:00,AM,Office Visit,Monday
+Raleigh,Dr. White,Oculoplastics,200075,01/05/2026,14:30,PM,New Patient,Monday
+Hickory,Dr. Brown,Oculoplastics,200076,01/05/2026,12:00,PM,Post-Op 1 Day,Monday
+Main Campus - West,Dr. Jones,Pediatric Ophthalmology,200077,01/05/2026,10:00,AM,Return Visit,Monday
+Raleigh,Dr. White,Optometry,200078,01/05/2026,12:00,PM,Complete Eye Exam,Monday
+Main Campus - West,Dr. White,Oculoplastics,200079,01/05/2026,7:00,AM,Post-Op,Monday
+Main Campus - South,Dr. Johnson,Optometry,200080,01/05/2026,10:30,AM,Return Contact Lens,Monday
+Main Campus - West,Dr. Robinson,Glaucoma,200081,01/05/2026,14:00,PM,Office Visit,Monday
+Page Road Eye Center,Dr. Martin,Oculoplastics,200082,01/05/2026,16:30,PM,Dry Eye Consult,Monday
+Main Campus - West,Dr. Wilson,Ophthalmology,200083,01/05/2026,9:30,AM,Specialty Lens Fitting,Monday
+Raleigh,Dr. Taylor,Optometry,200084,01/05/2026,12:00,PM,Return Visit,Monday
+Main Campus - East,Dr. Robinson,Oculoplastics,200085,01/05/2026,12:45,PM,Laser,Monday
+Chapel Hill,Dr. Williams,Optometry,200086,01/05/2026,16:00,PM,Office Visit,Monday
+Hickory,Dr. Jackson,Retina,200087,01/05/2026,12:00,PM,Procedure,Monday
+Main Campus - West,Dr. Jackson,Neuro-Ophthalmology,200088,01/05/2026,13:15,PM,Office Visit,Monday
+Page Road Eye Center,Dr. Miller,Optometry,200089,01/06/2026,16:15,PM,Return Contact Lens,Tuesday
+Main Campus - South,Dr. Thompson,Cornea,200090,01/06/2026,9:30,AM,Post-Op,Tuesday
+Main Campus - West,Dr. Smith,Optometry,200091,01/06/2026,16:30,PM,Complete Eye Exam,Tuesday
+Main Campus - South,Dr. Martinez,Pediatric Ophthalmology,200092,01/06/2026,9:45,AM,Return Dry Eye,Tuesday
+Page Road Eye Center,Dr. Jackson,Oculoplastics,200093,01/06/2026,15:45,PM,New Cataract Evaluation,Tuesday
+Greensboro,Dr. Moore,Cornea,200094,01/06/2026,14:00,PM,Botox,Tuesday
+Charlotte,Dr. Wilson,Neuro-Ophthalmology,200095,01/06/2026,15:15,PM,Post-Op,Tuesday
+Main Campus - East,Dr. Taylor,Pediatric Ophthalmology,200096,01/06/2026,15:45,PM,Return Long,Tuesday
+Asheville,Dr. Brown,Optometry,200097,01/06/2026,12:00,PM,Complete Eye Exam,Tuesday
+Page Road Eye Center,Dr. Robinson,Glaucoma,200098,01/06/2026,7:00,AM,Evaluation,Tuesday
+Asheville,Dr. Robinson,Oculoplastics,200099,01/06/2026,10:15,AM,Dry Eye Consult,Tuesday
+Raleigh,Dr. Smith,Retina,200100,01/06/2026,15:30,PM,New Visual Field,Tuesday
+Main Campus - East,Dr. Smith,Neuro-Ophthalmology,200101,01/06/2026,11:00,AM,Complete Eye Exam,Tuesday
+Main Campus - West,Dr. Brown,Cornea,200102,01/06/2026,9:00,AM,Injection,Tuesday
+Main Campus - South,Dr. Harris,Retina,200103,01/06/2026,16:15,PM,Complete Eye Exam,Tuesday
+Chapel Hill,Dr. Brown,Glaucoma,200104,01/06/2026,10:15,AM,Minor Room,Tuesday
+Page Road Eye Center,Dr. Miller,Glaucoma,200105,01/06/2026,9:00,AM,Return Contact Lens,Tuesday
+Main Campus - West,Dr. Taylor,Glaucoma,200106,01/06/2026,9:30,AM,Office Visit,Tuesday
+Main Campus - East,Dr. Jones,Ophthalmology,200107,01/06/2026,16:45,PM,Complete Eye Exam,Tuesday
+Raleigh,Dr. Taylor,Ophthalmology,200108,01/06/2026,7:15,AM,Specialty Lens Fitting,Tuesday
+Greensboro,Dr. Smith,Retina,200109,01/06/2026,7:30,AM,Return Long,Tuesday
+Main Campus - East,Dr. Garcia,Oculoplastics,200110,01/06/2026,8:30,AM,Visual Acuity,Tuesday
+Main Campus - East,Dr. Martinez,Neuro-Ophthalmology,200111,01/06/2026,7:30,AM,Return Neuro,Tuesday
+Raleigh,Dr. Harris,Oculoplastics,200112,01/06/2026,8:15,AM,Injection,Tuesday
+Page Road Eye Center,Dr. Thompson,Neuro-Ophthalmology,200113,01/06/2026,7:00,AM,Injection-Retina,Tuesday
+Chapel Hill,Dr. White,Pediatric Ophthalmology,200114,01/06/2026,13:45,PM,Return Contact Lens,Tuesday
+Asheville,Dr. Garcia,Pediatric Ophthalmology,200115,01/06/2026,12:30,PM,Urgent,Tuesday
+Hickory,Dr. Williams,Neuro-Ophthalmology,200116,01/07/2026,8:00,AM,New Patient,Wednesday
+Asheville,Dr. Thompson,Pediatric Ophthalmology,200117,01/07/2026,9:45,AM,New Contact Lens,Wednesday
+Asheville,Dr. Johnson,Pediatric Ophthalmology,200118,01/07/2026,8:15,AM,New Patient,Wednesday
+Page Road Eye Center,Dr. Wilson,Optometry,200119,01/07/2026,8:30,AM,Tech Only,Wednesday
+Main Campus - West,Dr. Moore,Oculoplastics,200120,01/07/2026,14:15,PM,Return Visit,Wednesday
+Main Campus - West,Dr. Martinez,Cornea,200121,01/07/2026,10:00,AM,Post-Op,Wednesday
+Hickory,Dr. Robinson,Retina,200122,01/07/2026,10:15,AM,Laser,Wednesday
+Greensboro,Dr. Brown,Glaucoma,200123,01/07/2026,14:45,PM,New Patient,Wednesday
+Raleigh,Dr. Martin,Neuro-Ophthalmology,200124,01/07/2026,16:00,PM,Return Dry Eye,Wednesday
+Wilmington,Dr. Taylor,Glaucoma,200125,01/07/2026,15:00,PM,Laser,Wednesday
+Hickory,Dr. Smith,Pediatric Ophthalmology,200126,01/07/2026,11:45,AM,Return Visit,Wednesday
+Greensboro,Dr. Thomas,Glaucoma,200127,01/07/2026,8:45,AM,Procedure,Wednesday
+Page Road Eye Center,Dr. Moore,Cornea,200128,01/07/2026,13:30,PM,Dry Eye Consult,Wednesday
+Chapel Hill,Dr. Martinez,Cornea,200129,01/07/2026,9:15,AM,Surgical Work Up,Wednesday
+Charlotte,Dr. Jones,Retina,200130,01/07/2026,8:45,AM,New Patient,Wednesday
+Greensboro,Dr. Moore,Oculoplastics,200131,01/07/2026,10:15,AM,Injection,Wednesday
+Hickory,Dr. Jones,Optometry,200132,01/07/2026,12:15,PM,Complete Eye Exam,Wednesday
+Main Campus - East,Dr. Thompson,Retina,200133,01/07/2026,13:00,PM,Post-Op,Wednesday
+Chapel Hill,Dr. Davis,Cornea,200134,01/07/2026,12:30,PM,Return Visit,Wednesday
+Raleigh,Dr. Harris,Ophthalmology,200135,01/07/2026,12:30,PM,Return Contact Lens,Wednesday
+Hickory,Dr. Johnson,Optometry,200136,01/07/2026,14:00,PM,Surgical Work Up,Wednesday
+Main Campus - West,Dr. Thomas,Retina,200137,01/07/2026,11:00,AM,Minor Room,Wednesday
+Main Campus - West,Dr. Harris,Cornea,200138,01/07/2026,9:15,AM,Specialty Lens Fitting,Wednesday
+Main Campus - East,Dr. Thompson,Optometry,200139,01/07/2026,7:15,AM,New Patient,Wednesday
+Asheville,Dr. White,Oculoplastics,200140,01/07/2026,9:15,AM,Post-Op,Wednesday
+Asheville,Dr. Williams,Glaucoma,200141,01/07/2026,12:45,PM,New Contact Lens,Wednesday
+Raleigh,Dr. Brown,Glaucoma,200142,01/07/2026,10:00,AM,Office Visit,Wednesday
+Chapel Hill,Dr. Jones,Oculoplastics,200143,01/07/2026,15:45,PM,Post-Op,Wednesday
+Main Campus - South,Dr. Harris,Retina,200144,01/07/2026,15:00,PM,Return Visit,Wednesday
+Asheville,Dr. Davis,Retina,200145,01/07/2026,15:45,PM,Evaluation,Wednesday
+Wilmington,Dr. Robinson,Optometry,200146,01/07/2026,13:00,PM,Complete Eye Exam,Wednesday
+Charlotte,Dr. Jones,Glaucoma,200147,01/08/2026,12:45,PM,New Glaucoma,Thursday
+Hickory,Dr. Robinson,Pediatric Ophthalmology,200148,01/08/2026,15:15,PM,Evaluation,Thursday
+Hickory,Dr. Anderson,Cornea,200149,01/08/2026,10:15,AM,Return Contact Lens,Thursday
+Page Road Eye Center,Dr. Moore,Oculoplastics,200150,01/08/2026,13:00,PM,Tech Only,Thursday
+Main Campus - South,Dr. Johnson,Neuro-Ophthalmology,200151,01/08/2026,8:30,AM,Return Contact Lens,Thursday
+Page Road Eye Center,Dr. Harris,Cornea,200152,01/08/2026,8:30,AM,Complete Eye Exam,Thursday
+Asheville,Dr. Jackson,Optometry,200153,01/08/2026,12:45,PM,Post-Op 1 Day,Thursday
+Hickory,Dr. Williams,Cornea,200154,01/08/2026,9:15,AM,Return Visit,Thursday
+Main Campus - West,Dr. Wilson,Neuro-Ophthalmology,200155,01/08/2026,9:45,AM,Office Visit,Thursday
+Charlotte,Dr. Davis,Oculoplastics,200156,01/08/2026,11:15,AM,Return Visit,Thursday
+Hickory,Dr. Taylor,Glaucoma,200157,01/08/2026,13:15,PM,Office Visit,Thursday
+Statesville,Dr. Jones,Optometry,200158,01/08/2026,9:30,AM,Post-Op 1 Day,Thursday
+Asheville,Dr. Williams,Pediatric Ophthalmology,200159,01/08/2026,14:45,PM,Dry Eye Consult,Thursday
+Main Campus - South,Dr. Anderson,Retina,200160,01/08/2026,13:15,PM,Return Contact Lens,Thursday
+Raleigh,Dr. Brown,Oculoplastics,200161,01/08/2026,10:15,AM,New Cataract,Thursday
+Statesville,Dr. Thompson,Retina,200162,01/08/2026,15:45,PM,Tech Only,Thursday
+Statesville,Dr. Jones,Glaucoma,200163,01/08/2026,7:15,AM,Procedure,Thursday
+Main Campus - East,Dr. Thomas,Ophthalmology,200164,01/08/2026,14:45,PM,New Patient,Thursday
+Statesville,Dr. Garcia,Oculoplastics,200165,01/08/2026,8:30,AM,Return Dry Eye,Thursday
+Charlotte,Dr. Martin,Oculoplastics,200166,01/08/2026,12:30,PM,New Cataract,Thursday
+Wilmington,Dr. Anderson,Neuro-Ophthalmology,200167,01/08/2026,16:45,PM,Surgical Work Up,Thursday
+Page Road Eye Center,Dr. Thomas,Ophthalmology,200168,01/08/2026,13:30,PM,New Patient,Thursday
+Greensboro,Dr. White,Retina,200169,01/08/2026,14:30,PM,Procedure,Thursday
+Statesville,Dr. Thomas,Optometry,200170,01/08/2026,9:45,AM,Injection,Thursday
+Main Campus - West,Dr. Miller,Cornea,200171,01/08/2026,11:30,AM,New Patient,Thursday
+Charlotte,Dr. Thompson,Glaucoma,200172,01/08/2026,14:15,PM,New Patient,Thursday
+Raleigh,Dr. Martinez,Cornea,200173,01/08/2026,12:00,PM,Surgical Work Up,Thursday
+Raleigh,Dr. Smith,Oculoplastics,200174,01/08/2026,7:15,AM,New Patient,Thursday
+Raleigh,Dr. Garcia,Glaucoma,200175,01/08/2026,12:45,PM,Return Visit,Thursday
+Main Campus - East,Dr. Moore,Glaucoma,200176,01/08/2026,12:45,PM,Office Visit,Thursday
+Wilmington,Dr. Martinez,Optometry,200177,01/08/2026,8:15,AM,New Cornea,Thursday
+Wilmington,Dr. Harris,Ophthalmology,200178,01/08/2026,14:45,PM,Return Contact Lens,Thursday
+Greensboro,Dr. White,Cornea,200179,01/08/2026,13:00,PM,Post-Op,Thursday
+Main Campus - West,Dr. Martin,Neuro-Ophthalmology,200180,01/08/2026,14:30,PM,Minor Room,Thursday
+Asheville,Dr. Smith,Neuro-Ophthalmology,200181,01/08/2026,8:00,AM,New Cataract Evaluation,Thursday
+Raleigh,Dr. Harris,Pediatric Ophthalmology,200182,01/08/2026,8:15,AM,Evaluation,Thursday
+Main Campus - East,Dr. Jackson,Glaucoma,200183,01/08/2026,11:45,AM,Return Neuro,Thursday
+Main Campus - East,Dr. Taylor,Ophthalmology,200184,01/09/2026,13:15,PM,Return Visit,Friday
+Main Campus - East,Dr. Williams,Oculoplastics,200185,01/09/2026,8:00,AM,Return Visit,Friday
+Statesville,Dr. Harris,Neuro-Ophthalmology,200186,01/09/2026,8:45,AM,Office Visit,Friday
+Main Campus - East,Dr. Thompson,Retina,200187,01/09/2026,13:30,PM,Procedure,Friday
+Main Campus - East,Dr. Martinez,Ophthalmology,200188,01/09/2026,15:45,PM,Complete Eye Exam,Friday
+Asheville,Dr. Garcia,Oculoplastics,200189,01/09/2026,15:30,PM,New Patient,Friday
+Greensboro,Dr. Smith,Oculoplastics,200190,01/09/2026,16:00,PM,Surgical Work Up,Friday
+Main Campus - West,Dr. Thompson,Oculoplastics,200191,01/09/2026,15:45,PM,Laser,Friday
+Chapel Hill,Dr. Robinson,Pediatric Ophthalmology,200192,01/09/2026,8:45,AM,Post-Op,Friday
+Chapel Hill,Dr. Martinez,Oculoplastics,200193,01/09/2026,8:30,AM,Tech Only,Friday
+Statesville,Dr. Williams,Oculoplastics,200194,01/09/2026,13:30,PM,Minor Room,Friday
+Statesville,Dr. Thompson,Retina,200195,01/09/2026,10:00,AM,Injection,Friday
+Greensboro,Dr. Davis,Neuro-Ophthalmology,200196,01/09/2026,11:45,AM,New Glaucoma,Friday
+Page Road Eye Center,Dr. Taylor,Retina,200197,01/09/2026,12:00,PM,Procedure,Friday
+Page Road Eye Center,Dr. Johnson,Oculoplastics,200198,01/09/2026,13:00,PM,Return Visual Field,Friday
+Page Road Eye Center,Dr. Thomas,Optometry,200199,01/09/2026,8:30,AM,Tech Only,Friday
+Greensboro,Dr. Thomas,Ophthalmology,200200,01/09/2026,14:30,PM,Return Long,Friday
+Main Campus - West,Dr. Williams,Glaucoma,200201,01/09/2026,7:45,AM,Return Contact Lens,Friday
+Main Campus - East,Dr. Thomas,Pediatric Ophthalmology,200202,01/09/2026,16:00,PM,Return Visit,Friday
+Greensboro,Dr. Robinson,Cornea,200203,01/09/2026,11:00,AM,Surgical Work Up,Friday
+Main Campus - West,Dr. White,Retina,200204,01/09/2026,12:00,PM,Complete Eye Exam,Friday
+Statesville,Dr. Harris,Glaucoma,200205,01/09/2026,10:30,AM,Return Contact Lens,Friday
+Main Campus - South,Dr. Jackson,Ophthalmology,200206,01/09/2026,15:45,PM,New Cataract Evaluation,Friday
+Asheville,Dr. Anderson,Pediatric Ophthalmology,200207,01/09/2026,8:15,AM,Return Visit,Friday
+Statesville,Dr. Thomas,Optometry,200208,01/09/2026,8:00,AM,Tech Only,Friday
+Main Campus - East,Dr. Brown,Optometry,200209,01/09/2026,10:45,AM,Urgent,Friday
+Statesville,Dr. Thompson,Retina,200210,01/09/2026,15:30,PM,New Cataract Evaluation,Friday
+Main Campus - South,Dr. Garcia,Glaucoma,200211,01/09/2026,10:30,AM,New Cataract Evaluation,Friday
+Main Campus - South,Dr. Thomas,Optometry,200212,01/09/2026,13:30,PM,Laser,Friday
+Hickory,Dr. White,Pediatric Ophthalmology,200213,01/09/2026,16:30,PM,Complete Eye Exam,Friday
+Page Road Eye Center,Dr. Anderson,Pediatric Ophthalmology,200214,01/09/2026,8:15,AM,Evaluation,Friday
+Statesville,Dr. Thompson,Pediatric Ophthalmology,200215,01/09/2026,15:15,PM,Injection,Friday
+Statesville,Dr. Moore,Ophthalmology,200216,01/09/2026,12:15,PM,Post-Op 1 Day,Friday
+Asheville,Dr. Martin,Optometry,200217,01/09/2026,7:00,AM,Urgent,Friday
+Main Campus - East,Dr. Jackson,Oculoplastics,200218,01/09/2026,16:00,PM,Visual Acuity,Friday
+Charlotte,Dr. Martin,Oculoplastics,200219,01/09/2026,16:00,PM,Return Visit,Friday
+Wilmington,Dr. Williams,Cornea,200220,01/09/2026,8:45,AM,Return Dry Eye,Friday
+Page Road Eye Center,Dr. Thomas,Glaucoma,200221,01/09/2026,9:45,AM,Office Visit,Friday
+Raleigh,Dr. Miller,Ophthalmology,200222,01/09/2026,9:45,AM,Office Visit,Friday
+Wilmington,Dr. Harris,Optometry,200223,01/09/2026,12:30,PM,Tech Only,Friday
+Wilmington,Dr. Miller,Cornea,200224,01/12/2026,14:00,PM,Return Visit,Monday
+Raleigh,Dr. Harris,Cornea,200225,01/12/2026,14:45,PM,New Cornea,Monday
+Hickory,Dr. Anderson,Ophthalmology,200226,01/12/2026,15:30,PM,Visual Acuity,Monday
+Wilmington,Dr. Garcia,Cornea,200227,01/12/2026,9:15,AM,Injection-Retina,Monday
+Main Campus - West,Dr. Harris,Retina,200228,01/12/2026,8:45,AM,New Patient,Monday
+Hickory,Dr. Garcia,Retina,200229,01/12/2026,14:30,PM,Post-Op,Monday
+Statesville,Dr. White,Retina,200230,01/12/2026,13:45,PM,Visual Acuity,Monday
+Main Campus - South,Dr. Taylor,Glaucoma,200231,01/12/2026,10:15,AM,New Patient,Monday
+Greensboro,Dr. Garcia,Ophthalmology,200232,01/12/2026,10:45,AM,Return Dry Eye,Monday
+Statesville,Dr. Davis,Pediatric Ophthalmology,200233,01/12/2026,16:30,PM,Tech Only,Monday
+Main Campus - West,Dr. Martinez,Cornea,200234,01/12/2026,7:45,AM,Tech Only,Monday
+Page Road Eye Center,Dr. Williams,Cornea,200235,01/12/2026,16:30,PM,Urgent,Monday
+Charlotte,Dr. Jackson,Pediatric Ophthalmology,200236,01/12/2026,15:30,PM,New Cataract,Monday
+Charlotte,Dr. Smith,Neuro-Ophthalmology,200237,01/12/2026,15:45,PM,New Patient,Monday
+Main Campus - South,Dr. Brown,Neuro-Ophthalmology,200238,01/12/2026,8:30,AM,New Cataract,Monday
+Greensboro,Dr. Thompson,Glaucoma,200239,01/12/2026,11:30,AM,Visual Acuity,Monday
+Wilmington,Dr. Martin,Neuro-Ophthalmology,200240,01/12/2026,16:30,PM,Return Visit,Monday
+Raleigh,Dr. Robinson,Glaucoma,200241,01/12/2026,9:30,AM,Return Visit,Monday
+Main Campus - East,Dr. White,Retina,200242,01/12/2026,9:45,AM,Return Visit,Monday
+Greensboro,Dr. Wilson,Optometry,200243,01/12/2026,9:00,AM,New Patient,Monday
+Chapel Hill,Dr. Thompson,Neuro-Ophthalmology,200244,01/12/2026,7:30,AM,Return Neuro,Monday
+Hickory,Dr. Thompson,Retina,200245,01/12/2026,15:15,PM,New Cornea,Monday
+Wilmington,Dr. Martinez,Neuro-Ophthalmology,200246,01/12/2026,7:45,AM,Injection-Retina,Monday
+Main Campus - West,Dr. Moore,Retina,200247,01/12/2026,8:15,AM,Evaluation,Monday
+Hickory,Dr. Martinez,Neuro-Ophthalmology,200248,01/12/2026,11:45,AM,New Cataract,Monday
+Greensboro,Dr. White,Optometry,200249,01/12/2026,14:15,PM,Return Visit,Monday
+Charlotte,Dr. Miller,Pediatric Ophthalmology,200250,01/12/2026,9:15,AM,Evaluation,Monday
+Main Campus - East,Dr. Jackson,Ophthalmology,200251,01/12/2026,9:00,AM,New Patient,Monday
+Main Campus - East,Dr. Taylor,Cornea,200252,01/12/2026,16:45,PM,New Patient,Monday
+Wilmington,Dr. Thomas,Glaucoma,200253,01/12/2026,13:30,PM,Office Visit,Monday
+Main Campus - East,Dr. White,Retina,200254,01/12/2026,14:30,PM,New Patient,Monday
+Asheville,Dr. Johnson,Optometry,200255,01/12/2026,11:30,AM,Evaluation,Monday
+Main Campus - South,Dr. Taylor,Optometry,200256,01/12/2026,15:15,PM,Return Visit,Monday
+Asheville,Dr. Anderson,Neuro-Ophthalmology,200257,01/12/2026,8:30,AM,Return Visit,Monday
+Statesville,Dr. Robinson,Neuro-Ophthalmology,200258,01/13/2026,16:45,PM,Return Contact Lens,Tuesday
+Main Campus - South,Dr. Brown,Pediatric Ophthalmology,200259,01/13/2026,16:15,PM,Complete Eye Exam,Tuesday
+Asheville,Dr. Johnson,Pediatric Ophthalmology,200260,01/13/2026,14:15,PM,Procedure,Tuesday
+Charlotte,Dr. Harris,Oculoplastics,200261,01/13/2026,15:00,PM,Post-Op 1 Day,Tuesday
+Main Campus - South,Dr. Miller,Neuro-Ophthalmology,200262,01/13/2026,8:45,AM,Return Contact Lens,Tuesday
+Page Road Eye Center,Dr. Jackson,Retina,200263,01/13/2026,7:00,AM,Dry Eye Consult,Tuesday
+Statesville,Dr. Anderson,Glaucoma,200264,01/13/2026,7:30,AM,Post-Op 1 Day,Tuesday
+Chapel Hill,Dr. Jones,Retina,200265,01/13/2026,13:30,PM,Return Dry Eye,Tuesday
+Asheville,Dr. Jackson,Neuro-Ophthalmology,200266,01/13/2026,14:00,PM,Urgent,Tuesday
+Main Campus - West,Dr. Thompson,Ophthalmology,200267,01/13/2026,13:45,PM,Injection-Retina,Tuesday
+Main Campus - West,Dr. Anderson,Ophthalmology,200268,01/13/2026,8:45,AM,Tech Only,Tuesday
+Hickory,Dr. Brown,Ophthalmology,200269,01/13/2026,13:00,PM,Specialty Lens Fitting,Tuesday
+Page Road Eye Center,Dr. Wilson,Glaucoma,200270,01/13/2026,14:30,PM,Return Visual Field,Tuesday
+Main Campus - East,Dr. Jackson,Pediatric Ophthalmology,200271,01/13/2026,13:00,PM,New Patient,Tuesday
+Raleigh,Dr. Wilson,Retina,200272,01/13/2026,9:00,AM,Evaluation,Tuesday
+Greensboro,Dr. Smith,Pediatric Ophthalmology,200273,01/13/2026,11:30,AM,Office Visit,Tuesday
+Main Campus - South,Dr. Brown,Neuro-Ophthalmology,200274,01/13/2026,9:45,AM,New Cataract Evaluation,Tuesday
+Asheville,Dr. Wilson,Retina,200275,01/13/2026,12:30,PM,Dry Eye Consult,Tuesday
+Greensboro,Dr. Wilson,Retina,200276,01/13/2026,9:15,AM,New Patient,Tuesday
+Raleigh,Dr. Thomas,Oculoplastics,200277,01/13/2026,13:00,PM,Tech Only,Tuesday
+Main Campus - West,Dr. White,Neuro-Ophthalmology,200278,01/13/2026,12:15,PM,Urgent,Tuesday
+Greensboro,Dr. Smith,Ophthalmology,200279,01/13/2026,13:30,PM,Return Visit,Tuesday
+Page Road Eye Center,Dr. Martin,Retina,200280,01/13/2026,11:00,AM,Return Visit,Tuesday
+Main Campus - East,Dr. Miller,Optometry,200281,01/13/2026,12:15,PM,Return Visit,Tuesday
+Main Campus - West,Dr. Anderson,Retina,200282,01/13/2026,9:00,AM,Complete Eye Exam,Tuesday
+Statesville,Dr. Martin,Cornea,200283,01/14/2026,10:30,AM,Injection,Wednesday
+Hickory,Dr. Jones,Neuro-Ophthalmology,200284,01/14/2026,9:45,AM,Tech Only,Wednesday
+Charlotte,Dr. Johnson,Glaucoma,200285,01/14/2026,9:15,AM,Injection,Wednesday
+Statesville,Dr. Garcia,Ophthalmology,200286,01/14/2026,15:00,PM,Office Visit,Wednesday
+Statesville,Dr. Thomas,Oculoplastics,200287,01/14/2026,9:15,AM,Tech Only,Wednesday
+Wilmington,Dr. Johnson,Retina,200288,01/14/2026,16:45,PM,Return Neuro,Wednesday
+Charlotte,Dr. Moore,Oculoplastics,200289,01/14/2026,13:00,PM,New Contact Lens,Wednesday
+Greensboro,Dr. Williams,Ophthalmology,200290,01/14/2026,16:45,PM,Office Visit,Wednesday
+Asheville,Dr. White,Ophthalmology,200291,01/14/2026,13:00,PM,New Patient,Wednesday
+Chapel Hill,Dr. Johnson,Glaucoma,200292,01/14/2026,7:45,AM,Post-Op 1 Day,Wednesday
+Main Campus - South,Dr. Thompson,Optometry,200293,01/14/2026,10:45,AM,New Patient,Wednesday
+Page Road Eye Center,Dr. Smith,Pediatric Ophthalmology,200294,01/14/2026,7:30,AM,Procedure,Wednesday
+Chapel Hill,Dr. White,Optometry,200295,01/14/2026,16:15,PM,Injection-Retina,Wednesday
+Chapel Hill,Dr. Smith,Ophthalmology,200296,01/14/2026,16:30,PM,New Cataract Evaluation,Wednesday
+Wilmington,Dr. Martin,Cornea,200297,01/14/2026,7:30,AM,Office Visit,Wednesday
+Page Road Eye Center,Dr. Jones,Oculoplastics,200298,01/14/2026,8:00,AM,New Cataract,Wednesday
+Main Campus - South,Dr. Wilson,Retina,200299,01/14/2026,8:30,AM,Post-Op,Wednesday
+Hickory,Dr. Johnson,Pediatric Ophthalmology,200300,01/14/2026,11:30,AM,Post-Op,Wednesday
+Main Campus - West,Dr. Taylor,Cornea,200301,01/14/2026,9:00,AM,Return Visit,Wednesday
+Main Campus - South,Dr. Martin,Oculoplastics,200302,01/14/2026,13:00,PM,Post-Op,Wednesday
+Hickory,Dr. White,Glaucoma,200303,01/14/2026,14:15,PM,Return Long,Wednesday
+Wilmington,Dr. Jackson,Retina,200304,01/14/2026,13:15,PM,Return Contact Lens,Wednesday
+Raleigh,Dr. Robinson,Ophthalmology,200305,01/14/2026,12:15,PM,Return Visual Field,Wednesday
+Charlotte,Dr. Smith,Oculoplastics,200306,01/14/2026,8:15,AM,Return Visit,Wednesday
+Asheville,Dr. Robinson,Glaucoma,200307,01/14/2026,7:30,AM,Minor Room,Wednesday
+Main Campus - West,Dr. Harris,Glaucoma,200308,01/14/2026,13:15,PM,Surgical Work Up,Wednesday
+Wilmington,Dr. Jackson,Cornea,200309,01/14/2026,13:15,PM,Tech Only,Wednesday
+Main Campus - South,Dr. Brown,Cornea,200310,01/14/2026,13:45,PM,Complete Eye Exam,Wednesday
+Main Campus - South,Dr. Robinson,Cornea,200311,01/14/2026,10:30,AM,Injection-Retina,Wednesday
+Greensboro,Dr. Wilson,Cornea,200312,01/14/2026,10:00,AM,Post-Op 1 Day,Wednesday
+Chapel Hill,Dr. Robinson,Pediatric Ophthalmology,200313,01/14/2026,10:00,AM,Return Visit,Wednesday
+Statesville,Dr. Thompson,Optometry,200314,01/14/2026,15:15,PM,Return Visit,Wednesday
+Chapel Hill,Dr. Moore,Oculoplastics,200315,01/14/2026,16:45,PM,Tech Only,Wednesday
+Greensboro,Dr. Brown,Optometry,200316,01/14/2026,9:00,AM,New Visual Field,Wednesday
+Raleigh,Dr. Wilson,Retina,200317,01/14/2026,16:45,PM,Return Visit,Wednesday
+Chapel Hill,Dr. Thompson,Ophthalmology,200318,01/15/2026,12:45,PM,Tech Only,Thursday
+Page Road Eye Center,Dr. Jones,Glaucoma,200319,01/15/2026,10:30,AM,Tech Only,Thursday
+Wilmington,Dr. Brown,Ophthalmology,200320,01/15/2026,11:45,AM,Minor Room,Thursday
+Asheville,Dr. Thompson,Pediatric Ophthalmology,200321,01/15/2026,7:00,AM,Complete Eye Exam,Thursday
+Statesville,Dr. Jones,Ophthalmology,200322,01/15/2026,8:45,AM,New Cataract Evaluation,Thursday
+Main Campus - West,Dr. Martinez,Glaucoma,200323,01/15/2026,12:00,PM,Return Long,Thursday
+Main Campus - East,Dr. Robinson,Pediatric Ophthalmology,200324,01/15/2026,10:15,AM,New Cataract Evaluation,Thursday
+Chapel Hill,Dr. Smith,Oculoplastics,200325,01/15/2026,16:15,PM,Return Dry Eye,Thursday
+Wilmington,Dr. Johnson,Cornea,200326,01/15/2026,11:45,AM,Return Long,Thursday
+Chapel Hill,Dr. Martin,Retina,200327,01/15/2026,10:15,AM,Visual Acuity,Thursday
+Main Campus - West,Dr. Thompson,Optometry,200328,01/15/2026,16:15,PM,Botox,Thursday
+Wilmington,Dr. Garcia,Glaucoma,200329,01/15/2026,13:45,PM,Return Neuro,Thursday
+Greensboro,Dr. Taylor,Oculoplastics,200330,01/15/2026,16:45,PM,Return Visit,Thursday
+Chapel Hill,Dr. Wilson,Glaucoma,200331,01/15/2026,10:30,AM,Urgent,Thursday
+Hickory,Dr. Moore,Glaucoma,200332,01/15/2026,11:30,AM,Surgical Work Up,Thursday
+Main Campus - South,Dr. Wilson,Retina,200333,01/15/2026,9:15,AM,Complete Eye Exam,Thursday
+Statesville,Dr. Taylor,Ophthalmology,200334,01/15/2026,11:30,AM,New Cataract Evaluation,Thursday
+Statesville,Dr. Martin,Pediatric Ophthalmology,200335,01/15/2026,13:30,PM,Post-Op,Thursday
+Hickory,Dr. Harris,Ophthalmology,200336,01/15/2026,16:15,PM,New Cataract Evaluation,Thursday
+Chapel Hill,Dr. Jones,Optometry,200337,01/15/2026,8:30,AM,Tech Only,Thursday
+Main Campus - West,Dr. Thompson,Retina,200338,01/15/2026,10:45,AM,Evaluation,Thursday
+Greensboro,Dr. Wilson,Retina,200339,01/15/2026,13:15,PM,Evaluation,Thursday
+Greensboro,Dr. Brown,Ophthalmology,200340,01/15/2026,8:30,AM,Return Visit,Thursday
+Main Campus - East,Dr. Jackson,Optometry,200341,01/15/2026,9:15,AM,Return Long,Thursday
+Main Campus - East,Dr. Garcia,Retina,200342,01/15/2026,7:30,AM,Complete Eye Exam,Thursday
+Wilmington,Dr. Jones,Pediatric Ophthalmology,200343,01/15/2026,16:45,PM,New Patient,Thursday
+Main Campus - South,Dr. Martinez,Pediatric Ophthalmology,200344,01/15/2026,12:00,PM,New Visual Field,Thursday
+Main Campus - East,Dr. Robinson,Ophthalmology,200345,01/15/2026,12:45,PM,Surgical Work Up,Thursday
+Page Road Eye Center,Dr. Martinez,Cornea,200346,01/16/2026,12:00,PM,New Contact Lens,Friday
+Main Campus - East,Dr. Garcia,Ophthalmology,200347,01/16/2026,10:45,AM,Dry Eye Consult,Friday
+Chapel Hill,Dr. Martin,Retina,200348,01/16/2026,9:30,AM,New Visual Field,Friday
+Page Road Eye Center,Dr. Davis,Pediatric Ophthalmology,200349,01/16/2026,10:30,AM,Return Long,Friday
+Wilmington,Dr. Jackson,Retina,200350,01/16/2026,14:30,PM,New Cataract,Friday
+Main Campus - South,Dr. White,Optometry,200351,01/16/2026,9:30,AM,Post-Op,Friday
+Main Campus - South,Dr. Williams,Neuro-Ophthalmology,200352,01/16/2026,7:30,AM,Injection-Retina,Friday
+Raleigh,Dr. Williams,Pediatric Ophthalmology,200353,01/16/2026,15:15,PM,Office Visit,Friday
+Main Campus - South,Dr. Johnson,Optometry,200354,01/16/2026,9:15,AM,New Contact Lens,Friday
+Main Campus - East,Dr. Williams,Oculoplastics,200355,01/16/2026,10:00,AM,Return Visit,Friday
+Page Road Eye Center,Dr. Thomas,Ophthalmology,200356,01/16/2026,7:00,AM,New Patient,Friday
+Raleigh,Dr. Anderson,Ophthalmology,200357,01/16/2026,14:15,PM,Complete Eye Exam,Friday
+Hickory,Dr. Johnson,Glaucoma,200358,01/16/2026,12:45,PM,Return Contact Lens,Friday
+Page Road Eye Center,Dr. Johnson,Glaucoma,200359,01/16/2026,15:45,PM,Specialty Lens Fitting,Friday
+Statesville,Dr. Thompson,Neuro-Ophthalmology,200360,01/16/2026,7:30,AM,New Cataract,Friday
+Raleigh,Dr. Moore,Cornea,200361,01/16/2026,7:15,AM,New Cornea,Friday
+Wilmington,Dr. Martin,Glaucoma,200362,01/16/2026,7:00,AM,Minor Room,Friday
+Wilmington,Dr. Anderson,Pediatric Ophthalmology,200363,01/16/2026,16:15,PM,Complete Eye Exam,Friday
+Statesville,Dr. White,Cornea,200364,01/16/2026,16:00,PM,Post-Op 1 Day,Friday
+Statesville,Dr. Miller,Cornea,200365,01/16/2026,13:00,PM,Return Visit,Friday
+Page Road Eye Center,Dr. Anderson,Optometry,200366,01/16/2026,7:45,AM,Tech Only,Friday
+Chapel Hill,Dr. Harris,Optometry,200367,01/16/2026,7:45,AM,Urgent,Friday
+Raleigh,Dr. Brown,Optometry,200368,01/16/2026,13:45,PM,Complete Eye Exam,Friday
+Asheville,Dr. Martin,Ophthalmology,200369,01/16/2026,9:00,AM,Return Dry Eye,Friday
+Chapel Hill,Dr. Moore,Neuro-Ophthalmology,200370,01/16/2026,11:30,AM,Office Visit,Friday
+Main Campus - East,Dr. Jackson,Ophthalmology,200371,01/16/2026,7:00,AM,Post-Op 1 Day,Friday
+Page Road Eye Center,Dr. Martin,Ophthalmology,200372,01/16/2026,10:15,AM,Return Contact Lens,Friday
+Raleigh,Dr. Taylor,Neuro-Ophthalmology,200373,01/16/2026,7:00,AM,Tech Only,Friday
+Asheville,Dr. Thomas,Cornea,200374,01/16/2026,16:00,PM,Return Contact Lens,Friday
+Main Campus - South,Dr. White,Oculoplastics,200375,01/16/2026,9:45,AM,Surgical Work Up,Friday
+Main Campus - South,Dr. Williams,Oculoplastics,200376,01/16/2026,7:45,AM,Post-Op 1 Day,Friday
+Chapel Hill,Dr. Moore,Glaucoma,200377,01/16/2026,9:15,AM,Office Visit,Friday
+Page Road Eye Center,Dr. Thomas,Oculoplastics,200378,01/16/2026,9:45,AM,Injection,Friday
+Main Campus - East,Dr. Brown,Retina,200379,01/16/2026,16:45,PM,Post-Op 1 Day,Friday
+Statesville,Dr. Johnson,Optometry,200380,01/16/2026,13:15,PM,Return Visit,Friday
+Asheville,Dr. Brown,Glaucoma,200381,01/19/2026,14:45,PM,Return Long,Monday
+Page Road Eye Center,Dr. Jones,Optometry,200382,01/19/2026,8:00,AM,Post-Op,Monday
+Statesville,Dr. Jackson,Glaucoma,200383,01/19/2026,13:15,PM,New Contact Lens,Monday
+Greensboro,Dr. Garcia,Retina,200384,01/19/2026,16:00,PM,Visual Acuity,Monday
+Asheville,Dr. Moore,Oculoplastics,200385,01/19/2026,16:45,PM,New Cornea,Monday
+Main Campus - West,Dr. Taylor,Neuro-Ophthalmology,200386,01/19/2026,7:30,AM,Evaluation,Monday
+Main Campus - South,Dr. Jackson,Neuro-Ophthalmology,200387,01/19/2026,15:15,PM,New Glaucoma,Monday
+Hickory,Dr. Thomas,Neuro-Ophthalmology,200388,01/19/2026,15:45,PM,Laser,Monday
+Wilmington,Dr. Smith,Oculoplastics,200389,01/19/2026,8:45,AM,Return Visit,Monday
+Asheville,Dr. Anderson,Optometry,200390,01/19/2026,15:00,PM,Return Long,Monday
+Main Campus - East,Dr. Jones,Pediatric Ophthalmology,200391,01/19/2026,10:00,AM,New Visual Field,Monday
+Main Campus - East,Dr. Smith,Pediatric Ophthalmology,200392,01/19/2026,9:00,AM,Complete Eye Exam,Monday
+Main Campus - East,Dr. Wilson,Pediatric Ophthalmology,200393,01/19/2026,14:00,PM,Surgical Work Up,Monday
+Greensboro,Dr. Davis,Ophthalmology,200394,01/19/2026,10:45,AM,Return Contact Lens,Monday
+Main Campus - West,Dr. Williams,Oculoplastics,200395,01/19/2026,14:45,PM,Surgical Work Up,Monday
+Asheville,Dr. Anderson,Retina,200396,01/19/2026,12:00,PM,New Contact Lens,Monday
+Hickory,Dr. Moore,Optometry,200397,01/19/2026,8:45,AM,Injection-Retina,Monday
+Charlotte,Dr. Taylor,Neuro-Ophthalmology,200398,01/19/2026,11:30,AM,Specialty Lens Fitting,Monday
+Hickory,Dr. Thompson,Neuro-Ophthalmology,200399,01/19/2026,8:45,AM,Injection-Retina,Monday
+Greensboro,Dr. Jackson,Neuro-Ophthalmology,200400,01/19/2026,13:30,PM,Post-Op 1 Day,Monday
+Charlotte,Dr. Harris,Cornea,200401,01/19/2026,14:15,PM,Return Long,Monday
+Main Campus - West,Dr. Moore,Optometry,200402,01/19/2026,14:15,PM,New Cataract,Monday
+Charlotte,Dr. Brown,Pediatric Ophthalmology,200403,01/19/2026,16:15,PM,Return Visit,Monday
+Page Road Eye Center,Dr. Jones,Neuro-Ophthalmology,200404,01/19/2026,14:00,PM,Return Long,Monday
+Wilmington,Dr. Taylor,Optometry,200405,01/19/2026,13:00,PM,New Patient,Monday
+Raleigh,Dr. Brown,Cornea,200406,01/19/2026,10:45,AM,Laser,Monday
+Main Campus - South,Dr. Taylor,Glaucoma,200407,01/19/2026,15:00,PM,Procedure,Monday
+Hickory,Dr. Thomas,Cornea,200408,01/19/2026,9:15,AM,Minor Room,Monday
+Page Road Eye Center,Dr. Thompson,Ophthalmology,200409,01/19/2026,9:45,AM,New Patient,Monday
+Main Campus - East,Dr. Thomas,Glaucoma,200410,01/19/2026,7:30,AM,Post-Op,Monday
+Charlotte,Dr. Martin,Optometry,200411,01/19/2026,13:15,PM,Complete Eye Exam,Monday
+Statesville,Dr. Davis,Retina,200412,01/19/2026,10:00,AM,Return Visit,Monday
+Asheville,Dr. White,Retina,200413,01/19/2026,8:45,AM,Injection,Monday
+Greensboro,Dr. Taylor,Ophthalmology,200414,01/19/2026,10:30,AM,New Patient,Monday
+Greensboro,Dr. Jones,Cornea,200415,01/19/2026,11:30,AM,Post-Op,Monday
+Hickory,Dr. Martinez,Cornea,200416,01/20/2026,16:30,PM,Injection,Tuesday
+Main Campus - West,Dr. Jackson,Pediatric Ophthalmology,200417,01/20/2026,10:00,AM,Return Contact Lens,Tuesday
+Page Road Eye Center,Dr. Harris,Neuro-Ophthalmology,200418,01/20/2026,11:45,AM,Post-Op 1 Day,Tuesday
+Asheville,Dr. White,Pediatric Ophthalmology,200419,01/20/2026,13:15,PM,Tech Only,Tuesday
+Main Campus - East,Dr. Thompson,Glaucoma,200420,01/20/2026,10:30,AM,Injection-Retina,Tuesday
+Main Campus - South,Dr. Taylor,Ophthalmology,200421,01/20/2026,12:45,PM,Return Visit,Tuesday
+Asheville,Dr. Moore,Pediatric Ophthalmology,200422,01/20/2026,14:15,PM,Return Neuro,Tuesday
+Chapel Hill,Dr. Wilson,Ophthalmology,200423,01/20/2026,13:30,PM,Return Dry Eye,Tuesday
+Wilmington,Dr. Robinson,Retina,200424,01/20/2026,9:15,AM,Procedure,Tuesday
+Chapel Hill,Dr. Williams,Optometry,200425,01/20/2026,15:15,PM,Surgical Work Up,Tuesday
+Page Road Eye Center,Dr. Thompson,Retina,200426,01/20/2026,11:15,AM,Return Contact Lens,Tuesday
+Greensboro,Dr. Harris,Oculoplastics,200427,01/20/2026,14:00,PM,Complete Eye Exam,Tuesday
+Main Campus - East,Dr. Jones,Optometry,200428,01/20/2026,15:45,PM,Complete Eye Exam,Tuesday
+Raleigh,Dr. Smith,Pediatric Ophthalmology,200429,01/20/2026,8:15,AM,New Glaucoma,Tuesday
+Raleigh,Dr. Thomas,Cornea,200430,01/20/2026,10:30,AM,Evaluation,Tuesday
+Wilmington,Dr. Taylor,Pediatric Ophthalmology,200431,01/20/2026,14:45,PM,Complete Eye Exam,Tuesday
+Charlotte,Dr. Johnson,Oculoplastics,200432,01/20/2026,14:45,PM,Laser,Tuesday
+Raleigh,Dr. Garcia,Oculoplastics,200433,01/20/2026,7:30,AM,Urgent,Tuesday
+Charlotte,Dr. Robinson,Neuro-Ophthalmology,200434,01/20/2026,10:30,AM,New Cataract,Tuesday
+Page Road Eye Center,Dr. Thomas,Cornea,200435,01/20/2026,13:45,PM,Injection,Tuesday
+Main Campus - East,Dr. Martin,Glaucoma,200436,01/20/2026,8:45,AM,Office Visit,Tuesday
+Main Campus - South,Dr. Martin,Oculoplastics,200437,01/20/2026,12:45,PM,Visual Acuity,Tuesday
+Asheville,Dr. Taylor,Ophthalmology,200438,01/20/2026,8:30,AM,New Cornea,Tuesday
+Greensboro,Dr. Johnson,Cornea,200439,01/20/2026,12:30,PM,Return Dry Eye,Tuesday
+Hickory,Dr. Robinson,Retina,200440,01/20/2026,15:30,PM,Return Neuro,Tuesday
+Statesville,Dr. Wilson,Neuro-Ophthalmology,200441,01/20/2026,9:30,AM,Return Long,Tuesday
+Main Campus - South,Dr. Garcia,Retina,200442,01/20/2026,10:30,AM,New Contact Lens,Tuesday
+Main Campus - South,Dr. Williams,Optometry,200443,01/20/2026,16:45,PM,New Patient,Tuesday
+Main Campus - West,Dr. Garcia,Neuro-Ophthalmology,200444,01/20/2026,11:00,AM,New Patient,Tuesday
+Wilmington,Dr. Jackson,Ophthalmology,200445,01/20/2026,16:30,PM,New Cornea,Tuesday
+Wilmington,Dr. Thomas,Optometry,200446,01/20/2026,10:30,AM,Return Visit,Tuesday
+Greensboro,Dr. Anderson,Ophthalmology,200447,01/20/2026,9:15,AM,Urgent,Tuesday
+Greensboro,Dr. White,Optometry,200448,01/20/2026,14:00,PM,Return Visit,Tuesday
+Asheville,Dr. Jackson,Ophthalmology,200449,01/20/2026,7:30,AM,Visual Acuity,Tuesday
+Raleigh,Dr. Brown,Cornea,200450,01/20/2026,11:00,AM,Return Dry Eye,Tuesday
+Charlotte,Dr. Thompson,Oculoplastics,200451,01/20/2026,10:45,AM,New Cataract Evaluation,Tuesday
+Main Campus - South,Dr. Moore,Oculoplastics,200452,01/21/2026,11:30,AM,Office Visit,Wednesday
+Wilmington,Dr. Moore,Glaucoma,200453,01/21/2026,11:15,AM,Injection-Retina,Wednesday
+Hickory,Dr. Brown,Ophthalmology,200454,01/21/2026,8:15,AM,Office Visit,Wednesday
+Wilmington,Dr. Martin,Glaucoma,200455,01/21/2026,12:30,PM,Complete Eye Exam,Wednesday
+Page Road Eye Center,Dr. Thompson,Glaucoma,200456,01/21/2026,15:30,PM,New Cataract Evaluation,Wednesday
+Charlotte,Dr. Wilson,Oculoplastics,200457,01/21/2026,11:45,AM,Evaluation,Wednesday
+Wilmington,Dr. White,Neuro-Ophthalmology,200458,01/21/2026,7:45,AM,Return Dry Eye,Wednesday
+Statesville,Dr. Thomas,Ophthalmology,200459,01/21/2026,11:00,AM,Tech Only,Wednesday
+Charlotte,Dr. Martinez,Cornea,200460,01/21/2026,9:15,AM,Complete Eye Exam,Wednesday
+Asheville,Dr. Brown,Neuro-Ophthalmology,200461,01/21/2026,8:30,AM,Urgent,Wednesday
+Chapel Hill,Dr. Thompson,Oculoplastics,200462,01/21/2026,13:45,PM,Complete Eye Exam,Wednesday
+Main Campus - West,Dr. Jones,Ophthalmology,200463,01/21/2026,7:15,AM,New Visual Field,Wednesday
+Charlotte,Dr. White,Ophthalmology,200464,01/21/2026,11:30,AM,Return Visit,Wednesday
+Page Road Eye Center,Dr. White,Optometry,200465,01/21/2026,13:15,PM,Office Visit,Wednesday
+Hickory,Dr. Miller,Glaucoma,200466,01/21/2026,15:45,PM,Return Visit,Wednesday
+Raleigh,Dr. Davis,Glaucoma,200467,01/21/2026,16:30,PM,Tech Only,Wednesday
+Wilmington,Dr. Robinson,Optometry,200468,01/21/2026,9:15,AM,Return Visit,Wednesday
+Main Campus - South,Dr. Brown,Optometry,200469,01/21/2026,7:30,AM,New Cornea,Wednesday
+Main Campus - East,Dr. Harris,Optometry,200470,01/21/2026,14:00,PM,Return Visual Field,Wednesday
+Page Road Eye Center,Dr. Moore,Glaucoma,200471,01/21/2026,13:30,PM,Post-Op,Wednesday
+Hickory,Dr. Jackson,Glaucoma,200472,01/21/2026,10:00,AM,Return Contact Lens,Wednesday
+Main Campus - South,Dr. Garcia,Glaucoma,200473,01/21/2026,7:15,AM,Post-Op,Wednesday
+Raleigh,Dr. Moore,Pediatric Ophthalmology,200474,01/21/2026,13:15,PM,Return Visit,Wednesday
+Asheville,Dr. Williams,Optometry,200475,01/21/2026,11:00,AM,Return Neuro,Wednesday
+Chapel Hill,Dr. Williams,Cornea,200476,01/21/2026,10:00,AM,Urgent,Wednesday
+Charlotte,Dr. Anderson,Ophthalmology,200477,01/21/2026,10:30,AM,Return Visit,Wednesday
+Charlotte,Dr. Jackson,Pediatric Ophthalmology,200478,01/21/2026,10:30,AM,Return Dry Eye,Wednesday
+Main Campus - West,Dr. Garcia,Ophthalmology,200479,01/21/2026,16:00,PM,Complete Eye Exam,Wednesday
+Main Campus - South,Dr. Thompson,Pediatric Ophthalmology,200480,01/21/2026,12:15,PM,Complete Eye Exam,Wednesday
+Main Campus - South,Dr. Martin,Glaucoma,200481,01/21/2026,11:30,AM,New Contact Lens,Wednesday
+Main Campus - East,Dr. White,Retina,200482,01/21/2026,13:30,PM,Evaluation,Wednesday
+Chapel Hill,Dr. Anderson,Ophthalmology,200483,01/21/2026,7:15,AM,Dry Eye Consult,Wednesday
+Main Campus - South,Dr. Martin,Ophthalmology,200484,01/21/2026,12:00,PM,Complete Eye Exam,Wednesday
+Greensboro,Dr. Johnson,Cornea,200485,01/21/2026,12:45,PM,New Cataract Evaluation,Wednesday
+Hickory,Dr. Thomas,Oculoplastics,200486,01/21/2026,11:45,AM,Return Contact Lens,Wednesday
+Main Campus - West,Dr. Smith,Retina,200487,01/21/2026,8:30,AM,Procedure,Wednesday
+Charlotte,Dr. Harris,Glaucoma,200488,01/21/2026,10:00,AM,New Glaucoma,Wednesday
+Chapel Hill,Dr. Martin,Cornea,200489,01/21/2026,14:30,PM,New Cataract Evaluation,Wednesday
+Greensboro,Dr. Jones,Optometry,200490,01/21/2026,13:15,PM,Dry Eye Consult,Wednesday
+Page Road Eye Center,Dr. Williams,Optometry,200491,01/22/2026,12:30,PM,Return Visual Field,Thursday
+Chapel Hill,Dr. Martin,Ophthalmology,200492,01/22/2026,12:00,PM,Complete Eye Exam,Thursday
+Greensboro,Dr. Smith,Optometry,200493,01/22/2026,16:30,PM,Tech Only,Thursday
+Main Campus - West,Dr. Davis,Ophthalmology,200494,01/22/2026,13:00,PM,Post-Op,Thursday
+Main Campus - West,Dr. Brown,Cornea,200495,01/22/2026,16:45,PM,Office Visit,Thursday
+Greensboro,Dr. Garcia,Pediatric Ophthalmology,200496,01/22/2026,12:30,PM,Injection-Retina,Thursday
+Asheville,Dr. Thompson,Ophthalmology,200497,01/22/2026,8:00,AM,Office Visit,Thursday
+Chapel Hill,Dr. Davis,Pediatric Ophthalmology,200498,01/22/2026,9:15,AM,New Patient,Thursday
+Main Campus - West,Dr. Miller,Neuro-Ophthalmology,200499,01/22/2026,7:45,AM,Complete Eye Exam,Thursday
+Hickory,Dr. Williams,Optometry,200500,01/22/2026,8:45,AM,Complete Eye Exam,Thursday
+Main Campus - South,Dr. Davis,Ophthalmology,200501,01/22/2026,10:15,AM,Return Dry Eye,Thursday
+Charlotte,Dr. Jackson,Neuro-Ophthalmology,200502,01/22/2026,14:30,PM,Minor Room,Thursday
+Main Campus - West,Dr. Harris,Cornea,200503,01/22/2026,16:30,PM,Post-Op,Thursday
+Greensboro,Dr. Moore,Neuro-Ophthalmology,200504,01/22/2026,16:00,PM,Return Dry Eye,Thursday
+Statesville,Dr. Anderson,Neuro-Ophthalmology,200505,01/22/2026,14:45,PM,Tech Only,Thursday
+Charlotte,Dr. Taylor,Pediatric Ophthalmology,200506,01/22/2026,16:15,PM,New Patient,Thursday
+Chapel Hill,Dr. White,Ophthalmology,200507,01/22/2026,13:45,PM,Visual Acuity,Thursday
+Statesville,Dr. Anderson,Retina,200508,01/22/2026,7:15,AM,Office Visit,Thursday
+Chapel Hill,Dr. Wilson,Ophthalmology,200509,01/22/2026,14:30,PM,Complete Eye Exam,Thursday
+Asheville,Dr. Miller,Neuro-Ophthalmology,200510,01/22/2026,15:45,PM,Return Visit,Thursday
+Raleigh,Dr. Wilson,Neuro-Ophthalmology,200511,01/22/2026,13:00,PM,Return Visit,Thursday
+Chapel Hill,Dr. Robinson,Glaucoma,200512,01/22/2026,14:00,PM,New Visual Field,Thursday
+Main Campus - East,Dr. Moore,Glaucoma,200513,01/22/2026,8:00,AM,Post-Op,Thursday
+Statesville,Dr. Garcia,Oculoplastics,200514,01/22/2026,11:45,AM,New Patient,Thursday
+Hickory,Dr. Martinez,Ophthalmology,200515,01/22/2026,13:45,PM,Dry Eye Consult,Thursday
+Statesville,Dr. Miller,Retina,200516,01/22/2026,8:00,AM,Injection-Retina,Thursday
+Hickory,Dr. Johnson,Glaucoma,200517,01/22/2026,11:15,AM,Tech Only,Thursday
+Page Road Eye Center,Dr. White,Neuro-Ophthalmology,200518,01/22/2026,11:45,AM,Post-Op 1 Day,Thursday
+Main Campus - East,Dr. Davis,Cornea,200519,01/22/2026,14:45,PM,Injection,Thursday
+Hickory,Dr. Martin,Optometry,200520,01/22/2026,8:15,AM,Post-Op,Thursday
+Page Road Eye Center,Dr. Jones,Pediatric Ophthalmology,200521,01/22/2026,16:30,PM,Return Dry Eye,Thursday
+Main Campus - South,Dr. Johnson,Cornea,200522,01/23/2026,7:15,AM,Injection,Friday
+Greensboro,Dr. White,Glaucoma,200523,01/23/2026,11:00,AM,Complete Eye Exam,Friday
+Asheville,Dr. Miller,Neuro-Ophthalmology,200524,01/23/2026,13:00,PM,Return Contact Lens,Friday
+Raleigh,Dr. Martin,Glaucoma,200525,01/23/2026,8:45,AM,Return Visit,Friday
+Statesville,Dr. Williams,Pediatric Ophthalmology,200526,01/23/2026,14:45,PM,Surgical Work Up,Friday
+Page Road Eye Center,Dr. Williams,Optometry,200527,01/23/2026,12:15,PM,Post-Op 1 Day,Friday
+Hickory,Dr. White,Glaucoma,200528,01/23/2026,9:30,AM,Return Visual Field,Friday
+Main Campus - East,Dr. Martin,Glaucoma,200529,01/23/2026,10:45,AM,New Patient,Friday
+Page Road Eye Center,Dr. Thompson,Glaucoma,200530,01/23/2026,10:15,AM,Botox,Friday
+Charlotte,Dr. Jackson,Retina,200531,01/23/2026,7:30,AM,New Cornea,Friday
+Main Campus - East,Dr. Thomas,Cornea,200532,01/23/2026,10:15,AM,New Patient,Friday
+Charlotte,Dr. Martin,Ophthalmology,200533,01/23/2026,11:00,AM,Laser,Friday
+Statesville,Dr. Davis,Pediatric Ophthalmology,200534,01/23/2026,11:45,AM,Procedure,Friday
+Main Campus - South,Dr. Martin,Ophthalmology,200535,01/23/2026,13:45,PM,New Cornea,Friday
+Raleigh,Dr. Thompson,Pediatric Ophthalmology,200536,01/23/2026,14:00,PM,New Patient,Friday
+Asheville,Dr. Jones,Pediatric Ophthalmology,200537,01/23/2026,7:15,AM,Post-Op,Friday
+Charlotte,Dr. Smith,Pediatric Ophthalmology,200538,01/23/2026,9:15,AM,New Cataract Evaluation,Friday
+Statesville,Dr. Moore,Optometry,200539,01/23/2026,8:30,AM,Complete Eye Exam,Friday
+Greensboro,Dr. Harris,Cornea,200540,01/23/2026,8:45,AM,Office Visit,Friday
+Main Campus - South,Dr. Martinez,Neuro-Ophthalmology,200541,01/23/2026,11:00,AM,Visual Acuity,Friday
+Asheville,Dr. Robinson,Ophthalmology,200542,01/23/2026,14:30,PM,Procedure,Friday
+Wilmington,Dr. Robinson,Retina,200543,01/23/2026,14:30,PM,Office Visit,Friday
+Charlotte,Dr. Thompson,Oculoplastics,200544,01/23/2026,15:15,PM,New Patient,Friday
+Chapel Hill,Dr. Thomas,Oculoplastics,200545,01/23/2026,10:30,AM,New Contact Lens,Friday
+Statesville,Dr. Jones,Optometry,200546,01/23/2026,11:30,AM,Complete Eye Exam,Friday
+Statesville,Dr. Martin,Retina,200547,01/23/2026,8:30,AM,Urgent,Friday
+Greensboro,Dr. Thomas,Glaucoma,200548,01/26/2026,16:15,PM,New Glaucoma,Monday
+Main Campus - East,Dr. Garcia,Pediatric Ophthalmology,200549,01/26/2026,15:15,PM,Post-Op 1 Day,Monday
+Main Campus - East,Dr. Miller,Oculoplastics,200550,01/26/2026,10:30,AM,Post-Op 1 Day,Monday
+Chapel Hill,Dr. Thompson,Optometry,200551,01/26/2026,14:45,PM,Return Long,Monday
+Page Road Eye Center,Dr. Martin,Pediatric Ophthalmology,200552,01/26/2026,16:15,PM,Office Visit,Monday
+Asheville,Dr. Martin,Pediatric Ophthalmology,200553,01/26/2026,8:15,AM,Tech Only,Monday
+Page Road Eye Center,Dr. Thomas,Optometry,200554,01/26/2026,7:00,AM,New Cataract Evaluation,Monday
+Raleigh,Dr. Williams,Ophthalmology,200555,01/26/2026,15:30,PM,New Cataract Evaluation,Monday
+Wilmington,Dr. White,Cornea,200556,01/26/2026,13:45,PM,New Patient,Monday
+Main Campus - West,Dr. Martin,Optometry,200557,01/26/2026,8:30,AM,Return Visit,Monday
+Charlotte,Dr. Miller,Neuro-Ophthalmology,200558,01/26/2026,10:30,AM,Post-Op,Monday
+Charlotte,Dr. Martin,Neuro-Ophthalmology,200559,01/26/2026,9:00,AM,Return Visit,Monday
+Main Campus - South,Dr. Jackson,Cornea,200560,01/26/2026,12:30,PM,Complete Eye Exam,Monday
+Statesville,Dr. Miller,Pediatric Ophthalmology,200561,01/26/2026,15:15,PM,Complete Eye Exam,Monday
+Statesville,Dr. Moore,Glaucoma,200562,01/26/2026,9:00,AM,Post-Op,Monday
+Charlotte,Dr. Robinson,Glaucoma,200563,01/26/2026,15:00,PM,Complete Eye Exam,Monday
+Main Campus - East,Dr. Davis,Retina,200564,01/26/2026,15:45,PM,Dry Eye Consult,Monday
+Main Campus - West,Dr. Miller,Neuro-Ophthalmology,200565,01/26/2026,16:30,PM,Post-Op,Monday
+Statesville,Dr. Davis,Neuro-Ophthalmology,200566,01/26/2026,11:15,AM,New Visual Field,Monday
+Page Road Eye Center,Dr. Martin,Glaucoma,200567,01/26/2026,11:15,AM,New Cataract Evaluation,Monday
+Asheville,Dr. Harris,Optometry,200568,01/26/2026,10:00,AM,Complete Eye Exam,Monday
+Wilmington,Dr. Miller,Retina,200569,01/26/2026,12:00,PM,Surgical Work Up,Monday
+Hickory,Dr. Moore,Ophthalmology,200570,01/26/2026,14:15,PM,Post-Op,Monday
+Main Campus - West,Dr. Johnson,Cornea,200571,01/26/2026,7:00,AM,Return Visit,Monday
+Asheville,Dr. White,Retina,200572,01/26/2026,10:15,AM,New Patient,Monday
+Greensboro,Dr. Thompson,Oculoplastics,200573,01/26/2026,7:15,AM,Return Long,Monday
+Main Campus - South,Dr. Johnson,Ophthalmology,200574,01/26/2026,14:30,PM,New Patient,Monday
+Wilmington,Dr. Brown,Pediatric Ophthalmology,200575,01/26/2026,14:45,PM,New Cataract Evaluation,Monday
+Statesville,Dr. Jones,Ophthalmology,200576,01/26/2026,9:15,AM,Complete Eye Exam,Monday
+Greensboro,Dr. Davis,Pediatric Ophthalmology,200577,01/26/2026,13:15,PM,Office Visit,Monday
+Hickory,Dr. Thompson,Neuro-Ophthalmology,200578,01/26/2026,8:00,AM,Return Dry Eye,Monday
+Asheville,Dr. Thompson,Oculoplastics,200579,01/26/2026,9:30,AM,New Cataract Evaluation,Monday
+Charlotte,Dr. White,Cornea,200580,01/26/2026,10:00,AM,Return Visit,Monday
+Main Campus - West,Dr. Jones,Glaucoma,200581,01/26/2026,12:45,PM,Minor Room,Monday
+Page Road Eye Center,Dr. Miller,Glaucoma,200582,01/26/2026,7:15,AM,Return Visit,Monday
+Charlotte,Dr. Martin,Glaucoma,200583,01/26/2026,8:30,AM,Complete Eye Exam,Monday
+Main Campus - South,Dr. Martin,Oculoplastics,200584,01/26/2026,7:30,AM,Return Visual Field,Monday
+Page Road Eye Center,Dr. Moore,Neuro-Ophthalmology,200585,01/26/2026,10:30,AM,New Visual Field,Monday
+Greensboro,Dr. Jones,Glaucoma,200586,01/26/2026,8:30,AM,Office Visit,Monday
+Main Campus - East,Dr. Brown,Glaucoma,200587,01/27/2026,16:45,PM,New Patient,Tuesday
+Main Campus - West,Dr. Martinez,Oculoplastics,200588,01/27/2026,12:00,PM,Specialty Lens Fitting,Tuesday
+Main Campus - West,Dr. White,Oculoplastics,200589,01/27/2026,11:00,AM,Post-Op 1 Day,Tuesday
+Chapel Hill,Dr. Martin,Glaucoma,200590,01/27/2026,16:30,PM,New Cataract,Tuesday
+Main Campus - West,Dr. Martinez,Oculoplastics,200591,01/27/2026,16:45,PM,New Cornea,Tuesday
+Asheville,Dr. Brown,Pediatric Ophthalmology,200592,01/27/2026,12:15,PM,Injection,Tuesday
+Wilmington,Dr. Garcia,Neuro-Ophthalmology,200593,01/27/2026,14:15,PM,New Patient,Tuesday
+Main Campus - South,Dr. Thomas,Retina,200594,01/27/2026,9:45,AM,Tech Only,Tuesday
+Page Road Eye Center,Dr. Wilson,Optometry,200595,01/27/2026,10:15,AM,Return Visit,Tuesday
+Raleigh,Dr. Johnson,Pediatric Ophthalmology,200596,01/27/2026,7:30,AM,Post-Op,Tuesday
+Wilmington,Dr. Jackson,Cornea,200597,01/27/2026,7:45,AM,Complete Eye Exam,Tuesday
+Hickory,Dr. Anderson,Neuro-Ophthalmology,200598,01/27/2026,16:30,PM,Injection-Retina,Tuesday
+Raleigh,Dr. Martin,Pediatric Ophthalmology,200599,01/27/2026,10:15,AM,New Cataract Evaluation,Tuesday
+Greensboro,Dr. Thompson,Retina,200600,01/27/2026,10:45,AM,Tech Only,Tuesday
+Hickory,Dr. Thompson,Neuro-Ophthalmology,200601,01/27/2026,16:00,PM,New Cataract Evaluation,Tuesday
+Statesville,Dr. Wilson,Glaucoma,200602,01/27/2026,13:45,PM,Return Dry Eye,Tuesday
+Greensboro,Dr. Garcia,Glaucoma,200603,01/27/2026,9:45,AM,Injection,Tuesday
+Main Campus - East,Dr. Williams,Cornea,200604,01/27/2026,14:00,PM,Tech Only,Tuesday
+Chapel Hill,Dr. Taylor,Ophthalmology,200605,01/27/2026,9:00,AM,Injection,Tuesday
+Main Campus - East,Dr. Davis,Pediatric Ophthalmology,200606,01/27/2026,13:30,PM,Return Visit,Tuesday
+Greensboro,Dr. Williams,Neuro-Ophthalmology,200607,01/27/2026,8:45,AM,New Cataract Evaluation,Tuesday
+Statesville,Dr. Robinson,Retina,200608,01/27/2026,16:30,PM,Surgical Work Up,Tuesday
+Main Campus - West,Dr. White,Oculoplastics,200609,01/27/2026,10:00,AM,Return Visit,Tuesday
+Charlotte,Dr. Wilson,Optometry,200610,01/27/2026,16:00,PM,Injection-Retina,Tuesday
+Hickory,Dr. Robinson,Cornea,200611,01/27/2026,11:15,AM,Post-Op,Tuesday
+Hickory,Dr. Harris,Glaucoma,200612,01/27/2026,7:45,AM,Office Visit,Tuesday
+Asheville,Dr. Thomas,Neuro-Ophthalmology,200613,01/27/2026,9:45,AM,Return Visit,Tuesday
+Raleigh,Dr. Moore,Pediatric Ophthalmology,200614,01/27/2026,9:30,AM,New Patient,Tuesday
+Hickory,Dr. Miller,Neuro-Ophthalmology,200615,01/27/2026,12:30,PM,Urgent,Tuesday
+Raleigh,Dr. Davis,Retina,200616,01/27/2026,13:00,PM,Return Dry Eye,Tuesday
+Charlotte,Dr. Martinez,Retina,200617,01/27/2026,11:15,AM,New Cataract Evaluation,Tuesday
+Main Campus - South,Dr. Williams,Optometry,200618,01/28/2026,7:00,AM,Return Visual Field,Wednesday
+Statesville,Dr. Anderson,Cornea,200619,01/28/2026,16:30,PM,Office Visit,Wednesday
+Main Campus - East,Dr. Miller,Pediatric Ophthalmology,200620,01/28/2026,14:30,PM,Return Dry Eye,Wednesday
+Greensboro,Dr. Miller,Pediatric Ophthalmology,200621,01/28/2026,13:00,PM,Specialty Lens Fitting,Wednesday
+Charlotte,Dr. Martin,Ophthalmology,200622,01/28/2026,11:00,AM,Procedure,Wednesday
+Greensboro,Dr. White,Retina,200623,01/28/2026,16:30,PM,Complete Eye Exam,Wednesday
+Main Campus - East,Dr. Brown,Retina,200624,01/28/2026,12:30,PM,Return Visit,Wednesday
+Charlotte,Dr. Brown,Neuro-Ophthalmology,200625,01/28/2026,14:45,PM,Complete Eye Exam,Wednesday
+Charlotte,Dr. Martin,Pediatric Ophthalmology,200626,01/28/2026,8:15,AM,Injection,Wednesday
+Wilmington,Dr. Anderson,Neuro-Ophthalmology,200627,01/28/2026,13:45,PM,Tech Only,Wednesday
+Wilmington,Dr. Wilson,Cornea,200628,01/28/2026,13:15,PM,Injection-Retina,Wednesday
+Raleigh,Dr. Johnson,Cornea,200629,01/28/2026,13:00,PM,Post-Op 1 Day,Wednesday
+Raleigh,Dr. Miller,Oculoplastics,200630,01/28/2026,7:45,AM,New Visual Field,Wednesday
+Main Campus - East,Dr. Davis,Optometry,200631,01/28/2026,15:45,PM,Return Visit,Wednesday
+Charlotte,Dr. Davis,Oculoplastics,200632,01/28/2026,7:00,AM,Post-Op,Wednesday
+Wilmington,Dr. Martinez,Cornea,200633,01/28/2026,14:45,PM,New Cataract Evaluation,Wednesday
+Hickory,Dr. Miller,Glaucoma,200634,01/28/2026,8:30,AM,Laser,Wednesday
+Main Campus - South,Dr. Thomas,Ophthalmology,200635,01/28/2026,7:30,AM,Complete Eye Exam,Wednesday
+Chapel Hill,Dr. Moore,Oculoplastics,200636,01/28/2026,7:00,AM,Procedure,Wednesday
+Greensboro,Dr. Johnson,Neuro-Ophthalmology,200637,01/28/2026,9:15,AM,Office Visit,Wednesday
+Main Campus - East,Dr. Brown,Retina,200638,01/28/2026,13:15,PM,Post-Op,Wednesday
+Chapel Hill,Dr. Thompson,Pediatric Ophthalmology,200639,01/28/2026,9:00,AM,Complete Eye Exam,Wednesday
+Greensboro,Dr. Miller,Ophthalmology,200640,01/28/2026,16:15,PM,Evaluation,Wednesday
+Asheville,Dr. White,Optometry,200641,01/28/2026,14:45,PM,Specialty Lens Fitting,Wednesday
+Wilmington,Dr. Williams,Ophthalmology,200642,01/28/2026,12:00,PM,Office Visit,Wednesday
+Raleigh,Dr. Moore,Ophthalmology,200643,01/28/2026,14:45,PM,Return Dry Eye,Wednesday
+Wilmington,Dr. Thompson,Neuro-Ophthalmology,200644,01/28/2026,10:30,AM,Return Neuro,Wednesday
+Main Campus - South,Dr. Johnson,Ophthalmology,200645,01/28/2026,14:30,PM,Return Visit,Wednesday
+Chapel Hill,Dr. Thompson,Neuro-Ophthalmology,200646,01/28/2026,16:30,PM,Injection,Wednesday
+Main Campus - West,Dr. Smith,Ophthalmology,200647,01/29/2026,11:45,AM,Post-Op 1 Day,Thursday
+Main Campus - South,Dr. Taylor,Retina,200648,01/29/2026,8:45,AM,Office Visit,Thursday
+Statesville,Dr. White,Optometry,200649,01/29/2026,15:30,PM,Return Contact Lens,Thursday
+Main Campus - South,Dr. Brown,Glaucoma,200650,01/29/2026,11:00,AM,Tech Only,Thursday
+Hickory,Dr. Miller,Ophthalmology,200651,01/29/2026,9:00,AM,New Visual Field,Thursday
+Chapel Hill,Dr. Thompson,Oculoplastics,200652,01/29/2026,11:00,AM,Procedure,Thursday
+Hickory,Dr. Martinez,Ophthalmology,200653,01/29/2026,15:45,PM,Complete Eye Exam,Thursday
+Chapel Hill,Dr. Garcia,Glaucoma,200654,01/29/2026,16:45,PM,Return Visit,Thursday
+Chapel Hill,Dr. Jones,Neuro-Ophthalmology,200655,01/29/2026,11:45,AM,Evaluation,Thursday
+Statesville,Dr. Williams,Optometry,200656,01/29/2026,10:15,AM,Return Visual Field,Thursday
+Main Campus - East,Dr. Robinson,Oculoplastics,200657,01/29/2026,8:00,AM,Injection,Thursday
+Raleigh,Dr. White,Optometry,200658,01/29/2026,10:45,AM,New Patient,Thursday
+Asheville,Dr. Anderson,Retina,200659,01/29/2026,12:00,PM,Post-Op,Thursday
+Main Campus - West,Dr. Williams,Oculoplastics,200660,01/29/2026,9:45,AM,Post-Op 1 Day,Thursday
+Hickory,Dr. Davis,Oculoplastics,200661,01/29/2026,7:15,AM,New Patient,Thursday
+Greensboro,Dr. Brown,Neuro-Ophthalmology,200662,01/29/2026,13:45,PM,New Cataract,Thursday
+Main Campus - East,Dr. Jones,Oculoplastics,200663,01/29/2026,12:00,PM,Return Visit,Thursday
+Page Road Eye Center,Dr. Martin,Cornea,200664,01/29/2026,12:00,PM,Complete Eye Exam,Thursday
+Greensboro,Dr. Martin,Optometry,200665,01/29/2026,9:45,AM,Evaluation,Thursday
+Main Campus - West,Dr. Harris,Ophthalmology,200666,01/29/2026,13:15,PM,Surgical Work Up,Thursday
+Raleigh,Dr. Brown,Optometry,200667,01/29/2026,8:30,AM,New Cataract Evaluation,Thursday
+Chapel Hill,Dr. Thompson,Oculoplastics,200668,01/29/2026,13:30,PM,Return Visit,Thursday
+Hickory,Dr. Wilson,Neuro-Ophthalmology,200669,01/29/2026,10:30,AM,Post-Op,Thursday
+Asheville,Dr. Anderson,Pediatric Ophthalmology,200670,01/29/2026,9:00,AM,Complete Eye Exam,Thursday
+Charlotte,Dr. Garcia,Neuro-Ophthalmology,200671,01/29/2026,12:30,PM,Urgent,Thursday
+Statesville,Dr. Moore,Glaucoma,200672,01/29/2026,10:45,AM,Complete Eye Exam,Thursday
+Greensboro,Dr. Brown,Ophthalmology,200673,01/30/2026,7:15,AM,Complete Eye Exam,Friday
+Main Campus - South,Dr. Brown,Neuro-Ophthalmology,200674,01/30/2026,9:00,AM,New Patient,Friday
+Statesville,Dr. Garcia,Ophthalmology,200675,01/30/2026,10:45,AM,Post-Op 1 Day,Friday
+Asheville,Dr. Garcia,Pediatric Ophthalmology,200676,01/30/2026,8:00,AM,Return Visit,Friday
+Main Campus - West,Dr. Davis,Retina,200677,01/30/2026,13:00,PM,Post-Op,Friday
+Greensboro,Dr. Thompson,Retina,200678,01/30/2026,9:15,AM,New Patient,Friday
+Chapel Hill,Dr. White,Cornea,200679,01/30/2026,10:30,AM,Urgent,Friday
+Main Campus - South,Dr. Thompson,Pediatric Ophthalmology,200680,01/30/2026,11:15,AM,Surgical Work Up,Friday
+Main Campus - West,Dr. Moore,Cornea,200681,01/30/2026,14:15,PM,Return Visit,Friday
+Page Road Eye Center,Dr. Garcia,Optometry,200682,01/30/2026,15:30,PM,Dry Eye Consult,Friday
+Main Campus - South,Dr. Miller,Cornea,200683,01/30/2026,8:00,AM,Return Visit,Friday
+Chapel Hill,Dr. Martinez,Optometry,200684,01/30/2026,15:45,PM,Post-Op,Friday
+Chapel Hill,Dr. Martin,Pediatric Ophthalmology,200685,01/30/2026,11:30,AM,New Cataract,Friday
+Greensboro,Dr. Moore,Retina,200686,01/30/2026,13:15,PM,Specialty Lens Fitting,Friday
+Hickory,Dr. Thomas,Glaucoma,200687,01/30/2026,15:15,PM,Laser,Friday
+Hickory,Dr. Miller,Cornea,200688,01/30/2026,9:00,AM,New Visual Field,Friday
+Main Campus - East,Dr. Davis,Oculoplastics,200689,01/30/2026,10:15,AM,New Patient,Friday
+Raleigh,Dr. Garcia,Ophthalmology,200690,01/30/2026,13:30,PM,Injection,Friday
+Hickory,Dr. Wilson,Pediatric Ophthalmology,200691,01/30/2026,12:00,PM,Specialty Lens Fitting,Friday
+Page Road Eye Center,Dr. Brown,Oculoplastics,200692,01/30/2026,12:30,PM,Return Visit,Friday
+Statesville,Dr. Miller,Retina,200693,01/30/2026,7:00,AM,Post-Op,Friday
+Greensboro,Dr. Moore,Neuro-Ophthalmology,200694,01/30/2026,14:15,PM,Office Visit,Friday
+Main Campus - South,Dr. Robinson,Oculoplastics,200695,01/30/2026,12:30,PM,Evaluation,Friday
+Main Campus - West,Dr. Martin,Oculoplastics,200696,01/30/2026,7:45,AM,Complete Eye Exam,Friday
+Asheville,Dr. Williams,Pediatric Ophthalmology,200697,01/30/2026,15:15,PM,Botox,Friday
+Greensboro,Dr. Martinez,Cornea,200698,01/30/2026,11:30,AM,Return Visit,Friday
+Wilmington,Dr. Moore,Cornea,200699,01/30/2026,13:45,PM,Post-Op 1 Day,Friday
+Greensboro,Dr. Jones,Ophthalmology,200700,01/30/2026,8:15,AM,Return Visit,Friday
+Wilmington,Dr. Anderson,Retina,200701,01/30/2026,7:45,AM,Return Visit,Friday
+Greensboro,Dr. Garcia,Ophthalmology,400001,02/02/2026,13:00,PM,Evaluation,Monday
+Page Road Eye Center,Dr. Thomas,Oculoplastics,400002,02/02/2026,7:30,AM,New Patient,Monday
+Charlotte,Dr. Jackson,Pediatric Ophthalmology,400003,02/02/2026,10:15,AM,Injection-Retina,Monday
+Chapel Hill,Dr. Robinson,Pediatric Ophthalmology,400004,02/02/2026,8:30,AM,Return Contact Lens,Monday
+Hickory,Dr. Jackson,Oculoplastics,400005,02/02/2026,15:00,PM,Injection,Monday
+Greensboro,Dr. Davis,Cornea,400006,02/02/2026,15:15,PM,Laser,Monday
+Page Road Eye Center,Dr. Taylor,Cornea,400007,02/02/2026,10:15,AM,Urgent,Monday
+Asheville,Dr. Thomas,Glaucoma,400008,02/02/2026,7:45,AM,New Patient,Monday
+Main Campus - East,Dr. Martinez,Pediatric Ophthalmology,400009,02/02/2026,11:00,AM,Office Visit,Monday
+Main Campus - East,Dr. Williams,Oculoplastics,400010,02/02/2026,11:00,AM,Post-Op 1 Day,Monday
+Hickory,Dr. Harris,Glaucoma,400011,02/02/2026,10:15,AM,New Patient,Monday
+Main Campus - East,Dr. Thompson,Pediatric Ophthalmology,400012,02/02/2026,12:30,PM,New Patient,Monday
+Page Road Eye Center,Dr. Moore,Ophthalmology,400013,02/02/2026,14:00,PM,Office Visit,Monday
+Wilmington,Dr. Garcia,Cornea,400014,02/02/2026,16:00,PM,New Contact Lens,Monday
+Wilmington,Dr. Moore,Oculoplastics,400015,02/02/2026,14:00,PM,Injection,Monday
+Main Campus - West,Dr. Thompson,Retina,400016,02/02/2026,15:00,PM,Evaluation,Monday
+Hickory,Dr. Robinson,Neuro-Ophthalmology,400017,02/02/2026,14:30,PM,Injection-Retina,Monday
+Hickory,Dr. Taylor,Retina,400018,02/02/2026,11:00,AM,Return Visual Field,Monday
+Main Campus - East,Dr. White,Retina,400019,02/02/2026,8:00,AM,Procedure,Monday
+Main Campus - East,Dr. Harris,Optometry,400020,02/02/2026,11:30,AM,Complete Eye Exam,Monday
+Hickory,Dr. Brown,Neuro-Ophthalmology,400021,02/02/2026,13:45,PM,Visual Acuity,Monday
+Chapel Hill,Dr. Johnson,Oculoplastics,400022,02/02/2026,16:15,PM,New Cataract Evaluation,Monday
+Chapel Hill,Dr. Harris,Oculoplastics,400023,02/02/2026,12:15,PM,Laser,Monday
+Hickory,Dr. Thompson,Neuro-Ophthalmology,400024,02/02/2026,13:45,PM,New Cataract Evaluation,Monday
+Statesville,Dr. Johnson,Glaucoma,400025,02/02/2026,14:15,PM,Surgical Work Up,Monday
+Main Campus - East,Dr. Harris,Cornea,400026,02/02/2026,8:45,AM,Tech Only,Monday
+Statesville,Dr. Anderson,Cornea,400027,02/02/2026,15:00,PM,Return Contact Lens,Monday
+Charlotte,Dr. Jones,Pediatric Ophthalmology,400028,02/02/2026,13:00,PM,New Visual Field,Monday
+Main Campus - East,Dr. Davis,Oculoplastics,400029,02/02/2026,11:15,AM,Urgent,Monday
+Greensboro,Dr. Martinez,Optometry,400030,02/02/2026,15:45,PM,Laser,Monday
+Raleigh,Dr. Smith,Glaucoma,400031,02/02/2026,11:00,AM,Return Contact Lens,Monday
+Greensboro,Dr. Williams,Neuro-Ophthalmology,400032,02/02/2026,8:45,AM,Complete Eye Exam,Monday
+Main Campus - South,Dr. Anderson,Optometry,400033,02/03/2026,12:45,PM,Tech Only,Tuesday
+Asheville,Dr. White,Glaucoma,400034,02/03/2026,16:00,PM,Evaluation,Tuesday
+Greensboro,Dr. Moore,Oculoplastics,400035,02/03/2026,8:30,AM,Surgical Work Up,Tuesday
+Page Road Eye Center,Dr. Johnson,Cornea,400036,02/03/2026,11:45,AM,Post-Op 1 Day,Tuesday
+Asheville,Dr. Robinson,Neuro-Ophthalmology,400037,02/03/2026,11:15,AM,Return Dry Eye,Tuesday
+Main Campus - South,Dr. Garcia,Oculoplastics,400038,02/03/2026,11:00,AM,Procedure,Tuesday
+Asheville,Dr. Smith,Retina,400039,02/03/2026,11:45,AM,Return Visit,Tuesday
+Asheville,Dr. Martinez,Optometry,400040,02/03/2026,15:00,PM,New Contact Lens,Tuesday
+Wilmington,Dr. Thompson,Ophthalmology,400041,02/03/2026,7:30,AM,Post-Op,Tuesday
+Main Campus - East,Dr. White,Glaucoma,400042,02/03/2026,8:45,AM,Injection,Tuesday
+Page Road Eye Center,Dr. Garcia,Optometry,400043,02/03/2026,7:30,AM,Complete Eye Exam,Tuesday
+Wilmington,Dr. Robinson,Glaucoma,400044,02/03/2026,10:15,AM,Injection,Tuesday
+Main Campus - West,Dr. Davis,Neuro-Ophthalmology,400045,02/03/2026,8:45,AM,Complete Eye Exam,Tuesday
+Main Campus - West,Dr. Miller,Retina,400046,02/03/2026,13:30,PM,Surgical Work Up,Tuesday
+Charlotte,Dr. Harris,Oculoplastics,400047,02/03/2026,11:30,AM,Return Long,Tuesday
+Charlotte,Dr. Miller,Glaucoma,400048,02/03/2026,15:00,PM,Tech Only,Tuesday
+Hickory,Dr. Garcia,Glaucoma,400049,02/03/2026,9:45,AM,Tech Only,Tuesday
+Main Campus - East,Dr. Harris,Glaucoma,400050,02/03/2026,14:15,PM,Post-Op,Tuesday
+Statesville,Dr. Martinez,Cornea,400051,02/03/2026,11:45,AM,Injection-Retina,Tuesday
+Greensboro,Dr. Miller,Cornea,400052,02/03/2026,9:45,AM,Return Long,Tuesday
+Hickory,Dr. Martin,Retina,400053,02/03/2026,13:45,PM,Office Visit,Tuesday
+Main Campus - East,Dr. Taylor,Ophthalmology,400054,02/03/2026,13:00,PM,New Patient,Tuesday
+Asheville,Dr. Taylor,Optometry,400055,02/03/2026,10:15,AM,Office Visit,Tuesday
+Page Road Eye Center,Dr. Jackson,Glaucoma,400056,02/03/2026,16:30,PM,New Cornea,Tuesday
+Page Road Eye Center,Dr. Jackson,Retina,400057,02/03/2026,15:45,PM,Complete Eye Exam,Tuesday
+Raleigh,Dr. Jackson,Ophthalmology,400058,02/03/2026,13:15,PM,Complete Eye Exam,Tuesday
+Charlotte,Dr. Wilson,Optometry,400059,02/03/2026,10:45,AM,Injection,Tuesday
+Hickory,Dr. Thompson,Retina,400060,02/03/2026,10:00,AM,Surgical Work Up,Tuesday
+Raleigh,Dr. Moore,Neuro-Ophthalmology,400061,02/03/2026,15:15,PM,Office Visit,Tuesday
+Greensboro,Dr. Harris,Retina,400062,02/03/2026,15:00,PM,New Visual Field,Tuesday
+Raleigh,Dr. Wilson,Ophthalmology,400063,02/03/2026,8:45,AM,Urgent,Tuesday
+Chapel Hill,Dr. Jackson,Cornea,400064,02/04/2026,7:30,AM,New Patient,Wednesday
+Raleigh,Dr. Martin,Ophthalmology,400065,02/04/2026,7:30,AM,Post-Op,Wednesday
+Charlotte,Dr. Martin,Glaucoma,400066,02/04/2026,14:15,PM,Post-Op 1 Day,Wednesday
+Main Campus - South,Dr. Harris,Oculoplastics,400067,02/04/2026,10:30,AM,Return Visit,Wednesday
+Greensboro,Dr. Brown,Neuro-Ophthalmology,400068,02/04/2026,8:15,AM,Return Long,Wednesday
+Hickory,Dr. Brown,Optometry,400069,02/04/2026,14:00,PM,Post-Op,Wednesday
+Main Campus - West,Dr. Anderson,Pediatric Ophthalmology,400070,02/04/2026,14:15,PM,Post-Op 1 Day,Wednesday
+Greensboro,Dr. Garcia,Oculoplastics,400071,02/04/2026,15:00,PM,Evaluation,Wednesday
+Hickory,Dr. Robinson,Neuro-Ophthalmology,400072,02/04/2026,8:30,AM,Complete Eye Exam,Wednesday
+Main Campus - South,Dr. Anderson,Optometry,400073,02/04/2026,7:00,AM,Return Visit,Wednesday
+Charlotte,Dr. Thomas,Oculoplastics,400074,02/04/2026,15:15,PM,Return Visit,Wednesday
+Statesville,Dr. Brown,Pediatric Ophthalmology,400075,02/04/2026,7:00,AM,Return Visit,Wednesday
+Hickory,Dr. Thomas,Ophthalmology,400076,02/04/2026,16:15,PM,Post-Op 1 Day,Wednesday
+Main Campus - West,Dr. Harris,Optometry,400077,02/04/2026,8:45,AM,Return Visual Field,Wednesday
+Statesville,Dr. Jackson,Pediatric Ophthalmology,400078,02/04/2026,9:45,AM,Minor Room,Wednesday
+Main Campus - East,Dr. Martin,Retina,400079,02/04/2026,10:15,AM,New Patient,Wednesday
+Hickory,Dr. Robinson,Oculoplastics,400080,02/04/2026,7:30,AM,Injection-Retina,Wednesday
+Chapel Hill,Dr. Jones,Cornea,400081,02/04/2026,12:45,PM,Complete Eye Exam,Wednesday
+Hickory,Dr. Smith,Retina,400082,02/04/2026,16:15,PM,Return Contact Lens,Wednesday
+Hickory,Dr. Miller,Cornea,400083,02/04/2026,14:45,PM,Injection-Retina,Wednesday
+Hickory,Dr. Thomas,Optometry,400084,02/04/2026,11:15,AM,Urgent,Wednesday
+Page Road Eye Center,Dr. Robinson,Cornea,400085,02/04/2026,14:45,PM,Laser,Wednesday
+Page Road Eye Center,Dr. Jackson,Glaucoma,400086,02/04/2026,8:00,AM,Complete Eye Exam,Wednesday
+Main Campus - West,Dr. Williams,Ophthalmology,400087,02/04/2026,11:45,AM,Return Contact Lens,Wednesday
+Greensboro,Dr. White,Retina,400088,02/04/2026,16:15,PM,Laser,Wednesday
+Charlotte,Dr. Williams,Pediatric Ophthalmology,400089,02/04/2026,11:00,AM,Office Visit,Wednesday
+Chapel Hill,Dr. Harris,Cornea,400090,02/04/2026,13:15,PM,Return Long,Wednesday
+Greensboro,Dr. Davis,Cornea,400091,02/04/2026,10:30,AM,Return Contact Lens,Wednesday
+Chapel Hill,Dr. Robinson,Pediatric Ophthalmology,400092,02/04/2026,13:15,PM,Surgical Work Up,Wednesday
+Raleigh,Dr. Moore,Oculoplastics,400093,02/05/2026,12:00,PM,Urgent,Thursday
+Greensboro,Dr. Miller,Glaucoma,400094,02/05/2026,8:00,AM,Evaluation,Thursday
+Statesville,Dr. Jackson,Optometry,400095,02/05/2026,14:15,PM,Return Long,Thursday
+Chapel Hill,Dr. White,Cornea,400096,02/05/2026,9:15,AM,Procedure,Thursday
+Page Road Eye Center,Dr. Brown,Pediatric Ophthalmology,400097,02/05/2026,12:15,PM,Office Visit,Thursday
+Page Road Eye Center,Dr. Smith,Pediatric Ophthalmology,400098,02/05/2026,8:30,AM,New Visual Field,Thursday
+Wilmington,Dr. Miller,Retina,400099,02/05/2026,15:45,PM,New Cataract,Thursday
+Page Road Eye Center,Dr. Anderson,Oculoplastics,400100,02/05/2026,16:15,PM,New Patient,Thursday
+Main Campus - East,Dr. Jackson,Retina,400101,02/05/2026,10:30,AM,New Patient,Thursday
+Hickory,Dr. Martin,Glaucoma,400102,02/05/2026,14:45,PM,Botox,Thursday
+Page Road Eye Center,Dr. Johnson,Oculoplastics,400103,02/05/2026,8:15,AM,Surgical Work Up,Thursday
+Greensboro,Dr. Jones,Neuro-Ophthalmology,400104,02/05/2026,16:30,PM,Specialty Lens Fitting,Thursday
+Wilmington,Dr. Thompson,Cornea,400105,02/05/2026,16:15,PM,New Patient,Thursday
+Statesville,Dr. Wilson,Glaucoma,400106,02/05/2026,11:15,AM,Tech Only,Thursday
+Wilmington,Dr. Davis,Retina,400107,02/05/2026,16:30,PM,Post-Op,Thursday
+Main Campus - East,Dr. Martin,Retina,400108,02/05/2026,11:15,AM,Tech Only,Thursday
+Statesville,Dr. Smith,Glaucoma,400109,02/05/2026,9:30,AM,New Cataract Evaluation,Thursday
+Charlotte,Dr. Williams,Oculoplastics,400110,02/05/2026,16:00,PM,Botox,Thursday
+Hickory,Dr. Davis,Glaucoma,400111,02/05/2026,10:30,AM,Tech Only,Thursday
+Main Campus - South,Dr. Johnson,Ophthalmology,400112,02/05/2026,15:30,PM,Procedure,Thursday
+Chapel Hill,Dr. Smith,Neuro-Ophthalmology,400113,02/05/2026,12:30,PM,Return Dry Eye,Thursday
+Page Road Eye Center,Dr. Thompson,Ophthalmology,400114,02/05/2026,15:45,PM,New Cataract Evaluation,Thursday
+Main Campus - South,Dr. Thompson,Neuro-Ophthalmology,400115,02/05/2026,15:00,PM,New Cataract Evaluation,Thursday
+Wilmington,Dr. Jackson,Optometry,400116,02/05/2026,8:00,AM,Tech Only,Thursday
+Hickory,Dr. White,Ophthalmology,400117,02/05/2026,11:15,AM,Post-Op,Thursday
+Main Campus - South,Dr. Robinson,Pediatric Ophthalmology,400118,02/05/2026,7:00,AM,Injection-Retina,Thursday
+Asheville,Dr. Johnson,Oculoplastics,400119,02/05/2026,9:00,AM,New Cornea,Thursday
+Wilmington,Dr. Harris,Retina,400120,02/05/2026,11:30,AM,Return Visit,Thursday
+Main Campus - East,Dr. Davis,Optometry,400121,02/05/2026,8:15,AM,Post-Op,Thursday
+Asheville,Dr. Jackson,Glaucoma,400122,02/05/2026,7:00,AM,Laser,Thursday
+Asheville,Dr. Garcia,Glaucoma,400123,02/05/2026,15:30,PM,Return Visit,Thursday
+Raleigh,Dr. Davis,Pediatric Ophthalmology,400124,02/05/2026,12:00,PM,New Visual Field,Thursday
+Main Campus - East,Dr. Robinson,Oculoplastics,400125,02/05/2026,12:45,PM,Injection-Retina,Thursday
+Main Campus - West,Dr. Smith,Oculoplastics,400126,02/05/2026,8:00,AM,Tech Only,Thursday
+Greensboro,Dr. Robinson,Ophthalmology,400127,02/06/2026,16:00,PM,Complete Eye Exam,Friday
+Raleigh,Dr. Garcia,Glaucoma,400128,02/06/2026,13:15,PM,Injection,Friday
+Hickory,Dr. Wilson,Optometry,400129,02/06/2026,16:00,PM,Evaluation,Friday
+Raleigh,Dr. Martin,Glaucoma,400130,02/06/2026,14:15,PM,Dry Eye Consult,Friday
+Page Road Eye Center,Dr. Johnson,Neuro-Ophthalmology,400131,02/06/2026,9:15,AM,Return Visit,Friday
+Asheville,Dr. Williams,Oculoplastics,400132,02/06/2026,10:30,AM,Tech Only,Friday
+Raleigh,Dr. Johnson,Cornea,400133,02/06/2026,7:30,AM,Surgical Work Up,Friday
+Main Campus - East,Dr. Thompson,Cornea,400134,02/06/2026,12:30,PM,Complete Eye Exam,Friday
+Charlotte,Dr. Johnson,Cornea,400135,02/06/2026,9:30,AM,Complete Eye Exam,Friday
+Statesville,Dr. White,Neuro-Ophthalmology,400136,02/06/2026,13:00,PM,Post-Op,Friday
+Hickory,Dr. Smith,Ophthalmology,400137,02/06/2026,10:30,AM,Botox,Friday
+Main Campus - East,Dr. Garcia,Neuro-Ophthalmology,400138,02/06/2026,8:00,AM,New Cataract,Friday
+Main Campus - West,Dr. Anderson,Ophthalmology,400139,02/06/2026,10:15,AM,Complete Eye Exam,Friday
+Page Road Eye Center,Dr. Moore,Retina,400140,02/06/2026,12:30,PM,Office Visit,Friday
+Page Road Eye Center,Dr. Martin,Optometry,400141,02/06/2026,8:45,AM,Return Visit,Friday
+Charlotte,Dr. Smith,Glaucoma,400142,02/06/2026,9:30,AM,New Visual Field,Friday
+Raleigh,Dr. Johnson,Retina,400143,02/06/2026,10:00,AM,Tech Only,Friday
+Main Campus - West,Dr. Jones,Retina,400144,02/06/2026,10:00,AM,Tech Only,Friday
+Main Campus - West,Dr. Martinez,Ophthalmology,400145,02/06/2026,12:00,PM,Return Visit,Friday
+Chapel Hill,Dr. Jackson,Cornea,400146,02/06/2026,9:00,AM,Return Contact Lens,Friday
+Charlotte,Dr. Garcia,Glaucoma,400147,02/06/2026,13:45,PM,New Patient,Friday
+Main Campus - West,Dr. Robinson,Ophthalmology,400148,02/06/2026,15:45,PM,Return Contact Lens,Friday
+Chapel Hill,Dr. Martinez,Neuro-Ophthalmology,400149,02/06/2026,8:45,AM,Tech Only,Friday
+Main Campus - South,Dr. Harris,Neuro-Ophthalmology,400150,02/06/2026,11:45,AM,Complete Eye Exam,Friday
+Main Campus - East,Dr. Jackson,Oculoplastics,400151,02/06/2026,11:30,AM,Urgent,Friday
+Hickory,Dr. Garcia,Cornea,400152,02/06/2026,16:00,PM,Injection-Retina,Friday
+Main Campus - South,Dr. Brown,Ophthalmology,400153,02/06/2026,7:30,AM,Office Visit,Friday
+Chapel Hill,Dr. Jones,Neuro-Ophthalmology,400154,02/06/2026,15:30,PM,Dry Eye Consult,Friday
+Page Road Eye Center,Dr. Thomas,Neuro-Ophthalmology,400155,02/06/2026,14:15,PM,Injection,Friday
+Chapel Hill,Dr. Johnson,Neuro-Ophthalmology,400156,02/06/2026,9:45,AM,Tech Only,Friday
+Page Road Eye Center,Dr. Harris,Glaucoma,400157,02/06/2026,11:00,AM,Complete Eye Exam,Friday
+Main Campus - East,Dr. Robinson,Retina,400158,02/09/2026,7:30,AM,Post-Op,Monday
+Raleigh,Dr. Wilson,Retina,400159,02/09/2026,12:30,PM,Injection,Monday
+Greensboro,Dr. Brown,Retina,400160,02/09/2026,11:30,AM,Injection,Monday
+Asheville,Dr. Johnson,Glaucoma,400161,02/09/2026,16:30,PM,New Patient,Monday
+Main Campus - East,Dr. Taylor,Ophthalmology,400162,02/09/2026,9:45,AM,Procedure,Monday
+Hickory,Dr. Thompson,Cornea,400163,02/09/2026,7:00,AM,New Cataract Evaluation,Monday
+Wilmington,Dr. Garcia,Glaucoma,400164,02/09/2026,7:30,AM,Office Visit,Monday
+Charlotte,Dr. Brown,Optometry,400165,02/09/2026,16:45,PM,Return Dry Eye,Monday
+Hickory,Dr. Johnson,Oculoplastics,400166,02/09/2026,14:30,PM,Return Visit,Monday
+Main Campus - East,Dr. Anderson,Cornea,400167,02/09/2026,10:00,AM,Evaluation,Monday
+Charlotte,Dr. Garcia,Cornea,400168,02/09/2026,16:15,PM,Visual Acuity,Monday
+Main Campus - West,Dr. Moore,Cornea,400169,02/09/2026,13:30,PM,Return Long,Monday
+Statesville,Dr. Jones,Ophthalmology,400170,02/09/2026,9:15,AM,Injection,Monday
+Page Road Eye Center,Dr. Brown,Glaucoma,400171,02/09/2026,11:30,AM,Injection-Retina,Monday
+Greensboro,Dr. Williams,Optometry,400172,02/09/2026,15:00,PM,Minor Room,Monday
+Main Campus - East,Dr. Davis,Optometry,400173,02/09/2026,15:00,PM,Minor Room,Monday
+Statesville,Dr. Williams,Ophthalmology,400174,02/09/2026,11:45,AM,Tech Only,Monday
+Main Campus - West,Dr. Thomas,Cornea,400175,02/09/2026,14:15,PM,Complete Eye Exam,Monday
+Chapel Hill,Dr. Robinson,Cornea,400176,02/09/2026,14:15,PM,Post-Op 1 Day,Monday
+Chapel Hill,Dr. Garcia,Optometry,400177,02/09/2026,15:00,PM,Post-Op,Monday
+Main Campus - East,Dr. Smith,Glaucoma,400178,02/09/2026,12:30,PM,Return Visit,Monday
+Main Campus - South,Dr. Martin,Glaucoma,400179,02/09/2026,11:00,AM,Evaluation,Monday
+Charlotte,Dr. Williams,Retina,400180,02/09/2026,15:45,PM,New Contact Lens,Monday
+Chapel Hill,Dr. Robinson,Retina,400181,02/09/2026,15:15,PM,Visual Acuity,Monday
+Charlotte,Dr. Smith,Neuro-Ophthalmology,400182,02/09/2026,13:30,PM,New Cataract Evaluation,Monday
+Charlotte,Dr. Garcia,Pediatric Ophthalmology,400183,02/10/2026,16:15,PM,Return Dry Eye,Tuesday
+Main Campus - West,Dr. Wilson,Oculoplastics,400184,02/10/2026,16:00,PM,Return Contact Lens,Tuesday
+Wilmington,Dr. Jones,Cornea,400185,02/10/2026,7:30,AM,Visual Acuity,Tuesday
+Main Campus - West,Dr. Martin,Optometry,400186,02/10/2026,8:45,AM,New Cornea,Tuesday
+Charlotte,Dr. Thomas,Ophthalmology,400187,02/10/2026,13:45,PM,Laser,Tuesday
+Asheville,Dr. Jackson,Optometry,400188,02/10/2026,10:00,AM,Tech Only,Tuesday
+Raleigh,Dr. Jones,Glaucoma,400189,02/10/2026,13:45,PM,Complete Eye Exam,Tuesday
+Wilmington,Dr. Smith,Cornea,400190,02/10/2026,9:00,AM,Urgent,Tuesday
+Main Campus - South,Dr. Thomas,Glaucoma,400191,02/10/2026,12:00,PM,Return Dry Eye,Tuesday
+Raleigh,Dr. Davis,Ophthalmology,400192,02/10/2026,13:15,PM,New Contact Lens,Tuesday
+Page Road Eye Center,Dr. Taylor,Neuro-Ophthalmology,400193,02/10/2026,11:30,AM,Injection-Retina,Tuesday
+Statesville,Dr. Martin,Pediatric Ophthalmology,400194,02/10/2026,8:15,AM,Post-Op,Tuesday
+Greensboro,Dr. Martin,Retina,400195,02/10/2026,7:45,AM,Injection,Tuesday
+Hickory,Dr. White,Optometry,400196,02/10/2026,10:15,AM,Return Visit,Tuesday
+Statesville,Dr. Williams,Optometry,400197,02/10/2026,16:15,PM,Complete Eye Exam,Tuesday
+Charlotte,Dr. Brown,Optometry,400198,02/10/2026,15:15,PM,Complete Eye Exam,Tuesday
+Raleigh,Dr. Thomas,Oculoplastics,400199,02/10/2026,12:15,PM,New Contact Lens,Tuesday
+Chapel Hill,Dr. Wilson,Pediatric Ophthalmology,400200,02/10/2026,10:30,AM,New Cataract Evaluation,Tuesday
+Charlotte,Dr. Williams,Optometry,400201,02/10/2026,14:30,PM,Surgical Work Up,Tuesday
+Main Campus - South,Dr. Miller,Ophthalmology,400202,02/10/2026,16:45,PM,Injection,Tuesday
+Charlotte,Dr. Davis,Pediatric Ophthalmology,400203,02/10/2026,12:15,PM,Injection-Retina,Tuesday
+Wilmington,Dr. Brown,Glaucoma,400204,02/10/2026,16:45,PM,New Cataract,Tuesday
+Main Campus - South,Dr. Williams,Glaucoma,400205,02/10/2026,13:45,PM,New Cataract,Tuesday
+Main Campus - South,Dr. Robinson,Cornea,400206,02/10/2026,14:00,PM,Post-Op,Tuesday
+Main Campus - East,Dr. Jones,Cornea,400207,02/10/2026,10:45,AM,Laser,Tuesday
+Main Campus - East,Dr. Smith,Optometry,400208,02/10/2026,16:15,PM,Office Visit,Tuesday
+Page Road Eye Center,Dr. White,Glaucoma,400209,02/10/2026,11:30,AM,Surgical Work Up,Tuesday
+Asheville,Dr. Davis,Optometry,400210,02/10/2026,7:45,AM,Return Visit,Tuesday
+Chapel Hill,Dr. Moore,Cornea,400211,02/11/2026,16:00,PM,Botox,Wednesday
+Raleigh,Dr. Harris,Retina,400212,02/11/2026,15:45,PM,New Visual Field,Wednesday
+Asheville,Dr. Anderson,Oculoplastics,400213,02/11/2026,12:00,PM,New Cataract,Wednesday
+Raleigh,Dr. Harris,Glaucoma,400214,02/11/2026,12:45,PM,New Patient,Wednesday
+Main Campus - East,Dr. Davis,Retina,400215,02/11/2026,8:45,AM,Injection,Wednesday
+Greensboro,Dr. Smith,Cornea,400216,02/11/2026,10:45,AM,Return Visit,Wednesday
+Main Campus - East,Dr. Miller,Neuro-Ophthalmology,400217,02/11/2026,15:30,PM,New Cataract,Wednesday
+Asheville,Dr. Moore,Cornea,400218,02/11/2026,12:30,PM,Dry Eye Consult,Wednesday
+Chapel Hill,Dr. Davis,Optometry,400219,02/11/2026,9:45,AM,Return Dry Eye,Wednesday
+Main Campus - West,Dr. Wilson,Glaucoma,400220,02/11/2026,7:00,AM,Botox,Wednesday
+Chapel Hill,Dr. Martin,Cornea,400221,02/11/2026,13:45,PM,Urgent,Wednesday
+Asheville,Dr. Thomas,Retina,400222,02/11/2026,15:15,PM,Return Visual Field,Wednesday
+Statesville,Dr. Robinson,Retina,400223,02/11/2026,7:15,AM,Post-Op,Wednesday
+Statesville,Dr. Garcia,Neuro-Ophthalmology,400224,02/11/2026,7:30,AM,Return Visual Field,Wednesday
+Greensboro,Dr. Miller,Oculoplastics,400225,02/11/2026,13:15,PM,Evaluation,Wednesday
+Greensboro,Dr. Brown,Retina,400226,02/11/2026,10:15,AM,Post-Op 1 Day,Wednesday
+Main Campus - South,Dr. Taylor,Optometry,400227,02/11/2026,7:00,AM,Return Visit,Wednesday
+Page Road Eye Center,Dr. Robinson,Retina,400228,02/11/2026,8:00,AM,New Cataract,Wednesday
+Statesville,Dr. Davis,Cornea,400229,02/11/2026,9:15,AM,Office Visit,Wednesday
+Main Campus - West,Dr. Thompson,Optometry,400230,02/11/2026,9:30,AM,Evaluation,Wednesday
+Asheville,Dr. Jones,Retina,400231,02/11/2026,11:45,AM,Post-Op,Wednesday
+Main Campus - East,Dr. Miller,Optometry,400232,02/11/2026,16:45,PM,Return Visit,Wednesday
+Hickory,Dr. Miller,Ophthalmology,400233,02/11/2026,8:30,AM,Complete Eye Exam,Wednesday
+Chapel Hill,Dr. Martinez,Pediatric Ophthalmology,400234,02/11/2026,10:30,AM,Complete Eye Exam,Wednesday
+Hickory,Dr. Smith,Optometry,400235,02/11/2026,12:00,PM,Return Visit,Wednesday
+Chapel Hill,Dr. Robinson,Cornea,400236,02/11/2026,9:00,AM,New Patient,Wednesday
+Chapel Hill,Dr. Jones,Glaucoma,400237,02/11/2026,12:00,PM,Injection,Wednesday
+Main Campus - South,Dr. Jones,Cornea,400238,02/11/2026,15:30,PM,Post-Op,Wednesday
+Main Campus - East,Dr. Jackson,Neuro-Ophthalmology,400239,02/12/2026,10:45,AM,Tech Only,Thursday
+Hickory,Dr. Johnson,Neuro-Ophthalmology,400240,02/12/2026,13:00,PM,Tech Only,Thursday
+Page Road Eye Center,Dr. Thompson,Optometry,400241,02/12/2026,8:15,AM,New Visual Field,Thursday
+Main Campus - South,Dr. Jackson,Oculoplastics,400242,02/12/2026,16:00,PM,New Glaucoma,Thursday
+Main Campus - East,Dr. Smith,Neuro-Ophthalmology,400243,02/12/2026,9:45,AM,Return Visit,Thursday
+Main Campus - East,Dr. Anderson,Retina,400244,02/12/2026,9:15,AM,Post-Op,Thursday
+Raleigh,Dr. Wilson,Glaucoma,400245,02/12/2026,14:45,PM,Tech Only,Thursday
+Page Road Eye Center,Dr. Martinez,Glaucoma,400246,02/12/2026,7:30,AM,Complete Eye Exam,Thursday
+Main Campus - South,Dr. Smith,Pediatric Ophthalmology,400247,02/12/2026,15:00,PM,Post-Op 1 Day,Thursday
+Main Campus - West,Dr. White,Pediatric Ophthalmology,400248,02/12/2026,14:30,PM,Evaluation,Thursday
+Charlotte,Dr. Johnson,Optometry,400249,02/12/2026,8:15,AM,Complete Eye Exam,Thursday
+Main Campus - West,Dr. Moore,Ophthalmology,400250,02/12/2026,9:00,AM,Injection,Thursday
+Hickory,Dr. Johnson,Glaucoma,400251,02/12/2026,16:45,PM,Evaluation,Thursday
+Hickory,Dr. Robinson,Neuro-Ophthalmology,400252,02/12/2026,16:30,PM,Office Visit,Thursday
+Charlotte,Dr. Miller,Pediatric Ophthalmology,400253,02/12/2026,12:15,PM,Post-Op,Thursday
+Greensboro,Dr. Martin,Optometry,400254,02/12/2026,13:45,PM,Office Visit,Thursday
+Charlotte,Dr. Harris,Retina,400255,02/12/2026,15:15,PM,Return Contact Lens,Thursday
+Wilmington,Dr. Williams,Optometry,400256,02/12/2026,13:00,PM,New Cataract Evaluation,Thursday
+Greensboro,Dr. Wilson,Cornea,400257,02/12/2026,14:45,PM,Post-Op 1 Day,Thursday
+Main Campus - South,Dr. Moore,Ophthalmology,400258,02/12/2026,12:00,PM,Post-Op,Thursday
+Raleigh,Dr. White,Glaucoma,400259,02/12/2026,8:15,AM,Laser,Thursday
+Page Road Eye Center,Dr. Garcia,Retina,400260,02/12/2026,11:00,AM,Botox,Thursday
+Page Road Eye Center,Dr. Robinson,Retina,400261,02/12/2026,15:30,PM,New Cataract Evaluation,Thursday
+Charlotte,Dr. Harris,Glaucoma,400262,02/12/2026,7:00,AM,Return Dry Eye,Thursday
+Statesville,Dr. Moore,Oculoplastics,400263,02/12/2026,16:00,PM,Return Visit,Thursday
+Statesville,Dr. Brown,Optometry,400264,02/12/2026,11:15,AM,Post-Op 1 Day,Thursday
+Main Campus - South,Dr. Taylor,Pediatric Ophthalmology,400265,02/12/2026,13:30,PM,Office Visit,Thursday
+Raleigh,Dr. Martin,Retina,400266,02/12/2026,14:30,PM,Office Visit,Thursday
+Main Campus - South,Dr. Wilson,Pediatric Ophthalmology,400267,02/12/2026,8:45,AM,Tech Only,Thursday
+Main Campus - West,Dr. Martinez,Retina,400268,02/12/2026,16:00,PM,Return Long,Thursday
+Hickory,Dr. Martin,Glaucoma,400269,02/12/2026,14:15,PM,Surgical Work Up,Thursday
+Raleigh,Dr. Jackson,Optometry,400270,02/12/2026,8:45,AM,Complete Eye Exam,Thursday
+Main Campus - West,Dr. Thomas,Glaucoma,400271,02/12/2026,9:00,AM,Urgent,Thursday
+Chapel Hill,Dr. Moore,Cornea,400272,02/12/2026,15:15,PM,New Cataract Evaluation,Thursday
+Main Campus - West,Dr. Johnson,Cornea,400273,02/12/2026,8:00,AM,New Cataract Evaluation,Thursday
+Charlotte,Dr. Harris,Ophthalmology,400274,02/12/2026,9:45,AM,New Visual Field,Thursday
+Charlotte,Dr. Thomas,Ophthalmology,400275,02/12/2026,7:15,AM,Return Long,Thursday
+Statesville,Dr. Williams,Neuro-Ophthalmology,400276,02/12/2026,11:15,AM,Urgent,Thursday
+Asheville,Dr. Davis,Glaucoma,400277,02/13/2026,15:45,PM,Return Visual Field,Friday
+Main Campus - East,Dr. Wilson,Retina,400278,02/13/2026,13:30,PM,Evaluation,Friday
+Charlotte,Dr. Garcia,Retina,400279,02/13/2026,15:45,PM,Minor Room,Friday
+Main Campus - West,Dr. Smith,Optometry,400280,02/13/2026,13:45,PM,Injection-Retina,Friday
+Raleigh,Dr. Thompson,Retina,400281,02/13/2026,11:30,AM,Post-Op,Friday
+Page Road Eye Center,Dr. Davis,Ophthalmology,400282,02/13/2026,8:30,AM,Injection-Retina,Friday
+Page Road Eye Center,Dr. Smith,Cornea,400283,02/13/2026,16:00,PM,New Patient,Friday
+Statesville,Dr. Martin,Glaucoma,400284,02/13/2026,10:30,AM,New Patient,Friday
+Statesville,Dr. Moore,Oculoplastics,400285,02/13/2026,9:00,AM,Visual Acuity,Friday
+Main Campus - South,Dr. Jackson,Cornea,400286,02/13/2026,11:00,AM,Complete Eye Exam,Friday
+Main Campus - East,Dr. Johnson,Neuro-Ophthalmology,400287,02/13/2026,11:45,AM,Return Contact Lens,Friday
+Raleigh,Dr. Jackson,Oculoplastics,400288,02/13/2026,7:15,AM,Return Visit,Friday
+Chapel Hill,Dr. Davis,Oculoplastics,400289,02/13/2026,10:45,AM,Tech Only,Friday
+Statesville,Dr. Wilson,Retina,400290,02/13/2026,8:00,AM,Injection-Retina,Friday
+Charlotte,Dr. Jackson,Oculoplastics,400291,02/13/2026,10:45,AM,Post-Op 1 Day,Friday
+Statesville,Dr. Harris,Optometry,400292,02/13/2026,10:15,AM,New Patient,Friday
+Asheville,Dr. Garcia,Oculoplastics,400293,02/13/2026,12:45,PM,Tech Only,Friday
+Wilmington,Dr. Taylor,Oculoplastics,400294,02/13/2026,8:45,AM,Post-Op,Friday
+Greensboro,Dr. Jackson,Oculoplastics,400295,02/13/2026,14:30,PM,Post-Op 1 Day,Friday
+Asheville,Dr. Harris,Retina,400296,02/13/2026,12:45,PM,Office Visit,Friday
+Asheville,Dr. Johnson,Cornea,400297,02/13/2026,9:15,AM,Post-Op 1 Day,Friday
+Statesville,Dr. Martin,Retina,400298,02/13/2026,15:15,PM,Return Dry Eye,Friday
+Chapel Hill,Dr. Miller,Oculoplastics,400299,02/13/2026,7:45,AM,New Patient,Friday
+Asheville,Dr. Brown,Pediatric Ophthalmology,400300,02/13/2026,11:30,AM,New Patient,Friday
+Wilmington,Dr. Brown,Retina,400301,02/13/2026,12:00,PM,Return Contact Lens,Friday
+Main Campus - East,Dr. Martin,Neuro-Ophthalmology,400302,02/13/2026,15:45,PM,New Patient,Friday
+Wilmington,Dr. Taylor,Cornea,400303,02/13/2026,15:45,PM,New Patient,Friday
+Raleigh,Dr. Jackson,Glaucoma,400304,02/13/2026,16:45,PM,Return Visit,Friday
+Main Campus - West,Dr. Garcia,Ophthalmology,400305,02/13/2026,8:00,AM,Injection-Retina,Friday
+Chapel Hill,Dr. Johnson,Cornea,400306,02/13/2026,14:15,PM,New Patient,Friday
+Statesville,Dr. Martin,Ophthalmology,400307,02/13/2026,14:30,PM,Return Visit,Friday
+Raleigh,Dr. White,Glaucoma,400308,02/13/2026,16:30,PM,Return Visit,Friday
+Page Road Eye Center,Dr. Wilson,Ophthalmology,400309,02/13/2026,15:45,PM,New Visual Field,Friday
+Chapel Hill,Dr. Garcia,Oculoplastics,400310,02/13/2026,7:45,AM,Post-Op,Friday
+Main Campus - West,Dr. Wilson,Glaucoma,400311,02/13/2026,12:45,PM,Return Long,Friday
+Asheville,Dr. Taylor,Oculoplastics,400312,02/13/2026,8:15,AM,Office Visit,Friday
+Asheville,Dr. Wilson,Neuro-Ophthalmology,400313,02/13/2026,7:45,AM,Dry Eye Consult,Friday
+Greensboro,Dr. Wilson,Neuro-Ophthalmology,400314,02/13/2026,15:45,PM,Urgent,Friday
+Hickory,Dr. Miller,Retina,400315,02/13/2026,16:00,PM,Injection,Friday
+Raleigh,Dr. Anderson,Retina,400316,02/16/2026,10:00,AM,Post-Op,Monday
+Asheville,Dr. Miller,Optometry,400317,02/16/2026,12:30,PM,New Cornea,Monday
+Page Road Eye Center,Dr. White,Ophthalmology,400318,02/16/2026,16:15,PM,New Patient,Monday
+Page Road Eye Center,Dr. Garcia,Pediatric Ophthalmology,400319,02/16/2026,7:30,AM,Urgent,Monday
+Chapel Hill,Dr. Martin,Glaucoma,400320,02/16/2026,11:15,AM,Laser,Monday
+Chapel Hill,Dr. Smith,Glaucoma,400321,02/16/2026,14:00,PM,Complete Eye Exam,Monday
+Raleigh,Dr. Williams,Cornea,400322,02/16/2026,8:30,AM,Injection,Monday
+Charlotte,Dr. Brown,Optometry,400323,02/16/2026,11:45,AM,Specialty Lens Fitting,Monday
+Raleigh,Dr. Johnson,Pediatric Ophthalmology,400324,02/16/2026,16:30,PM,New Patient,Monday
+Wilmington,Dr. Martinez,Pediatric Ophthalmology,400325,02/16/2026,13:30,PM,Complete Eye Exam,Monday
+Statesville,Dr. Jackson,Retina,400326,02/16/2026,9:45,AM,Tech Only,Monday
+Statesville,Dr. Miller,Cornea,400327,02/16/2026,7:30,AM,Surgical Work Up,Monday
+Chapel Hill,Dr. Jackson,Cornea,400328,02/16/2026,10:45,AM,Dry Eye Consult,Monday
+Main Campus - South,Dr. Jones,Optometry,400329,02/16/2026,9:00,AM,Botox,Monday
+Wilmington,Dr. Brown,Oculoplastics,400330,02/16/2026,8:15,AM,New Cataract Evaluation,Monday
+Charlotte,Dr. Moore,Retina,400331,02/16/2026,8:30,AM,Tech Only,Monday
+Main Campus - South,Dr. Martin,Ophthalmology,400332,02/16/2026,12:45,PM,Urgent,Monday
+Main Campus - South,Dr. Williams,Glaucoma,400333,02/16/2026,16:15,PM,Injection,Monday
+Main Campus - West,Dr. Thomas,Ophthalmology,400334,02/16/2026,16:00,PM,Surgical Work Up,Monday
+Main Campus - South,Dr. Martin,Ophthalmology,400335,02/16/2026,14:00,PM,Complete Eye Exam,Monday
+Chapel Hill,Dr. Moore,Neuro-Ophthalmology,400336,02/16/2026,11:15,AM,Return Visit,Monday
+Asheville,Dr. Anderson,Pediatric Ophthalmology,400337,02/16/2026,16:30,PM,Dry Eye Consult,Monday
+Greensboro,Dr. Garcia,Ophthalmology,400338,02/16/2026,9:00,AM,Visual Acuity,Monday
+Raleigh,Dr. Smith,Pediatric Ophthalmology,400339,02/16/2026,8:45,AM,New Visual Field,Monday
+Hickory,Dr. Miller,Retina,400340,02/16/2026,11:15,AM,Return Visit,Monday
+Greensboro,Dr. Smith,Cornea,400341,02/16/2026,12:15,PM,Post-Op,Monday
+Statesville,Dr. Anderson,Glaucoma,400342,02/16/2026,7:45,AM,New Visual Field,Monday
+Greensboro,Dr. Harris,Cornea,400343,02/16/2026,12:00,PM,Minor Room,Monday
+Main Campus - East,Dr. Thompson,Oculoplastics,400344,02/17/2026,14:45,PM,Injection,Tuesday
+Hickory,Dr. Robinson,Optometry,400345,02/17/2026,12:45,PM,New Cataract,Tuesday
+Greensboro,Dr. Martin,Optometry,400346,02/17/2026,11:45,AM,New Visual Field,Tuesday
+Chapel Hill,Dr. Martin,Pediatric Ophthalmology,400347,02/17/2026,16:15,PM,Complete Eye Exam,Tuesday
+Chapel Hill,Dr. Garcia,Neuro-Ophthalmology,400348,02/17/2026,8:30,AM,New Visual Field,Tuesday
+Page Road Eye Center,Dr. Miller,Neuro-Ophthalmology,400349,02/17/2026,15:30,PM,New Patient,Tuesday
+Statesville,Dr. Harris,Ophthalmology,400350,02/17/2026,14:45,PM,New Patient,Tuesday
+Main Campus - West,Dr. Miller,Glaucoma,400351,02/17/2026,9:00,AM,Evaluation,Tuesday
+Asheville,Dr. Williams,Oculoplastics,400352,02/17/2026,7:00,AM,Injection,Tuesday
+Asheville,Dr. Johnson,Neuro-Ophthalmology,400353,02/17/2026,15:45,PM,Evaluation,Tuesday
+Raleigh,Dr. Robinson,Pediatric Ophthalmology,400354,02/17/2026,12:45,PM,Office Visit,Tuesday
+Main Campus - South,Dr. Harris,Retina,400355,02/17/2026,7:45,AM,New Patient,Tuesday
+Wilmington,Dr. Taylor,Pediatric Ophthalmology,400356,02/17/2026,14:15,PM,Office Visit,Tuesday
+Page Road Eye Center,Dr. Miller,Neuro-Ophthalmology,400357,02/17/2026,14:00,PM,Specialty Lens Fitting,Tuesday
+Asheville,Dr. Martin,Oculoplastics,400358,02/17/2026,15:45,PM,Visual Acuity,Tuesday
+Main Campus - South,Dr. Garcia,Glaucoma,400359,02/17/2026,13:45,PM,Evaluation,Tuesday
+Chapel Hill,Dr. Thompson,Oculoplastics,400360,02/17/2026,12:30,PM,Complete Eye Exam,Tuesday
+Chapel Hill,Dr. Johnson,Pediatric Ophthalmology,400361,02/17/2026,8:30,AM,Office Visit,Tuesday
+Main Campus - South,Dr. Anderson,Optometry,400362,02/17/2026,11:15,AM,Complete Eye Exam,Tuesday
+Asheville,Dr. Brown,Cornea,400363,02/17/2026,7:00,AM,Laser,Tuesday
+Hickory,Dr. Moore,Glaucoma,400364,02/17/2026,14:45,PM,New Patient,Tuesday
+Chapel Hill,Dr. Jones,Ophthalmology,400365,02/17/2026,12:00,PM,Complete Eye Exam,Tuesday
+Raleigh,Dr. Martin,Pediatric Ophthalmology,400366,02/17/2026,15:00,PM,Return Contact Lens,Tuesday
+Asheville,Dr. Johnson,Cornea,400367,02/17/2026,15:45,PM,Procedure,Tuesday
+Charlotte,Dr. Thomas,Optometry,400368,02/17/2026,8:45,AM,Procedure,Tuesday
+Charlotte,Dr. Jones,Oculoplastics,400369,02/17/2026,14:00,PM,Injection-Retina,Tuesday
+Raleigh,Dr. Harris,Cornea,400370,02/17/2026,13:15,PM,Return Visit,Tuesday
+Asheville,Dr. Harris,Neuro-Ophthalmology,400371,02/17/2026,14:00,PM,Return Visual Field,Tuesday
+Wilmington,Dr. Wilson,Cornea,400372,02/17/2026,10:00,AM,Return Long,Tuesday
+Main Campus - West,Dr. Miller,Pediatric Ophthalmology,400373,02/17/2026,9:00,AM,New Cataract Evaluation,Tuesday
+Wilmington,Dr. Robinson,Retina,400374,02/17/2026,13:45,PM,New Glaucoma,Tuesday
+Main Campus - South,Dr. Martin,Optometry,400375,02/17/2026,15:30,PM,New Cataract,Tuesday
+Charlotte,Dr. Robinson,Neuro-Ophthalmology,400376,02/17/2026,16:30,PM,Return Visit,Tuesday
+Page Road Eye Center,Dr. Thomas,Optometry,400377,02/18/2026,7:30,AM,Return Dry Eye,Wednesday
+Wilmington,Dr. Brown,Ophthalmology,400378,02/18/2026,16:45,PM,Post-Op,Wednesday
+Charlotte,Dr. Taylor,Retina,400379,02/18/2026,12:00,PM,Injection,Wednesday
+Main Campus - East,Dr. Jackson,Glaucoma,400380,02/18/2026,12:15,PM,Procedure,Wednesday
+Main Campus - South,Dr. Garcia,Ophthalmology,400381,02/18/2026,15:15,PM,Complete Eye Exam,Wednesday
+Greensboro,Dr. Smith,Cornea,400382,02/18/2026,16:00,PM,Return Visual Field,Wednesday
+Main Campus - East,Dr. Harris,Glaucoma,400383,02/18/2026,8:30,AM,Return Neuro,Wednesday
+Main Campus - South,Dr. Smith,Pediatric Ophthalmology,400384,02/18/2026,14:30,PM,New Patient,Wednesday
+Page Road Eye Center,Dr. Williams,Glaucoma,400385,02/18/2026,13:45,PM,Tech Only,Wednesday
+Statesville,Dr. Harris,Glaucoma,400386,02/18/2026,16:45,PM,Complete Eye Exam,Wednesday
+Greensboro,Dr. Taylor,Ophthalmology,400387,02/18/2026,13:30,PM,Complete Eye Exam,Wednesday
+Main Campus - East,Dr. Thompson,Retina,400388,02/18/2026,15:30,PM,Evaluation,Wednesday
+Main Campus - East,Dr. Martinez,Glaucoma,400389,02/18/2026,11:45,AM,Evaluation,Wednesday
+Main Campus - East,Dr. Garcia,Optometry,400390,02/18/2026,11:45,AM,Office Visit,Wednesday
+Main Campus - East,Dr. Wilson,Oculoplastics,400391,02/18/2026,14:00,PM,Return Visit,Wednesday
+Raleigh,Dr. Jones,Cornea,400392,02/18/2026,10:30,AM,Surgical Work Up,Wednesday
+Asheville,Dr. Garcia,Oculoplastics,400393,02/18/2026,10:15,AM,Complete Eye Exam,Wednesday
+Greensboro,Dr. Brown,Neuro-Ophthalmology,400394,02/18/2026,7:15,AM,Return Visit,Wednesday
+Wilmington,Dr. Wilson,Ophthalmology,400395,02/18/2026,13:45,PM,Specialty Lens Fitting,Wednesday
+Main Campus - East,Dr. Martin,Optometry,400396,02/18/2026,16:00,PM,Evaluation,Wednesday
+Wilmington,Dr. Smith,Retina,400397,02/18/2026,12:15,PM,New Glaucoma,Wednesday
+Page Road Eye Center,Dr. Brown,Pediatric Ophthalmology,400398,02/18/2026,8:30,AM,New Contact Lens,Wednesday
+Asheville,Dr. White,Cornea,400399,02/18/2026,13:00,PM,New Cataract,Wednesday
+Greensboro,Dr. Johnson,Ophthalmology,400400,02/18/2026,14:00,PM,Evaluation,Wednesday
+Charlotte,Dr. Robinson,Neuro-Ophthalmology,400401,02/18/2026,13:00,PM,New Cataract,Wednesday
+Statesville,Dr. Taylor,Optometry,400402,02/18/2026,7:15,AM,Return Dry Eye,Wednesday
+Main Campus - South,Dr. White,Ophthalmology,400403,02/18/2026,15:00,PM,New Cataract Evaluation,Wednesday
+Wilmington,Dr. Williams,Oculoplastics,400404,02/18/2026,16:45,PM,Post-Op,Wednesday
+Statesville,Dr. Brown,Cornea,400405,02/18/2026,16:15,PM,Return Dry Eye,Wednesday
+Chapel Hill,Dr. Moore,Retina,400406,02/18/2026,8:15,AM,Return Visual Field,Wednesday
+Asheville,Dr. Jones,Ophthalmology,400407,02/18/2026,10:45,AM,New Glaucoma,Wednesday
+Asheville,Dr. Thompson,Cornea,400408,02/18/2026,10:45,AM,Surgical Work Up,Wednesday
+Charlotte,Dr. Miller,Retina,400409,02/18/2026,15:15,PM,Office Visit,Wednesday
+Main Campus - South,Dr. Taylor,Neuro-Ophthalmology,400410,02/18/2026,10:30,AM,Complete Eye Exam,Wednesday
+Greensboro,Dr. Miller,Neuro-Ophthalmology,400411,02/18/2026,12:00,PM,New Glaucoma,Wednesday
+Hickory,Dr. Anderson,Glaucoma,400412,02/18/2026,13:00,PM,Injection-Retina,Wednesday
+Charlotte,Dr. White,Optometry,400413,02/18/2026,8:15,AM,Injection-Retina,Wednesday
+Main Campus - West,Dr. Robinson,Glaucoma,400414,02/19/2026,14:15,PM,Procedure,Thursday
+Page Road Eye Center,Dr. Anderson,Cornea,400415,02/19/2026,12:00,PM,Procedure,Thursday
+Page Road Eye Center,Dr. Thompson,Neuro-Ophthalmology,400416,02/19/2026,8:30,AM,Post-Op,Thursday
+Asheville,Dr. Jones,Neuro-Ophthalmology,400417,02/19/2026,11:00,AM,Return Visit,Thursday
+Main Campus - West,Dr. Wilson,Pediatric Ophthalmology,400418,02/19/2026,9:30,AM,New Contact Lens,Thursday
+Chapel Hill,Dr. Harris,Ophthalmology,400419,02/19/2026,11:00,AM,New Cataract Evaluation,Thursday
+Chapel Hill,Dr. White,Glaucoma,400420,02/19/2026,7:45,AM,New Patient,Thursday
+Main Campus - East,Dr. Harris,Ophthalmology,400421,02/19/2026,8:00,AM,Dry Eye Consult,Thursday
+Main Campus - South,Dr. Thompson,Glaucoma,400422,02/19/2026,14:45,PM,New Glaucoma,Thursday
+Statesville,Dr. White,Neuro-Ophthalmology,400423,02/19/2026,11:15,AM,New Patient,Thursday
+Statesville,Dr. Anderson,Retina,400424,02/19/2026,14:00,PM,Return Dry Eye,Thursday
+Main Campus - South,Dr. Brown,Ophthalmology,400425,02/19/2026,16:45,PM,Evaluation,Thursday
+Asheville,Dr. Thomas,Neuro-Ophthalmology,400426,02/19/2026,7:45,AM,Evaluation,Thursday
+Greensboro,Dr. Robinson,Retina,400427,02/19/2026,10:45,AM,Office Visit,Thursday
+Main Campus - East,Dr. Jones,Ophthalmology,400428,02/19/2026,10:30,AM,New Cornea,Thursday
+Wilmington,Dr. Smith,Oculoplastics,400429,02/19/2026,16:30,PM,Injection,Thursday
+Page Road Eye Center,Dr. White,Ophthalmology,400430,02/19/2026,12:00,PM,Evaluation,Thursday
+Hickory,Dr. Jackson,Pediatric Ophthalmology,400431,02/19/2026,14:15,PM,New Patient,Thursday
+Chapel Hill,Dr. Jackson,Glaucoma,400432,02/19/2026,11:00,AM,Injection-Retina,Thursday
+Raleigh,Dr. Wilson,Oculoplastics,400433,02/19/2026,15:00,PM,Injection,Thursday
+Hickory,Dr. Taylor,Cornea,400434,02/19/2026,10:45,AM,Complete Eye Exam,Thursday
+Statesville,Dr. Harris,Optometry,400435,02/19/2026,15:00,PM,Botox,Thursday
+Main Campus - East,Dr. Johnson,Cornea,400436,02/19/2026,13:15,PM,Post-Op,Thursday
+Wilmington,Dr. Harris,Retina,400437,02/19/2026,14:45,PM,New Cataract Evaluation,Thursday
+Hickory,Dr. Jackson,Neuro-Ophthalmology,400438,02/19/2026,14:00,PM,Return Neuro,Thursday
+Greensboro,Dr. White,Optometry,400439,02/19/2026,15:15,PM,Return Contact Lens,Thursday
+Charlotte,Dr. Wilson,Glaucoma,400440,02/19/2026,16:00,PM,Post-Op,Thursday
+Charlotte,Dr. Jones,Neuro-Ophthalmology,400441,02/19/2026,11:45,AM,Complete Eye Exam,Thursday
+Main Campus - East,Dr. Robinson,Pediatric Ophthalmology,400442,02/19/2026,16:45,PM,New Cataract,Thursday
+Main Campus - South,Dr. Williams,Glaucoma,400443,02/19/2026,8:45,AM,Surgical Work Up,Thursday
+Main Campus - West,Dr. Martinez,Oculoplastics,400444,02/19/2026,13:45,PM,Injection-Retina,Thursday
+Statesville,Dr. Jones,Glaucoma,400445,02/19/2026,16:00,PM,Post-Op,Thursday
+Raleigh,Dr. Taylor,Pediatric Ophthalmology,400446,02/19/2026,16:30,PM,New Cataract Evaluation,Thursday
+Chapel Hill,Dr. Martinez,Pediatric Ophthalmology,400447,02/19/2026,15:00,PM,New Cataract,Thursday
+Statesville,Dr. Thomas,Glaucoma,400448,02/20/2026,16:45,PM,Injection-Retina,Friday
+Wilmington,Dr. Jackson,Neuro-Ophthalmology,400449,02/20/2026,8:30,AM,Return Contact Lens,Friday
+Hickory,Dr. Johnson,Retina,400450,02/20/2026,10:15,AM,Office Visit,Friday
+Wilmington,Dr. Thomas,Optometry,400451,02/20/2026,15:15,PM,New Cataract Evaluation,Friday
+Main Campus - West,Dr. Moore,Pediatric Ophthalmology,400452,02/20/2026,14:45,PM,Complete Eye Exam,Friday
+Main Campus - South,Dr. Robinson,Optometry,400453,02/20/2026,12:00,PM,Complete Eye Exam,Friday
+Greensboro,Dr. Smith,Neuro-Ophthalmology,400454,02/20/2026,10:15,AM,Return Visit,Friday
+Page Road Eye Center,Dr. Moore,Ophthalmology,400455,02/20/2026,13:30,PM,Procedure,Friday
+Main Campus - South,Dr. Williams,Ophthalmology,400456,02/20/2026,15:45,PM,Specialty Lens Fitting,Friday
+Asheville,Dr. Johnson,Retina,400457,02/20/2026,7:45,AM,Return Long,Friday
+Asheville,Dr. Thompson,Pediatric Ophthalmology,400458,02/20/2026,12:00,PM,New Cataract Evaluation,Friday
+Wilmington,Dr. Thompson,Cornea,400459,02/20/2026,10:30,AM,Post-Op,Friday
+Main Campus - East,Dr. Johnson,Oculoplastics,400460,02/20/2026,11:45,AM,Return Dry Eye,Friday
+Raleigh,Dr. Miller,Optometry,400461,02/20/2026,7:45,AM,New Patient,Friday
+Main Campus - South,Dr. Moore,Cornea,400462,02/20/2026,14:00,PM,New Cataract,Friday
+Wilmington,Dr. Johnson,Retina,400463,02/20/2026,16:30,PM,New Glaucoma,Friday
+Greensboro,Dr. Taylor,Pediatric Ophthalmology,400464,02/20/2026,12:45,PM,Injection,Friday
+Statesville,Dr. Jones,Retina,400465,02/20/2026,16:00,PM,Post-Op 1 Day,Friday
+Chapel Hill,Dr. Thompson,Ophthalmology,400466,02/20/2026,10:00,AM,Complete Eye Exam,Friday
+Main Campus - West,Dr. Miller,Glaucoma,400467,02/20/2026,11:15,AM,Return Visit,Friday
+Raleigh,Dr. Moore,Oculoplastics,400468,02/20/2026,12:45,PM,New Cornea,Friday
+Charlotte,Dr. Jones,Cornea,400469,02/20/2026,16:15,PM,Tech Only,Friday
+Main Campus - East,Dr. Brown,Ophthalmology,400470,02/20/2026,8:30,AM,Post-Op,Friday
+Main Campus - West,Dr. Davis,Glaucoma,400471,02/20/2026,12:00,PM,Tech Only,Friday
+Raleigh,Dr. Taylor,Glaucoma,400472,02/20/2026,13:00,PM,Complete Eye Exam,Friday
+Statesville,Dr. White,Retina,400473,02/20/2026,12:45,PM,New Cataract Evaluation,Friday
+Charlotte,Dr. Wilson,Retina,400474,02/20/2026,14:15,PM,Dry Eye Consult,Friday
+Main Campus - East,Dr. Anderson,Pediatric Ophthalmology,400475,02/20/2026,7:00,AM,Office Visit,Friday
+Asheville,Dr. Brown,Pediatric Ophthalmology,400476,02/20/2026,13:00,PM,Return Visit,Friday
+Main Campus - South,Dr. Miller,Glaucoma,400477,02/20/2026,12:15,PM,Evaluation,Friday
+Wilmington,Dr. Jones,Neuro-Ophthalmology,400478,02/20/2026,7:15,AM,Tech Only,Friday
+Hickory,Dr. Anderson,Cornea,400479,02/20/2026,7:15,AM,Laser,Friday
+Greensboro,Dr. Moore,Ophthalmology,400480,02/20/2026,9:00,AM,Return Visit,Friday
+Main Campus - East,Dr. Moore,Retina,400481,02/20/2026,14:30,PM,New Contact Lens,Friday
+Charlotte,Dr. Thomas,Retina,400482,02/20/2026,11:15,AM,Injection-Retina,Friday
+Main Campus - West,Dr. Anderson,Retina,400483,02/23/2026,10:45,AM,Return Visit,Monday
+Hickory,Dr. Wilson,Pediatric Ophthalmology,400484,02/23/2026,10:15,AM,Procedure,Monday
+Asheville,Dr. Robinson,Oculoplastics,400485,02/23/2026,12:45,PM,Dry Eye Consult,Monday
+Asheville,Dr. Smith,Glaucoma,400486,02/23/2026,15:45,PM,Office Visit,Monday
+Asheville,Dr. Smith,Retina,400487,02/23/2026,10:45,AM,New Glaucoma,Monday
+Wilmington,Dr. Robinson,Retina,400488,02/23/2026,11:00,AM,Evaluation,Monday
+Page Road Eye Center,Dr. Thompson,Neuro-Ophthalmology,400489,02/23/2026,11:45,AM,Return Visit,Monday
+Main Campus - West,Dr. Johnson,Cornea,400490,02/23/2026,11:15,AM,Complete Eye Exam,Monday
+Asheville,Dr. Jackson,Retina,400491,02/23/2026,11:45,AM,New Cataract Evaluation,Monday
+Greensboro,Dr. Jones,Oculoplastics,400492,02/23/2026,16:00,PM,New Cataract Evaluation,Monday
+Main Campus - East,Dr. Robinson,Retina,400493,02/23/2026,12:30,PM,Return Neuro,Monday
+Raleigh,Dr. Wilson,Oculoplastics,400494,02/23/2026,10:15,AM,Return Long,Monday
+Greensboro,Dr. Williams,Retina,400495,02/23/2026,12:15,PM,Return Visit,Monday
+Hickory,Dr. Johnson,Retina,400496,02/23/2026,10:45,AM,Tech Only,Monday
+Main Campus - West,Dr. Martinez,Oculoplastics,400497,02/23/2026,8:30,AM,Complete Eye Exam,Monday
+Charlotte,Dr. Smith,Ophthalmology,400498,02/23/2026,14:00,PM,Urgent,Monday
+Statesville,Dr. Johnson,Glaucoma,400499,02/23/2026,11:30,AM,Post-Op 1 Day,Monday
+Greensboro,Dr. Williams,Neuro-Ophthalmology,400500,02/23/2026,12:00,PM,Visual Acuity,Monday
+Greensboro,Dr. Robinson,Retina,400501,02/23/2026,15:00,PM,Dry Eye Consult,Monday
+Page Road Eye Center,Dr. Robinson,Glaucoma,400502,02/23/2026,16:15,PM,Return Dry Eye,Monday
+Hickory,Dr. White,Pediatric Ophthalmology,400503,02/23/2026,9:30,AM,Return Contact Lens,Monday
+Main Campus - East,Dr. Jackson,Neuro-Ophthalmology,400504,02/23/2026,9:15,AM,New Cataract Evaluation,Monday
+Charlotte,Dr. Smith,Pediatric Ophthalmology,400505,02/23/2026,12:00,PM,New Patient,Monday
+Main Campus - East,Dr. Thompson,Pediatric Ophthalmology,400506,02/23/2026,16:00,PM,New Patient,Monday
+Statesville,Dr. Wilson,Glaucoma,400507,02/23/2026,14:15,PM,Return Visit,Monday
+Raleigh,Dr. Jackson,Pediatric Ophthalmology,400508,02/23/2026,15:15,PM,Office Visit,Monday
+Wilmington,Dr. Harris,Ophthalmology,400509,02/23/2026,10:30,AM,Visual Acuity,Monday
+Hickory,Dr. Thomas,Optometry,400510,02/23/2026,9:00,AM,Injection,Monday
+Chapel Hill,Dr. Jackson,Glaucoma,400511,02/23/2026,12:30,PM,Office Visit,Monday
+Greensboro,Dr. Garcia,Ophthalmology,400512,02/23/2026,13:15,PM,Dry Eye Consult,Monday
+Main Campus - West,Dr. Wilson,Optometry,400513,02/24/2026,10:00,AM,New Visual Field,Tuesday
+Main Campus - West,Dr. Martinez,Retina,400514,02/24/2026,11:15,AM,Evaluation,Tuesday
+Main Campus - East,Dr. Martinez,Glaucoma,400515,02/24/2026,7:45,AM,Complete Eye Exam,Tuesday
+Raleigh,Dr. Moore,Glaucoma,400516,02/24/2026,16:30,PM,Return Dry Eye,Tuesday
+Greensboro,Dr. White,Retina,400517,02/24/2026,13:15,PM,New Patient,Tuesday
+Wilmington,Dr. Thomas,Retina,400518,02/24/2026,10:30,AM,Office Visit,Tuesday
+Chapel Hill,Dr. Smith,Pediatric Ophthalmology,400519,02/24/2026,10:15,AM,Office Visit,Tuesday
+Hickory,Dr. Robinson,Ophthalmology,400520,02/24/2026,15:30,PM,Surgical Work Up,Tuesday
+Main Campus - West,Dr. Garcia,Cornea,400521,02/24/2026,11:30,AM,New Cataract Evaluation,Tuesday
+Chapel Hill,Dr. Moore,Pediatric Ophthalmology,400522,02/24/2026,12:00,PM,Complete Eye Exam,Tuesday
+Statesville,Dr. Brown,Optometry,400523,02/24/2026,15:30,PM,Injection,Tuesday
+Wilmington,Dr. Wilson,Pediatric Ophthalmology,400524,02/24/2026,13:30,PM,Office Visit,Tuesday
+Page Road Eye Center,Dr. Anderson,Ophthalmology,400525,02/24/2026,12:45,PM,New Patient,Tuesday
+Main Campus - East,Dr. Miller,Retina,400526,02/24/2026,12:30,PM,Return Visit,Tuesday
+Chapel Hill,Dr. Smith,Ophthalmology,400527,02/24/2026,14:30,PM,Return Contact Lens,Tuesday
+Statesville,Dr. Johnson,Neuro-Ophthalmology,400528,02/24/2026,8:00,AM,Surgical Work Up,Tuesday
+Hickory,Dr. Brown,Glaucoma,400529,02/24/2026,14:45,PM,New Cataract,Tuesday
+Asheville,Dr. Jackson,Neuro-Ophthalmology,400530,02/24/2026,14:45,PM,Return Visual Field,Tuesday
+Page Road Eye Center,Dr. Harris,Oculoplastics,400531,02/24/2026,12:15,PM,Return Contact Lens,Tuesday
+Main Campus - East,Dr. Wilson,Optometry,400532,02/24/2026,13:45,PM,Laser,Tuesday
+Raleigh,Dr. Jones,Oculoplastics,400533,02/24/2026,7:00,AM,New Patient,Tuesday
+Page Road Eye Center,Dr. Robinson,Optometry,400534,02/24/2026,7:00,AM,Dry Eye Consult,Tuesday
+Chapel Hill,Dr. Smith,Cornea,400535,02/24/2026,9:45,AM,Complete Eye Exam,Tuesday
+Chapel Hill,Dr. Garcia,Oculoplastics,400536,02/24/2026,7:45,AM,Minor Room,Tuesday
+Raleigh,Dr. Williams,Optometry,400537,02/24/2026,11:45,AM,Surgical Work Up,Tuesday
+Chapel Hill,Dr. Martinez,Optometry,400538,02/24/2026,10:15,AM,Post-Op,Tuesday
+Charlotte,Dr. Taylor,Glaucoma,400539,02/24/2026,10:45,AM,New Contact Lens,Tuesday
+Raleigh,Dr. Miller,Oculoplastics,400540,02/24/2026,10:45,AM,Return Visit,Tuesday
+Chapel Hill,Dr. Wilson,Oculoplastics,400541,02/24/2026,15:30,PM,Office Visit,Tuesday
+Main Campus - South,Dr. Martin,Cornea,400542,02/24/2026,8:00,AM,Specialty Lens Fitting,Tuesday
+Page Road Eye Center,Dr. Harris,Ophthalmology,400543,02/24/2026,14:45,PM,Urgent,Tuesday
+Hickory,Dr. Anderson,Optometry,400544,02/24/2026,12:30,PM,New Contact Lens,Tuesday
+Charlotte,Dr. Brown,Pediatric Ophthalmology,400545,02/24/2026,7:45,AM,New Cataract Evaluation,Tuesday
+Hickory,Dr. Taylor,Pediatric Ophthalmology,400546,02/24/2026,15:15,PM,Evaluation,Tuesday
+Main Campus - East,Dr. Harris,Optometry,400547,02/24/2026,13:00,PM,Return Neuro,Tuesday
+Main Campus - South,Dr. Harris,Optometry,400548,02/24/2026,10:00,AM,Office Visit,Tuesday
+Page Road Eye Center,Dr. Jackson,Optometry,400549,02/24/2026,13:15,PM,New Patient,Tuesday
+Main Campus - South,Dr. Williams,Oculoplastics,400550,02/25/2026,8:15,AM,Dry Eye Consult,Wednesday
+Chapel Hill,Dr. Robinson,Glaucoma,400551,02/25/2026,10:00,AM,Complete Eye Exam,Wednesday
+Wilmington,Dr. Johnson,Retina,400552,02/25/2026,13:45,PM,Tech Only,Wednesday
+Raleigh,Dr. Jones,Neuro-Ophthalmology,400553,02/25/2026,7:00,AM,New Patient,Wednesday
+Charlotte,Dr. Jones,Neuro-Ophthalmology,400554,02/25/2026,12:45,PM,Post-Op,Wednesday
+Raleigh,Dr. Harris,Cornea,400555,02/25/2026,10:00,AM,Return Visit,Wednesday
+Chapel Hill,Dr. Brown,Glaucoma,400556,02/25/2026,12:30,PM,Surgical Work Up,Wednesday
+Chapel Hill,Dr. Thomas,Optometry,400557,02/25/2026,15:00,PM,Injection,Wednesday
+Wilmington,Dr. Jackson,Optometry,400558,02/25/2026,10:45,AM,Procedure,Wednesday
+Main Campus - East,Dr. Davis,Ophthalmology,400559,02/25/2026,13:30,PM,Return Contact Lens,Wednesday
+Hickory,Dr. Davis,Ophthalmology,400560,02/25/2026,16:15,PM,Office Visit,Wednesday
+Main Campus - South,Dr. Garcia,Cornea,400561,02/25/2026,16:45,PM,Return Dry Eye,Wednesday
+Main Campus - South,Dr. Anderson,Retina,400562,02/25/2026,9:45,AM,Return Contact Lens,Wednesday
+Statesville,Dr. Martinez,Glaucoma,400563,02/25/2026,9:15,AM,Return Long,Wednesday
+Raleigh,Dr. Taylor,Glaucoma,400564,02/25/2026,12:15,PM,Laser,Wednesday
+Hickory,Dr. Harris,Optometry,400565,02/25/2026,12:45,PM,Visual Acuity,Wednesday
+Page Road Eye Center,Dr. Martin,Retina,400566,02/25/2026,8:30,AM,Return Visit,Wednesday
+Charlotte,Dr. Smith,Neuro-Ophthalmology,400567,02/25/2026,9:15,AM,Evaluation,Wednesday
+Asheville,Dr. Harris,Optometry,400568,02/25/2026,11:00,AM,Dry Eye Consult,Wednesday
+Chapel Hill,Dr. Thomas,Optometry,400569,02/25/2026,16:15,PM,Tech Only,Wednesday
+Greensboro,Dr. Martinez,Cornea,400570,02/25/2026,9:15,AM,Office Visit,Wednesday
+Raleigh,Dr. Anderson,Ophthalmology,400571,02/25/2026,14:00,PM,Dry Eye Consult,Wednesday
+Asheville,Dr. Johnson,Ophthalmology,400572,02/25/2026,8:00,AM,Post-Op,Wednesday
+Asheville,Dr. Wilson,Retina,400573,02/25/2026,11:15,AM,New Visual Field,Wednesday
+Main Campus - East,Dr. Harris,Retina,400574,02/25/2026,9:00,AM,New Patient,Wednesday
+Raleigh,Dr. Jackson,Pediatric Ophthalmology,400575,02/25/2026,13:30,PM,Post-Op,Wednesday
+Raleigh,Dr. Taylor,Ophthalmology,400576,02/25/2026,12:30,PM,Return Dry Eye,Wednesday
+Page Road Eye Center,Dr. Williams,Neuro-Ophthalmology,400577,02/25/2026,16:45,PM,Evaluation,Wednesday
+Greensboro,Dr. Martinez,Oculoplastics,400578,02/25/2026,12:00,PM,Complete Eye Exam,Wednesday
+Statesville,Dr. Williams,Retina,400579,02/25/2026,8:00,AM,New Patient,Wednesday
+Statesville,Dr. Moore,Retina,400580,02/25/2026,16:00,PM,New Contact Lens,Wednesday
+Main Campus - East,Dr. Harris,Glaucoma,400581,02/25/2026,12:30,PM,Post-Op,Wednesday
+Wilmington,Dr. Moore,Glaucoma,400582,02/25/2026,15:00,PM,Return Visit,Wednesday
+Main Campus - West,Dr. Martinez,Ophthalmology,400583,02/25/2026,7:30,AM,Injection,Wednesday
+Main Campus - West,Dr. Davis,Cornea,400584,02/25/2026,7:30,AM,Tech Only,Wednesday
+Charlotte,Dr. Martinez,Ophthalmology,400585,02/25/2026,12:00,PM,Post-Op,Wednesday
+Greensboro,Dr. Wilson,Glaucoma,400586,02/25/2026,13:15,PM,New Cataract Evaluation,Wednesday
+Chapel Hill,Dr. Martinez,Glaucoma,400587,02/26/2026,12:00,PM,New Cataract Evaluation,Thursday
+Main Campus - West,Dr. Davis,Pediatric Ophthalmology,400588,02/26/2026,16:30,PM,Return Visit,Thursday
+Statesville,Dr. Johnson,Retina,400589,02/26/2026,11:45,AM,Complete Eye Exam,Thursday
+Wilmington,Dr. Johnson,Retina,400590,02/26/2026,15:00,PM,Evaluation,Thursday
+Page Road Eye Center,Dr. Thomas,Glaucoma,400591,02/26/2026,12:15,PM,Surgical Work Up,Thursday
+Main Campus - East,Dr. Garcia,Pediatric Ophthalmology,400592,02/26/2026,16:15,PM,Complete Eye Exam,Thursday
+Page Road Eye Center,Dr. Thompson,Optometry,400593,02/26/2026,10:00,AM,Office Visit,Thursday
+Page Road Eye Center,Dr. Brown,Oculoplastics,400594,02/26/2026,13:30,PM,New Patient,Thursday
+Main Campus - West,Dr. Robinson,Retina,400595,02/26/2026,13:15,PM,Office Visit,Thursday
+Asheville,Dr. Anderson,Retina,400596,02/26/2026,15:45,PM,Return Visual Field,Thursday
+Charlotte,Dr. Anderson,Optometry,400597,02/26/2026,9:30,AM,Complete Eye Exam,Thursday
+Asheville,Dr. Taylor,Glaucoma,400598,02/26/2026,12:45,PM,Return Dry Eye,Thursday
+Hickory,Dr. Thomas,Optometry,400599,02/26/2026,9:45,AM,Office Visit,Thursday
+Page Road Eye Center,Dr. Thomas,Pediatric Ophthalmology,400600,02/26/2026,8:15,AM,Post-Op,Thursday
+Page Road Eye Center,Dr. Williams,Pediatric Ophthalmology,400601,02/26/2026,14:30,PM,Return Visit,Thursday
+Hickory,Dr. Garcia,Pediatric Ophthalmology,400602,02/26/2026,8:15,AM,Complete Eye Exam,Thursday
+Asheville,Dr. Thompson,Neuro-Ophthalmology,400603,02/26/2026,16:15,PM,New Cataract Evaluation,Thursday
+Hickory,Dr. Brown,Pediatric Ophthalmology,400604,02/26/2026,11:15,AM,Return Dry Eye,Thursday
+Statesville,Dr. Miller,Pediatric Ophthalmology,400605,02/26/2026,9:00,AM,Office Visit,Thursday
+Charlotte,Dr. Anderson,Ophthalmology,400606,02/26/2026,8:15,AM,Procedure,Thursday
+Greensboro,Dr. Jones,Retina,400607,02/26/2026,8:15,AM,New Glaucoma,Thursday
+Page Road Eye Center,Dr. Brown,Cornea,400608,02/26/2026,14:30,PM,Office Visit,Thursday
+Chapel Hill,Dr. Williams,Optometry,400609,02/26/2026,16:00,PM,New Glaucoma,Thursday
+Main Campus - South,Dr. Johnson,Cornea,400610,02/26/2026,16:00,PM,Post-Op 1 Day,Thursday
+Main Campus - South,Dr. Taylor,Optometry,400611,02/26/2026,8:30,AM,Procedure,Thursday
+Page Road Eye Center,Dr. Wilson,Retina,400612,02/26/2026,11:15,AM,Return Visit,Thursday
+Asheville,Dr. Wilson,Ophthalmology,400613,02/26/2026,7:00,AM,Tech Only,Thursday
+Hickory,Dr. White,Pediatric Ophthalmology,400614,02/26/2026,15:00,PM,Office Visit,Thursday
+Chapel Hill,Dr. White,Neuro-Ophthalmology,400615,02/26/2026,9:00,AM,New Cataract,Thursday
+Main Campus - West,Dr. Davis,Oculoplastics,400616,02/26/2026,8:30,AM,Urgent,Thursday
+Main Campus - East,Dr. Martin,Oculoplastics,400617,02/26/2026,12:15,PM,Urgent,Thursday
+Wilmington,Dr. Williams,Oculoplastics,400618,02/26/2026,13:45,PM,Return Contact Lens,Thursday
+Wilmington,Dr. Harris,Glaucoma,400619,02/26/2026,14:00,PM,Laser,Thursday
+Statesville,Dr. Garcia,Neuro-Ophthalmology,400620,02/26/2026,14:30,PM,Urgent,Thursday
+Asheville,Dr. Jones,Cornea,400621,02/26/2026,8:15,AM,Post-Op,Thursday
+Wilmington,Dr. Garcia,Retina,400622,02/26/2026,11:45,AM,Return Visit,Thursday
+Charlotte,Dr. Brown,Cornea,400623,02/26/2026,12:30,PM,Injection,Thursday
+Greensboro,Dr. White,Neuro-Ophthalmology,400624,02/26/2026,12:45,PM,Surgical Work Up,Thursday
+Raleigh,Dr. Williams,Pediatric Ophthalmology,400625,02/26/2026,15:00,PM,Injection-Retina,Thursday
+Asheville,Dr. Martin,Glaucoma,400626,02/26/2026,12:15,PM,New Cornea,Thursday
+Main Campus - South,Dr. Brown,Cornea,400627,02/27/2026,10:45,AM,Complete Eye Exam,Friday
+Raleigh,Dr. Johnson,Glaucoma,400628,02/27/2026,13:30,PM,Tech Only,Friday
+Charlotte,Dr. Thomas,Oculoplastics,400629,02/27/2026,14:00,PM,Office Visit,Friday
+Page Road Eye Center,Dr. Jones,Neuro-Ophthalmology,400630,02/27/2026,8:15,AM,Complete Eye Exam,Friday
+Greensboro,Dr. White,Glaucoma,400631,02/27/2026,11:15,AM,New Patient,Friday
+Statesville,Dr. Miller,Retina,400632,02/27/2026,10:15,AM,Return Visit,Friday
+Wilmington,Dr. Garcia,Oculoplastics,400633,02/27/2026,15:45,PM,Office Visit,Friday
+Statesville,Dr. Wilson,Glaucoma,400634,02/27/2026,10:30,AM,Post-Op,Friday
+Raleigh,Dr. Harris,Oculoplastics,400635,02/27/2026,7:15,AM,Laser,Friday
+Main Campus - South,Dr. Wilson,Cornea,400636,02/27/2026,14:15,PM,Post-Op 1 Day,Friday
+Main Campus - South,Dr. Martin,Pediatric Ophthalmology,400637,02/27/2026,14:45,PM,Return Visit,Friday
+Asheville,Dr. Anderson,Ophthalmology,400638,02/27/2026,12:45,PM,Complete Eye Exam,Friday
+Main Campus - West,Dr. Miller,Oculoplastics,400639,02/27/2026,13:15,PM,Tech Only,Friday
+Main Campus - East,Dr. Garcia,Neuro-Ophthalmology,400640,02/27/2026,8:45,AM,New Glaucoma,Friday
+Main Campus - South,Dr. Jones,Pediatric Ophthalmology,400641,02/27/2026,16:30,PM,Return Visit,Friday
+Wilmington,Dr. White,Retina,400642,02/27/2026,15:45,PM,Surgical Work Up,Friday
+Chapel Hill,Dr. Harris,Optometry,400643,02/27/2026,8:00,AM,Visual Acuity,Friday
+Page Road Eye Center,Dr. Garcia,Retina,400644,02/27/2026,8:30,AM,Return Visit,Friday
+Greensboro,Dr. Thomas,Pediatric Ophthalmology,400645,02/27/2026,15:30,PM,New Patient,Friday
+Main Campus - West,Dr. Brown,Retina,400646,02/27/2026,14:30,PM,New Patient,Friday
+Main Campus - East,Dr. Robinson,Optometry,400647,02/27/2026,8:30,AM,Office Visit,Friday
+Asheville,Dr. Martin,Cornea,400648,02/27/2026,10:00,AM,Minor Room,Friday
+Statesville,Dr. Williams,Glaucoma,400649,02/27/2026,9:45,AM,Return Neuro,Friday
+Raleigh,Dr. Williams,Oculoplastics,400650,02/27/2026,15:00,PM,Complete Eye Exam,Friday
+Page Road Eye Center,Dr. Taylor,Optometry,400651,02/27/2026,12:00,PM,Complete Eye Exam,Friday
+Main Campus - South,Dr. Smith,Pediatric Ophthalmology,400652,02/27/2026,16:45,PM,New Cornea,Friday
+Main Campus - East,Dr. Thompson,Pediatric Ophthalmology,400653,02/27/2026,7:00,AM,Evaluation,Friday
+Raleigh,Dr. Miller,Cornea,400654,02/27/2026,13:45,PM,Return Long,Friday
+Statesville,Dr. Martin,Retina,400655,02/27/2026,7:15,AM,Office Visit,Friday
