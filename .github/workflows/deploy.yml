@@ -17,6 +17,7 @@ jobs:
           username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script_stop: true
+          command_timeout: 10m
           script: |
             set -e
             APP_DIR="/home/optimize/optimizeFlow"
@@ -43,12 +44,12 @@ jobs:
             # Build and deploy with Docker Compose
             echo "Building and deploying..."
             cd "$APP_DIR"
-            docker compose -f docker-compose.prod.yml down
-            docker compose -f docker-compose.prod.yml up --build -d
+            docker compose -f docker-compose.prod.yml down --remove-orphans || true
+            docker compose -f docker-compose.prod.yml up --build --force-recreate -d
 
             # Wait for health check
             echo "Waiting for services to be healthy..."
-            sleep 10
+            sleep 15
 
             # Check container status
             docker compose -f docker-compose.prod.yml ps
