@@ -17,10 +17,8 @@ export function Layout() {
         <TopBar onMenuToggle={() => setSidebarOpen(!sidebarOpen)} />
 
         {/* Page Content */}
-        <main className="flex-1 overflow-y-auto">
-          <div className="m-4 bg-white rounded-xl shadow-[0_1px_3px_0_rgba(0,0,0,0.04),0_1px_2px_-1px_rgba(0,0,0,0.03)] min-h-[calc(100%-2rem)]">
-            <Outlet />
-          </div>
+        <main className="flex-1 overflow-y-auto bg-white">
+          <Outlet />
         </main>
       </div>
     </div>

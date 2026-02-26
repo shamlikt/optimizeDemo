@@ -1,9 +1,8 @@
-import { useState, useEffect } from 'react';
+import { useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import {
   LayoutDashboard,
   BarChart3,
-  Database,
   Table,
   Upload,
   Sliders,
@@ -11,7 +10,6 @@ import {
   Users,
   Bell,
   Settings,
-  ChevronDown,
   LogOut,
   X,
 } from 'lucide-react';
@@ -33,47 +31,37 @@ const mainNavItems: NavItem[] = [
   { path: '/reports', label: 'Reports', icon: <BarChart3 size={20} strokeWidth={1.8} /> },
 ];
 
-const dataManagementItems: NavItem[] = [
+const dataItems: NavItem[] = [
   { path: '/data-entry', label: 'Data Entry', icon: <Table size={20} strokeWidth={1.8} /> },
   { path: '/upload', label: 'Upload File', icon: <Upload size={20} strokeWidth={1.8} /> },
   { path: '/point-mapping', label: 'Point Mapping', icon: <Sliders size={20} strokeWidth={1.8} /> },
 ];
 
-const secondaryNavItems: NavItem[] = [
+const adminItems: NavItem[] = [
   { path: '/locations', label: 'Locations', icon: <MapPin size={20} strokeWidth={1.8} /> },
-  { path: '/employees', label: 'Employees', icon: <Users size={20} strokeWidth={1.8} /> },
+  { path: '/employees', label: 'Users', icon: <Users size={20} strokeWidth={1.8} /> },
   { path: '/announcements', label: 'Announcements', icon: <Bell size={20} strokeWidth={1.8} /> },
 ];
 
 export function Sidebar({ isOpen, onClose }: SidebarProps) {
   const location = useLocation();
   const { user, logout } = useAuth();
-  const [dataOpen, setDataOpen] = useState(false);
 
   const isActive = (path: string) => location.pathname === path;
-  const isDataSection = location.pathname === '/data-entry' || location.pathname === '/upload' || location.pathname === '/point-mapping';
-
-  // Auto-expand Data Management if a child route is active
-  useEffect(() => {
-    if (isDataSection) {
-      setDataOpen(true);
-    }
-  }, [isDataSection]);
 
   // Close mobile sidebar on route change
   useEffect(() => {
     onClose();
-  }, [location.pathname]);  // eslint-disable-line react-hooks/exhaustive-deps
+  }, [location.pathname]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  const renderNavItem = (item: NavItem, indent = false) => {
+  const renderNavItem = (item: NavItem) => {
     const active = isActive(item.path);
     return (
       <Link
         key={item.path}
         to={item.path}
         className={`
-          flex items-center gap-3 h-[40px] rounded-lg text-[14px] font-medium relative
-          ${indent ? 'pl-11 pr-3' : 'px-3'}
+          flex items-center gap-3 h-[40px] rounded-lg text-[14px] font-medium relative px-3
           ${
             active
               ? 'bg-[#EEF2FF] text-[#4F46E5]'
@@ -92,10 +80,16 @@ export function Sidebar({ isOpen, onClose }: SidebarProps) {
     );
   };
 
+  const sectionLabel = (label: string) => (
+    <p className="px-3 pt-4 pb-1 text-[11px] font-semibold text-[#94A3B8] uppercase tracking-wider">
+      {label}
+    </p>
+  );
+
   const sidebarContent = (
     <div className="flex flex-col h-full">
       {/* Logo + Brand */}
-      <div className="flex items-center justify-between px-4 h-[60px] shrink-0 mb-6">
+      <div className="flex items-center justify-between px-4 h-[60px] shrink-0">
         <Link to="/dashboard" className="flex items-center gap-2.5">
           <div className="w-9 h-9 rounded-full bg-[#0891B2] flex items-center justify-center">
             <svg
@@ -146,60 +140,18 @@ export function Sidebar({ isOpen, onClose }: SidebarProps) {
       </div>
 
       {/* Navigation */}
-      <nav className="flex-1 overflow-y-auto px-3 py-4 space-y-1">
-        {/* Main items */}
-        {mainNavItems.map((item) => renderNavItem(item))}
+      <nav className="flex-1 overflow-y-auto px-3 pt-4 space-y-1">
+        {mainNavItems.map(renderNavItem)}
 
-        {/* Data Management - collapsible */}
-        <div>
-          <button
-            onClick={() => setDataOpen(!dataOpen)}
-            className={`
-              flex items-center justify-between w-full h-[40px] px-3 rounded-lg text-[14px] font-medium
-              ${
-                isDataSection && !dataOpen
-                  ? 'bg-[#EEF2FF] text-[#4F46E5]'
-                  : 'text-[#475569] hover:bg-[#F8FAFC] hover:text-[#1E293B]'
-              }
-            `}
-          >
-            <div className="flex items-center gap-3">
-              <span className={isDataSection ? 'text-[#4F46E5]' : 'text-[#94A3B8]'}>
-                <Database size={20} strokeWidth={1.8} />
-              </span>
-              Data Management
-            </div>
-            <ChevronDown
-              size={16}
-              strokeWidth={1.8}
-              className={`text-[#94A3B8] transition-transform duration-200 ${
-                dataOpen ? 'rotate-180' : ''
-              }`}
-            />
-          </button>
+        {sectionLabel('Data')}
+        {dataItems.map(renderNavItem)}
 
-          {/* Collapsible children with left border connector */}
-          <div
-            className={`overflow-hidden transition-all duration-200 ${
-              dataOpen ? 'max-h-[250px] opacity-100 mt-1' : 'max-h-0 opacity-0'
-            }`}
-          >
-            <div className="ml-[22px] border-l-2 border-[#F3F4F6] space-y-1 pl-0">
-              {dataManagementItems.map((item) => renderNavItem(item, true))}
-            </div>
-          </div>
-        </div>
-
-        {/* Divider */}
-        <div className="h-px bg-[#F3F4F6] my-2" />
-
-        {/* Secondary items */}
-        {secondaryNavItems.map((item) => renderNavItem(item))}
+        {sectionLabel('Admin')}
+        {adminItems.map(renderNavItem)}
       </nav>
 
       {/* Bottom section: Settings + User */}
       <div className="shrink-0 border-t border-[#F3F4F6] px-3 py-3 space-y-1">
-        {/* Settings */}
         <Link
           to="/settings"
           className={`
