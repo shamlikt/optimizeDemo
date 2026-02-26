@@ -47,11 +47,15 @@ jobs:
             docker compose -f docker-compose.prod.yml down --remove-orphans || true
             docker compose -f docker-compose.prod.yml up --build --force-recreate -d
 
-            # Wait for health check
+            # Wait for health check (extra time for Caddy TLS cert provisioning)
             echo "Waiting for services to be healthy..."
-            sleep 15
+            sleep 30
 
             # Check container status
             docker compose -f docker-compose.prod.yml ps
+
+            # Verify Caddy TLS status
+            echo "Caddy logs:"
+            docker logs optimizeflow-caddy --tail 20
 
             echo "Deployment complete!"
